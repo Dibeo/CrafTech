@@ -1,0 +1,170 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "immersive"
+	group: ""
+	icon: {
+		Count: 1
+		id: "immersiveengineering:hammer"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "1E0CE33BC1FAE98F"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "7D7EEBD7B3A6267E"
+			tasks: [
+				{
+					id: "3D8CBBB0E836AD4A"
+					item: {
+						Count: 1
+						id: "immersiveengineering:hammer"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "20668F0CCC47ED7C"
+					item: "immersiveengineering:manual"
+					type: "item"
+				}
+			]
+			x: -4.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["7D7EEBD7B3A6267E"]
+			id: "0D6776978089DF4B"
+			tasks: [{
+				count: 27L
+				id: "4667F9C9AF083756"
+				item: { Count: 27, id: "immersiveengineering:cokebrick" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["0D6776978089DF4B"]
+			description: ["You can use the coal coke to power the blast furnace it is quite efficient."]
+			id: "1B717393F1BFF9AF"
+			tasks: [
+				{
+					count: 4L
+					id: "202A45445DBA5D9C"
+					item: "immersiveengineering:coal_coke"
+					type: "item"
+				}
+				{
+					id: "1C912E4BBBF0D3AE"
+					item: "immersiveengineering:creosote_bucket"
+					type: "item"
+				}
+			]
+			x: -2.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["7D7EEBD7B3A6267E"]
+			description: ["You put iron and either charcoal (less efficient) or coal coke to fire it up."]
+			id: "65974759E3A23B45"
+			tasks: [{
+				count: 27L
+				id: "457018BB40178064"
+				item: { Count: 27, id: "immersiveengineering:blastbrick" }
+				type: "item"
+			}]
+			title: "Blast Furnace"
+			x: -3.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["0D6776978089DF4B"]
+			description: ["I don't know for you but I like this wood for building."]
+			id: "410D44413207982A"
+			tasks: [{
+				count: 8L
+				id: "50BF3AC86916E9F1"
+				item: { Count: 8, id: "immersiveengineering:treated_wood_horizontal" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["65974759E3A23B45"]
+			id: "55322D9D43D7FCC6"
+			tasks: [
+				{
+					id: "5CBF4F1EAB6BC32C"
+					item: "immersiveengineering:ingot_steel"
+					type: "item"
+				}
+				{
+					id: "7022525D6D033561"
+					item: "immersiveengineering:slag"
+					type: "item"
+				}
+			]
+			x: -2.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["65974759E3A23B45"]
+			id: "5DD051CD863C6807"
+			tasks: [
+				{
+					count: 18L
+					id: "5F0E5AA855EA48A3"
+					item: { Count: 18, id: "immersiveengineering:blastbrick_reinforced" }
+					type: "item"
+				}
+				{
+					count: 9L
+					id: "06B5DC9EC03ED8C0"
+					item: { Count: 9, id: "immersiveengineering:sheetmetal_steel" }
+					type: "item"
+				}
+				{
+					id: "5C6A51565E489065"
+					item: "minecraft:hopper"
+					type: "item"
+				}
+			]
+			title: "Improved Blast Furnace"
+			x: -2.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["5DD051CD863C6807"]
+			description: ["Put them on each side of the improved blast furnace to make it faster, you will need to send RF in those."]
+			id: "37376D376AC3BBCD"
+			tasks: [{
+				count: 2L
+				id: "141E2DD81406E85B"
+				item: { Count: 2, id: "immersiveengineering:blastfurnace_preheater" }
+				type: "item"
+			}]
+			title: "Blast Furnace PreHeater"
+			x: -0.5d
+			y: 2.5d
+		}
+		{
+			description: ["With this block you can use energy to power a furnace (only work on vanilla furnace), place it behind a furnace and hook it up to a powerline."]
+			id: "138EF1576EC53935"
+			tasks: [{
+				id: "54DDB27E7B5E0C8E"
+				item: "immersiveengineering:furnace_heater"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.5d
+		}
+	]
+	title: "Immersive"
+}

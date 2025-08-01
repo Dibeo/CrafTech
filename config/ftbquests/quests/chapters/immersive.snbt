@@ -11,7 +11,7 @@
 		}
 	}
 	id: "1E0CE33BC1FAE98F"
-	order_index: 2
+	order_index: 3
 	quest_links: [ ]
 	quests: [
 		{
@@ -34,11 +34,16 @@
 					type: "item"
 				}
 			]
-			x: -4.5d
-			y: 0.5d
+			x: -6.0d
+			y: 1.5d
 		}
 		{
 			dependencies: ["7D7EEBD7B3A6267E"]
+			description: [
+				"Place all of your block in a 3 by 3 by 3 cube and right click with the hammer on the face you want to be the front."
+				""
+				"{image:ftbquests:textures/quests/coke_oven.png width:100 height:100 align:center}"
+			]
 			id: "0D6776978089DF4B"
 			tasks: [{
 				count: 27L
@@ -66,8 +71,8 @@
 					type: "item"
 				}
 			]
-			x: -2.5d
-			y: -1.5d
+			x: -3.5d
+			y: -2.5d
 		}
 		{
 			dependencies: ["7D7EEBD7B3A6267E"]
@@ -93,8 +98,8 @@
 				item: { Count: 8, id: "immersiveengineering:treated_wood_horizontal" }
 				type: "item"
 			}]
-			x: -3.5d
-			y: -2.5d
+			x: -2.5d
+			y: -1.5d
 		}
 		{
 			dependencies: ["65974759E3A23B45"]
@@ -155,6 +160,7 @@
 			y: 2.5d
 		}
 		{
+			dependencies: ["410D44413207982A"]
 			description: ["With this block you can use energy to power a furnace (only work on vanilla furnace), place it behind a furnace and hook it up to a powerline."]
 			id: "138EF1576EC53935"
 			tasks: [{
@@ -162,8 +168,354 @@
 				item: "immersiveengineering:furnace_heater"
 				type: "item"
 			}]
+			x: -2.5d
+			y: -3.5d
+		}
+		{
+			dependencies: [
+				"05BAD870F9E699CD"
+				"7388AA99585F1A06"
+			]
+			id: "46B195D23CF72113"
+			tasks: [{
+				id: "5FEB6F0E5AE068EA"
+				item: "immersiveengineering:dynamo"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"55322D9D43D7FCC6"
+				"410D44413207982A"
+			]
+			description: [
+				"This is the most optimised way as it will produce the most energy in this config (3 waterwheels)."
+				"{image:ftbquests:textures/quests/waterwheel.png width:100 height:100 align:center}"
+			]
+			id: "05BAD870F9E699CD"
+			tasks: [{
+				count: 3L
+				id: "5759290CF655651B"
+				item: { Count: 3, id: "immersiveengineering:watermill" }
+				type: "item"
+			}]
 			x: -1.0d
-			y: 0.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["410D44413207982A"]
+			description: ["{image:ftbquests:textures/quests/windmill.png width:100 height:100 align:center}"]
+			id: "7388AA99585F1A06"
+			tasks: [{
+				id: "3CEEB53B96E1AF42"
+				item: "immersiveengineering:windmill"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"48D607D043F01D79"
+				"7E6C2528C56F8544"
+			]
+			id: "6E7251F56E046567"
+			tasks: [{
+				id: "3333FB3C4D0C5938"
+				item: "immersiveengineering:capacitor_hv"
+				type: "item"
+			}]
+			x: 8.0d
+			y: -3.5d
+		}
+		{
+			dependencies: [
+				"0E25BF2E123EAA07"
+				"71B1187338E64A18"
+			]
+			id: "48D607D043F01D79"
+			tasks: [{
+				id: "7E1E77F4FCD7F7FA"
+				item: "immersiveengineering:capacitor_mv"
+				type: "item"
+			}]
+			x: 6.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["7CCCE0F4786C0143"]
+			id: "0E25BF2E123EAA07"
+			tasks: [{
+				id: "238D4218C945FCFA"
+				item: "immersiveengineering:capacitor_lv"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["46B195D23CF72113"]
+			description: ["With this you can only transport a little bit of energy, caution it stings."]
+			id: "7CCCE0F4786C0143"
+			tasks: [
+				{
+					id: "0D34DEE847D0E07A"
+					item: "immersiveengineering:wirecoil_copper"
+					type: "item"
+				}
+				{
+					id: "24B83C4BF0BB7A07"
+					item: "immersiveengineering:connector_lv"
+					type: "item"
+				}
+				{
+					id: "386236AFDA932093"
+					item: "immersiveengineering:connector_lv_relay"
+					type: "item"
+				}
+			]
+			title: "LV Connection"
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["7CCCE0F4786C0143"]
+			description: ["Those cable will hurt you too."]
+			id: "71B1187338E64A18"
+			tasks: [
+				{
+					id: "0E6065DF4088C9FE"
+					item: "immersiveengineering:wirecoil_electrum"
+					type: "item"
+				}
+				{
+					id: "4B590A340872D3EF"
+					item: "immersiveengineering:connector_mv"
+					type: "item"
+				}
+				{
+					id: "7C882FDCB67104A9"
+					item: "immersiveengineering:connector_mv_relay"
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["71B1187338E64A18"]
+			description: ["Sadly this version is a lot stronger, but can't be insulated."]
+			id: "7E6C2528C56F8544"
+			tasks: [
+				{
+					id: "2319547E01133124"
+					item: "immersiveengineering:wirecoil_steel"
+					type: "item"
+				}
+				{
+					id: "5B447B4ECE7E6DA1"
+					item: "immersiveengineering:connector_hv"
+					type: "item"
+				}
+				{
+					id: "5388A1684E9D8736"
+					item: "immersiveengineering:connector_hv_relay"
+					type: "item"
+				}
+			]
+			x: 7.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["7CCCE0F4786C0143"]
+			description: ["Insulated cable do not deal any damage, useful isn't it."]
+			id: "34F5E8AFE4709A1E"
+			optional: true
+			subtitle: "This one is fine."
+			tasks: [{
+				id: "2B87D0A227575D82"
+				item: "immersiveengineering:wirecoil_copper_ins"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["71B1187338E64A18"]
+			id: "5573E209075CFEC5"
+			optional: true
+			subtitle: "This one is fine too."
+			tasks: [{
+				id: "5C6E4DAF4DC3D832"
+				item: "immersiveengineering:wirecoil_electrum_ins"
+				type: "item"
+			}]
+			x: 4.0d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"7CCCE0F4786C0143"
+				"71B1187338E64A18"
+			]
+			description: ["Take LV current and transform it to MV ( function both ways)"]
+			id: "16673523FAA08078"
+			optional: true
+			subtitle: "From LV to MV"
+			tasks: [{
+				id: "22D1F59CFA0EE020"
+				item: "immersiveengineering:transformer"
+				type: "item"
+			}]
+			x: 4.0d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"71B1187338E64A18"
+				"7E6C2528C56F8544"
+				"16673523FAA08078"
+			]
+			description: ["Same than before but took MV to convert to HV."]
+			id: "004E798007D2A126"
+			optional: true
+			subtitle: "From MV to HV"
+			tasks: [{
+				id: "7181BF0AB2ACB3E7"
+				item: "immersiveengineering:transformer_hv"
+				type: "item"
+			}]
+			x: 6.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["7CCCE0F4786C0143"]
+			description: ["This armor can help you not taking damage to any wire."]
+			id: "16B23AC14DBADE8D"
+			tasks: [
+				{
+					id: "37563765C6A22816"
+					item: {
+						Count: 1
+						id: "immersiveengineering:armor_faraday_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "01A047D470DCB223"
+					item: {
+						Count: 1
+						id: "immersiveengineering:armor_faraday_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "70C0E79FB9682EF4"
+					item: {
+						Count: 1
+						id: "immersiveengineering:armor_faraday_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2FC1A15AF8F589A6"
+					item: {
+						Count: 1
+						id: "immersiveengineering:armor_faraday_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Faraday Armor"
+			x: 2.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["7388AA99585F1A06"]
+			description: [
+				"Right click the center of the mill, to apply the sail and improve energy generation."
+				""
+				"{image:ftbquests:textures/quests/windmillupgrade.png width:100 height:100 align:center}"
+			]
+			id: "08CEA2F40ADBD124"
+			tasks: [{
+				count: 8L
+				id: "5FA4713A7BD5F408"
+				item: { Count: 8, id: "immersiveengineering:windmill_sail" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["7D7EEBD7B3A6267E"]
+			description: [
+				"With this block you will be able to ake your first alloy ingot."
+				"{image:ftbquests:textures/quests/alloykiln.png width:100 height:100 align:center}"
+			]
+			id: "7B5DBF6AB32C565C"
+			tasks: [{
+				count: 8L
+				id: "3BD3D11A9C929AF2"
+				item: { Count: 8, id: "immersiveengineering:alloybrick" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 4.0d
+		}
+		{
+			description: ["With this multiblock you will be able to make your plate, gear, rods and wire for cheaper and or easier."]
+			id: "31B09AF23630500B"
+			tasks: [
+				{
+					id: "1A66437A0369EE5E"
+					title: "Press"
+					type: "checkmark"
+				}
+				{
+					id: "74562BA67FA2FB77"
+					item: "immersiveengineering:rs_engineering"
+					type: "item"
+				}
+				{
+					id: "5A351EC285A0E8DE"
+					item: "immersiveengineering:heavy_engineering"
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "7B6792EC8C917BD5"
+					item: { Count: 2, id: "immersiveengineering:steel_scaffolding_standard" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "106E64D2C70984A2"
+					item: { Count: 2, id: "immersiveengineering:conveyor_basic" }
+					type: "item"
+				}
+				{
+					id: "2BBA7A8282F06AA0"
+					item: "minecraft:piston"
+					type: "item"
+				}
+			]
+			x: -0.5d
+			y: 1.0d
 		}
 	]
 	title: "Immersive"

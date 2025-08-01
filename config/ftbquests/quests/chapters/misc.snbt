@@ -1,0 +1,157 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "misc"
+	group: ""
+	id: "43E63BAC7520E29C"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["In this page there is the thing that have to few quests to have there own page but are there because you will need most of them."]
+			id: "38E6B13D891682F0"
+			tasks: [{
+				id: "4066588B9ED1BBE4"
+				title: "Miscellanous"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["38E6B13D891682F0"]
+			description: ["You will need a lot more than that but it is the least you will need."]
+			id: "387EB339E577197C"
+			tasks: [{
+				count: 32L
+				id: "7A20D8130A7F781D"
+				item: { Count: 32, id: "fluxnetworks:flux_dust" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["387EB339E577197C"]
+			id: "54DEAB12E93B2791"
+			tasks: [
+				{
+					id: "64DF72B49B11F9C3"
+					item: "fluxnetworks:flux_plug"
+					type: "item"
+				}
+				{
+					id: "012E7054E67D5CB3"
+					item: "fluxnetworks:flux_point"
+					type: "item"
+				}
+			]
+			title: "Basics"
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["54DEAB12E93B2791"]
+			id: "6574A2B0C7A5C0EB"
+			tasks: [{
+				id: "1D8558992FE9793A"
+				item: "fluxnetworks:flux_controller"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["54DEAB12E93B2791"]
+			description: ["This is a basic storage if you think you need it."]
+			id: "19BE5CFA1D2AD470"
+			tasks: [{
+				id: "4C0AF8D404F9D4CE"
+				item: "fluxnetworks:basic_flux_storage"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["38E6B13D891682F0"]
+			id: "53ABBFD806E6A392"
+			tasks: [
+				{
+					id: "36C21681D4396C08"
+					item: "enderstorage:ender_chest"
+					type: "item"
+				}
+				{
+					id: "6CC95C7A6E3B8AB4"
+					item: "enderstorage:ender_tank"
+					type: "item"
+				}
+				{
+					id: "4195FB2CD39C4324"
+					item: "enderstorage:ender_pouch"
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["38E6B13D891682F0"]
+			id: "0BC5DCB5AA8FBADD"
+			tasks: [
+				{
+					id: "681A04B0D3249314"
+					item: {
+						Count: 1
+						id: "entangled:block"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					id: "27B46A90673AE46D"
+					item: "entangled:item"
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["38E6B13D891682F0"]
+			id: "2DD2B15DA3E980A1"
+			tasks: [
+				{
+					id: "1B6A4F36E0281A62"
+					item: "pipez:energy_pipe"
+					type: "item"
+				}
+				{
+					id: "659CDCD36FACCEF2"
+					item: "pipez:fluid_pipe"
+					type: "item"
+				}
+				{
+					id: "0E9A37908D8EA9ED"
+					item: "pipez:item_pipe"
+					type: "item"
+				}
+				{
+					id: "63D253F73A9601B9"
+					item: "pipez:gas_pipe"
+					type: "item"
+				}
+				{
+					id: "4067C357C716FDA7"
+					item: "pipez:wrench"
+					type: "item"
+				}
+			]
+			title: "Pipez"
+			x: 2.5d
+			y: -2.5d
+		}
+	]
+	title: "Misc"
+}

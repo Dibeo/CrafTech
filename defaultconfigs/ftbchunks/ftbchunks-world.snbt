@@ -1,4 +1,9 @@
 # Default config file that will be copied to saves\New World\serverconfig\ftbchunks-world.snbt if it doesn't exist!
 # Just copy any values you wish to override in here!
 
-{ }
+{
+	max_claim_chunks: 500
+	max_force_load_chunks: 10
+	chunks: { }
+}
+

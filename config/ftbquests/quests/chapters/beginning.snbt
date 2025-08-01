@@ -64,6 +64,42 @@
 			x: 1.0d
 			y: 0.0d
 		}
+		{
+			dependencies: ["72D0AF9A0A01ACAD"]
+			description: ["Put your multiblock in one chunk if possible."]
+			id: "2039D65F94C166D7"
+			tasks: [{
+				id: "7B53AFDE439F1EFB"
+				title: "Chunck based machine"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["0415554933FEB27E"]
+			description: ["You have a veinmine mod so make sure you configured the key."]
+			id: "72D0AF9A0A01ACAD"
+			tasks: [{
+				id: "4E3DC1EC9CC27E25"
+				title: "VeinMine"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["2039D65F94C166D7"]
+			description: ["If you found a village you should keep it as you will probably need to trade with villagers."]
+			id: "329EB55789DE977C"
+			tasks: [{
+				id: "079F678ACABE4DC9"
+				title: "Villagers"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: 1.5d
+		}
 	]
 	title: "Beginning"
 }

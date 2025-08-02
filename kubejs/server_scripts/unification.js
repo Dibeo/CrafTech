@@ -86,11 +86,41 @@ ServerEvents.recipes((event) => {
     event.remove({ id: x });
   });
 
-  event.remove({input : "pneumaticcraft:ethanol_bucket"})
-  event.replaceInput({}, "#forge:ethanol", "immersiveengineering:ethanol")
-  event.replaceOutput({}, "#forge:ethanol", "immersiveengineering:ethanol")
+  event.remove({ input: "pneumaticcraft:ethanol_bucket" });
+  event.replaceInput({}, "#forge:ethanol", "immersiveengineering:ethanol");
+  event.replaceOutput({}, "#forge:ethanol", "immersiveengineering:ethanol");
 
-  event.remove({input : "pneumaticcraft:ethanol_bucket"})
-  event.replaceInput({}, "#forge:plantoil", "immersiveengineering:plantoil")
-  event.replaceOutput({}, "#forge:plantoil", "immersiveengineering:plantoil")
+  event.remove({ input: "pneumaticcraft:ethanol_bucket" });
+  event.replaceInput({}, "#forge:plantoil", "immersiveengineering:plantoil");
+  event.replaceOutput({}, "#forge:plantoil", "immersiveengineering:plantoil");
+
+  event.remove({ input: "pneumaticcraft:biodiesel" });
+  event.replaceInput({}, "#forge:biodiesel", "immersiveengineering:biodiesel");
+  event.replaceOutput({}, "#forge:biodiesel", "immersiveengineering:biodiesel");
+
+  event.remove({ id : "pneumaticcraft:fluid_mixer/biodiesel"})
+  event.remove({ output : "pneumaticcraft:ethanol_bucket"})
+
+  event.custom({
+    type: "pneumaticcraft:fluid_mixer",
+    fluid_output: {
+      amount: 50,
+      fluid: "immersiveengineering:biodiesel",
+    },
+    input1: {
+      type: "pneumaticcraft:fluid",
+      amount: 25,
+      fluid: "immersiveengineering:plantoil",
+    },
+    input2: {
+      type: "pneumaticcraft:fluid",
+      amount: 25,
+      fluid: "immersiveengineering:ethanol",
+    },
+    item_output: {
+      item: "pneumaticcraft:glycerol",
+    },
+    pressure: 2.0,
+    time: 300,
+  });
 });

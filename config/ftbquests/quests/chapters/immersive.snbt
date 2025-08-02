@@ -156,8 +156,8 @@
 				type: "item"
 			}]
 			title: "Blast Furnace PreHeater"
-			x: -0.5d
-			y: 2.5d
+			x: -2.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["410D44413207982A"]
@@ -478,15 +478,10 @@
 			y: 4.0d
 		}
 		{
-			dependencies: ["65974759E3A23B45"]
+			dependencies: ["55322D9D43D7FCC6"]
 			description: ["With this multiblock you will be able to make your plate, gear, rods and wire for cheaper and or easier."]
 			id: "31B09AF23630500B"
 			tasks: [
-				{
-					id: "1A66437A0369EE5E"
-					title: "Press"
-					type: "checkmark"
-				}
 				{
 					id: "74562BA67FA2FB77"
 					item: "immersiveengineering:rs_engineering"
@@ -514,9 +509,13 @@
 					item: "minecraft:piston"
 					type: "item"
 				}
+				{
+					id: "03ECBB5E7B537D64"
+					type: "checkmark"
+				}
 			]
-			x: -0.5d
-			y: 1.0d
+			x: 1.5d
+			y: 2.0d
 		}
 		{
 			dependencies: ["7CCCE0F4786C0143"]
@@ -529,6 +528,53 @@
 			}]
 			x: 0.5d
 			y: -2.5d
+		}
+		{
+			dependencies: ["55322D9D43D7FCC6"]
+			id: "091068A4B9ECC30D"
+			tasks: [
+				{
+					id: "5918835E9D856A70"
+					item: "immersiveengineering:fluid_pump"
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "727024CF4374B799"
+					item: { Count: 2, id: "immersiveengineering:light_engineering" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "5692FB7643F59D49"
+					item: { Count: 3, id: "immersiveengineering:conveyor_basic" }
+					type: "item"
+				}
+				{
+					id: "11A532FC971F85F7"
+					item: "immersiveengineering:rs_engineering"
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "6DEAEEC3B121C9C3"
+					item: { Count: 3, id: "immersiveengineering:steel_scaffolding_standard" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "33DE9F8056D824CE"
+					item: { Count: 2, id: "immersiveengineering:sheetmetal_iron" }
+					type: "item"
+				}
+				{
+					id: "74600618E40FE374"
+					type: "checkmark"
+				}
+			]
+			title: "Bottling Machine"
+			x: 0.5d
+			y: 3.5d
 		}
 	]
 	title: "Immersive"

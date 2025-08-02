@@ -25,6 +25,7 @@
 				tag: { }
 			}
 			id: "0E934816F5673484"
+			optional: true
 			rewards: [{
 				id: "4A006AD6292DBEE4"
 				item: {
@@ -51,6 +52,7 @@
 				tag: { }
 			}
 			id: "2D5E6CE665036CE0"
+			optional: true
 			rewards: [{
 				id: "7FB18B704F6F011C"
 				item: {
@@ -73,6 +75,7 @@
 		{
 			icon: "comforts:sleeping_bag_white"
 			id: "7529F3C8A1980D9C"
+			optional: true
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "2573A0803A242F62"
@@ -97,6 +100,7 @@
 				tag: { }
 			}
 			id: "5BC567C4FEF938B7"
+			optional: true
 			rewards: [{
 				id: "43B1167993F69AF3"
 				item: {
@@ -124,6 +128,7 @@
 				tag: { }
 			}
 			id: "66A6AD331C28632D"
+			optional: true
 			rewards: [{
 				id: "0AF9FB37B6BAC2A5"
 				item: {
@@ -147,6 +152,7 @@
 			description: ["You can use it to track your latest death point, but in this case it's more if you to craft one of the two other compass for a little less."]
 			icon: "minecraft:recovery_compass"
 			id: "59B6D407FD7C2435"
+			optional: true
 			rewards: [{
 				id: "7A737184AC816DC9"
 				item: "minecraft:recovery_compass"
@@ -170,6 +176,7 @@
 				tag: { }
 			}
 			id: "0A11F23ACDE4FB28"
+			optional: true
 			rewards: [{
 				id: "0205F7EBC382A896"
 				item: {
@@ -196,6 +203,7 @@
 				tag: { }
 			}
 			id: "1F0ECB597E63484B"
+			optional: true
 			rewards: [{
 				id: "546747747DA771E7"
 				item: {
@@ -218,6 +226,7 @@
 		{
 			icon: "toolbelt:pouch"
 			id: "27BCB6A0C968A9F9"
+			optional: true
 			rewards: [{
 				id: "421CE6E1A1CAF8DA"
 				item: "toolbelt:pouch"
@@ -236,6 +245,7 @@
 		{
 			icon: "comforts:hammock_white"
 			id: "0116A2DC836EE47E"
+			optional: true
 			rewards: [
 				{
 					count: 2
@@ -271,6 +281,7 @@
 				}
 			}
 			id: "6176F8C12EB9087A"
+			optional: true
 			rewards: [{
 				id: "44E68D2A969F46C2"
 				item: {
@@ -303,6 +314,7 @@
 				}
 			}
 			id: "16F6C5B87C3069C4"
+			optional: true
 			rewards: [{
 				id: "729644E00D9B6940"
 				item: {
@@ -335,6 +347,7 @@
 				}
 			}
 			id: "4C05B544857E9F1A"
+			optional: true
 			rewards: [{
 				id: "342D14E626F4DD42"
 				item: {
@@ -366,6 +379,7 @@
 				}
 			}
 			id: "131602CA995F85D6"
+			optional: true
 			rewards: [{
 				id: "191824C17B0BC689"
 				item: {
@@ -390,15 +404,16 @@
 		{
 			icon: "chunkloaders:single_chunk_loader"
 			id: "6A95DCCFAD9DD99A"
+			optional: true
 			rewards: [{
 				id: "0B3EEDB621F010DE"
 				item: "chunkloaders:single_chunk_loader"
 				type: "item"
 			}]
 			tasks: [{
-				count: 32L
+				count: 48L
 				id: "6F49D9E9C3C38D08"
-				item: { Count: 32, id: "kubejs:coin" }
+				item: "kubejs:coin"
 				type: "item"
 			}]
 			title: "Single Chunk Loader"
@@ -408,6 +423,7 @@
 		{
 			icon: "immersiveengineering:earmuffs"
 			id: "55F8D62E775E3E04"
+			optional: true
 			rewards: [{
 				id: "5B1D2A88EC620D42"
 				item: "immersiveengineering:earmuffs"
@@ -434,6 +450,7 @@
 				}
 			}
 			id: "3ACAAB4D6BF9068C"
+			optional: true
 			rewards: [{
 				id: "4AF55875D55FE5BA"
 				item: {
@@ -482,6 +499,7 @@
 				}
 			}
 			id: "7EA320D153B2315E"
+			optional: true
 			rewards: [{
 				id: "564C6A999A3B1D38"
 				item: {
@@ -533,6 +551,7 @@
 				}
 			}
 			id: "5DDC4032A9ED7D92"
+			optional: true
 			rewards: [{
 				id: "3202DE2E4A6418D5"
 				item: {
@@ -567,6 +586,24 @@
 			title: "Quite a good hook"
 			x: 1.5d
 			y: 3.0d
+		}
+		{
+			id: "2CDD49D009012AB8"
+			optional: true
+			rewards: [{
+				count: 8
+				id: "38C39D4532DF9724"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			shape: "octagon"
+			tasks: [{
+				id: "06ABAA0E295102E2"
+				item: "kubejs:coin_gem"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -3.0d
 		}
 	]
 	title: "Market"

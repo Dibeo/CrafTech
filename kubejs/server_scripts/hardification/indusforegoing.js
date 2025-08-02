@@ -17,5 +17,7 @@ ServerEvents.recipes((event) => {
     "pneumaticcraft:smart_chest"
   );
 
-  event.remove([{ type: "minecraft:crafting", output: "#forge:gears" }]);
+  ["iron", "gold", "diamond"].forEach((x) => {
+    event.remove([{ id: `industrialforegoing:${x}_gear` }]);
+  });
 });

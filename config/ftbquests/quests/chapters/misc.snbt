@@ -118,40 +118,6 @@
 			x: 2.0d
 			y: -0.5d
 		}
-		{
-			dependencies: ["38E6B13D891682F0"]
-			id: "2DD2B15DA3E980A1"
-			tasks: [
-				{
-					id: "1B6A4F36E0281A62"
-					item: "pipez:energy_pipe"
-					type: "item"
-				}
-				{
-					id: "659CDCD36FACCEF2"
-					item: "pipez:fluid_pipe"
-					type: "item"
-				}
-				{
-					id: "0E9A37908D8EA9ED"
-					item: "pipez:item_pipe"
-					type: "item"
-				}
-				{
-					id: "63D253F73A9601B9"
-					item: "pipez:gas_pipe"
-					type: "item"
-				}
-				{
-					id: "4067C357C716FDA7"
-					item: "pipez:wrench"
-					type: "item"
-				}
-			]
-			title: "Pipez"
-			x: 2.5d
-			y: -2.5d
-		}
 	]
 	title: "Misc"
 }

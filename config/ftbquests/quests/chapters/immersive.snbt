@@ -478,6 +478,7 @@
 			y: 4.0d
 		}
 		{
+			dependencies: ["65974759E3A23B45"]
 			description: ["With this multiblock you will be able to make your plate, gear, rods and wire for cheaper and or easier."]
 			id: "31B09AF23630500B"
 			tasks: [
@@ -516,6 +517,18 @@
 			]
 			x: -0.5d
 			y: 1.0d
+		}
+		{
+			dependencies: ["7CCCE0F4786C0143"]
+			description: ["This lantern when connected with LV power will emit light like a glowstone block, and will prevent mob spawning in a 32 block radius."]
+			id: "1668F987BFFCA4DD"
+			tasks: [{
+				id: "509E38F7347F6FAB"
+				item: "immersiveengineering:electric_lantern"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -2.5d
 		}
 	]
 	title: "Immersive"

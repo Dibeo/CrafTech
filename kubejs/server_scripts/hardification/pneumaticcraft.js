@@ -16,4 +16,10 @@ ServerEvents.recipes((event) => {
     "#forge:gems/diamond",
     "#forge:plates/diamond"
   );
+
+  event.replaceInput(
+    { mod: "pneumaticcraft" },
+    "#forge:chest/wooden",
+    "ironchest:obsidian_chest"
+  );
 });

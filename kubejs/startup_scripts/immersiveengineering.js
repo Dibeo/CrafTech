@@ -10,4 +10,10 @@ StartupEvents.registry("item", (event) => {
     .texture("immersiveengineering:item/metal_plate_netherite")
     .tag("forge:plates")
     .tag("forge:plates/netherite");
+
+    event
+    .create("blaze_plate")
+    .texture("immersiveengineering:item/metal_plate_blaze")
+    .tag("forge:plates")
+    .tag("forge:plates/blaze");
 });

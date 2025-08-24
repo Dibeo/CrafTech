@@ -65,6 +65,7 @@ ServerEvents.recipes((event) => {
     },
   });
 
+  event.remove({id : "immersiveengineering:metalpress/plate_osmium"})
   event.custom({
     type: "immersiveengineering:metal_press",
     energy: 4800,

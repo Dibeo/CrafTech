@@ -69,6 +69,18 @@ ServerEvents.recipes((event) => {
     type: "immersiveengineering:metal_press",
     energy: 4800,
     input: {
+      tag: "forge:ingots/osmium",
+    },
+    mold: "immersiveengineering:mold_plate",
+    result: {
+      tag: "forge:plates/osmium",
+    },
+  });
+
+  event.custom({
+    type: "immersiveengineering:metal_press",
+    energy: 4800,
+    input: {
       base_ingredient: {
         tag: "forge:rods/blaze",
       },

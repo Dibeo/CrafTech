@@ -16,4 +16,10 @@ StartupEvents.registry("item", (event) => {
     .texture("immersiveengineering:item/metal_plate_blaze")
     .tag("forge:plates")
     .tag("forge:plates/blaze");
+
+    event
+    .create("osmium_plate")
+    .texture("immersiveengineering:item/metal_plate_osmium")
+    .tag("forge:plates")
+    .tag("forge:plates/osmium");
 });

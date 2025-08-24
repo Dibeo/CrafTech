@@ -8,6 +8,8 @@
 /patchouli_books/
 /resourcepacks/
 /saves/
+/screenshots/
+/shaderpacks/
 
 .curseclient
 minecraftinstance.json

@@ -36,6 +36,12 @@ ServerEvents.recipes((event) => {
   );
 
   event.replaceInput(
+    { output: "minecraft:piston" },
+    "#forge:cobblestone",
+    "pneumaticcraft:compressed_stone"
+  );
+
+  event.replaceInput(
     { output: "immersiveengineering:capacitor_mv" },
     "#forge:ingots/steel",
     "immersiveengineering:capacitor_lv"

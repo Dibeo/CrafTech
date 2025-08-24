@@ -402,25 +402,6 @@
 			y: 0.0d
 		}
 		{
-			icon: "chunkloaders:single_chunk_loader"
-			id: "6A95DCCFAD9DD99A"
-			optional: true
-			rewards: [{
-				id: "0B3EEDB621F010DE"
-				item: "chunkloaders:single_chunk_loader"
-				type: "item"
-			}]
-			tasks: [{
-				count: 48L
-				id: "6F49D9E9C3C38D08"
-				item: "kubejs:coin"
-				type: "item"
-			}]
-			title: "Single Chunk Loader"
-			x: 0.0d
-			y: 2.0d
-		}
-		{
 			icon: "immersiveengineering:earmuffs"
 			id: "55F8D62E775E3E04"
 			optional: true
@@ -604,6 +585,29 @@
 			}]
 			x: 0.5d
 			y: -3.0d
+		}
+		{
+			id: "6C317D8CF6485C79"
+			rewards: [{
+				id: "20035C4BB931FE7C"
+				item: {
+					Count: 1
+					id: "immersiveengineering:glider"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Let's plane"
+			tasks: [{
+				count: 16L
+				id: "053914E87A8F6395"
+				item: { Count: 16, id: "kubejs:coin" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
 		}
 	]
 	title: "Market"

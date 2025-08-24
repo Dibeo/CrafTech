@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "pneumaticcraft"
+	group: ""
+	id: "2A86935ADC1385B1"
+	order_index: 4
+	quest_links: [ ]
+	quests: [ ]
+	title: "Pneumaticcraft"
+}

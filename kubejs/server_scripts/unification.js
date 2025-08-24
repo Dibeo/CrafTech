@@ -1,5 +1,4 @@
 ServerEvents.recipes((event) => {
-  event.remove({ id: "minecraft:piston" });
 
   function fermenter(input, output, outamount) {
     event.custom({
@@ -98,8 +97,8 @@ ServerEvents.recipes((event) => {
   event.replaceInput({}, "#forge:biodiesel", "immersiveengineering:biodiesel");
   event.replaceOutput({}, "#forge:biodiesel", "immersiveengineering:biodiesel");
 
-  event.remove({ id : "pneumaticcraft:fluid_mixer/biodiesel"})
-  event.remove({ output : "pneumaticcraft:ethanol_bucket"})
+  event.remove({ id: "pneumaticcraft:fluid_mixer/biodiesel" });
+  event.remove({ output: "pneumaticcraft:ethanol_bucket" });
 
   event.custom({
     type: "pneumaticcraft:fluid_mixer",

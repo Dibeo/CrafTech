@@ -118,6 +118,63 @@
 			x: 2.0d
 			y: -0.5d
 		}
+		{
+			dependencies: ["38E6B13D891682F0"]
+			id: "59E5227ADE5D0962"
+			tasks: [{
+				id: "6B0CA50ED0EC0F05"
+				item: {
+					Count: 1
+					id: "itemfilters:or"
+					tag: {
+						items: [
+							{
+								Count: 1b
+								id: "simplemagnets:basicmagnet"
+								tag: { }
+							}
+							{
+								Count: 1b
+								id: "simplemagnets:advancedmagnet"
+								tag: { }
+							}
+						]
+					}
+				}
+				title: "magnet"
+				type: "item"
+			}]
+			title: "Magnet"
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["59E5227ADE5D0962"]
+			id: "03434F5815BA9876"
+			tasks: [{
+				id: "63567FB7E6D84AA8"
+				item: {
+					Count: 1
+					id: "itemfilters:or"
+					tag: {
+						items: [
+							{
+								Count: 1b
+								id: "simplemagnets:advanced_demagnetization_coil"
+							}
+							{
+								Count: 1b
+								id: "simplemagnets:basic_demagnetization_coil"
+							}
+						]
+					}
+				}
+				title: "Unmagnet ?"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -1.0d
+		}
 	]
 	title: "Misc"
 }

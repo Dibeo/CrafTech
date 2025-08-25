@@ -20,8 +20,8 @@
 				item: { Count: 8, id: "pneumaticcraft:ingot_iron_compressed" }
 				type: "item"
 			}]
-			x: -4.0d
-			y: 0.0d
+			x: -4.5d
+			y: 1.0d
 		}
 		{
 			id: "40928BF816A5FA83"
@@ -40,6 +40,43 @@
 			title: "Pneumatic Door"
 			x: -2.0d
 			y: -1.0d
+		}
+		{
+			id: "12F723052D050290"
+			tasks: [
+				{
+					id: "54AE3B5614CDAC1E"
+					item: "pneumaticcraft:elevator_base"
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "0176FA1F6CC47055"
+					item: { Count: 2, id: "pneumaticcraft:elevator_caller" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "03C74A7F81479DAB"
+					item: { Count: 16, id: "pneumaticcraft:elevator_frame" }
+					type: "item"
+				}
+			]
+			title: "Elevator"
+			x: -0.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["4EAEF836CC6D4386"]
+			id: "22ECC58AAADC256E"
+			tasks: [{
+				count: 8L
+				id: "673855F0BE9FCA76"
+				item: { Count: 8, id: "pneumaticcraft:pressure_tube" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 1.0d
 		}
 	]
 	title: "Pneumaticcraft"

@@ -17,6 +17,23 @@ ServerEvents.recipes((event) => {
     )
     .outputFluid("kubejs:liquid_antimatter");
 
+  event.recipes.industrialforegoing
+    .dissolution_chamber(
+      [
+        "#forge:glass/purple",
+        "#forge:gems/nether",
+        "#forge:glass/purple",
+        "#forge:gems/dimensional",
+        "#forge:gems/compressed_emerald",
+        "#forge:glass/purple",
+        "#forge:gems/coin",
+        "#forge:glass/purple",
+      ], // input items
+      "industrialforegoing:biofuel", // input fluid
+      "#forge:gems/empty_creative", // output item
+      5000 // time
+    )
+
   event.custom({
     type: "immersiveengineering:bottling_machine",
     fluid: {
@@ -47,11 +64,17 @@ ServerEvents.recipes((event) => {
     ["ae2:fluid_storage_cell_256k", "ae2:creative_fluid_cell"],
     ["ae2:dense_energy_cell", "ae2:creative_energy_cell"],
     ["modularrouters:puller_module_2", "modularrouters:creative_module"],
-    ["immersiveengineering:capacitor_hv", "immersiveengineering:capacitor_creative"],
+    [
+      "immersiveengineering:capacitor_hv",
+      "immersiveengineering:capacitor_creative",
+    ],
     ["mekanism:ultimate_fluid_tank", "mekanism:creative_fluid_tank"],
     ["mekanism:ultimate_chemical_tank", "mekanism:creative_chemical_tank"],
     ["mekanism:ultimate_bin", "mekanism:creative_bin"],
-    ["mekanism:ultimate_energy_cube",'mekanism:creative_energy_cube{mekData:{EnergyContainers:[{Container:0b,stored:"1000000"}]}}'] //does not work
+    [
+      "mekanism:ultimate_energy_cube",
+      'mekanism:creative_energy_cube{mekData:{EnergyContainers:[{Container:0b,stored:"1000000"}]}}',
+    ], //does not work
   ];
 
   recipes.forEach(([input, output]) => {

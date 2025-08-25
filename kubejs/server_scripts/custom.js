@@ -81,4 +81,21 @@ ServerEvents.recipes((event) => {
     ],
     time: 1200,
   });
+
+  event.custom({
+    type: "pneumaticcraft:pressure_chamber",
+    inputs: [
+      {
+        type: "pneumaticcraft:stacked_item",
+        count: 4,
+        item: "minecraft:snow_block",
+      },
+    ],
+    pressure: 1.5,
+    results: [
+      {
+        item: "minecraft:ice",
+      },
+    ],
+  });
 });

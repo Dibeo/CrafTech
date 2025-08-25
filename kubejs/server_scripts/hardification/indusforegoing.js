@@ -20,4 +20,16 @@ ServerEvents.recipes((event) => {
   ["iron", "gold", "diamond"].forEach((x) => {
     event.remove([{ id: `industrialforegoing:${x}_gear` }]);
   });
+
+    event.replaceInput(
+    { mod: "industrialforegoing" },
+    "#forge:cobblestone",
+    "#pneumaticcraft:compressed_stone"
+  );
+
+  event.replaceInput(
+    { mod: "industrialforegoing" },
+    "#forge:dusts/redstone",
+    "pneumaticcraft:transistor"
+  );
 });

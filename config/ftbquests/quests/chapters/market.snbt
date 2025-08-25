@@ -402,26 +402,6 @@
 			y: 0.0d
 		}
 		{
-			icon: "immersiveengineering:earmuffs"
-			id: "55F8D62E775E3E04"
-			optional: true
-			rewards: [{
-				id: "5B1D2A88EC620D42"
-				item: "immersiveengineering:earmuffs"
-				type: "item"
-			}]
-			subtitle: "Might be useful"
-			tasks: [{
-				count: 16L
-				id: "0AAC49AEDA933407"
-				item: { Count: 16, id: "kubejs:coin" }
-				type: "item"
-			}]
-			title: "Ear Defenders"
-			x: 1.0d
-			y: 2.0d
-		}
-		{
 			description: ["At one point you will be able to disenchant things, it might be intersting."]
 			icon: {
 				Count: 1
@@ -615,6 +595,37 @@
 			}]
 			title: "Collapsible Glider"
 			x: 0.0d
+			y: 2.0d
+		}
+		{
+			id: "724BA7F4E744F9D4"
+			optional: true
+			rewards: [
+				{
+					command: "/ftbchunks admin extra_force_load_chunks @p add 1"
+					elevate_perms: true
+					id: "1D253B124FB34F1E"
+					silent: true
+					team_reward: false
+					type: "command"
+				}
+				{
+					command: "/ftbchunks admin extra_claim_chunks @p add 1"
+					elevate_perms: true
+					id: "72353504D895EB85"
+					silent: true
+					team_reward: false
+					type: "command"
+				}
+			]
+			tasks: [{
+				count: 8L
+				id: "4DE4C3A99899CF8B"
+				item: { Count: 8, id: "kubejs:coin" }
+				type: "item"
+			}]
+			title: "Chunkload"
+			x: 1.0d
 			y: 2.0d
 		}
 	]

@@ -38,6 +38,15 @@ StartupEvents.registry("item", (event) => {
     .tag("forge:gems")
     .tag("forge:gems/coin");
 
+    event
+    .create("compressed_emerald_gem")
+    .texture("kubejs:item/compressed_emerald_gem")
+    .glow(true)
+    .rarity("rare")
+    .fireResistant(true)
+    .tag("forge:gems")
+    .tag("forge:gems/compressed_emerald");
+
   event
     .create("creative_gem")
     .texture("kubejs:item/creative_gem")

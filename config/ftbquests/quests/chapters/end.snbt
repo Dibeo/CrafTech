@@ -108,6 +108,7 @@
 				"31616EA6CD41C35D"
 				"0F8CAC21BEA6308A"
 				"36264013367FF81C"
+				"185F0A6DA3CE2BE5"
 			]
 			id: "0982E89E576999DE"
 			tasks: [{
@@ -254,6 +255,16 @@
 			}]
 			x: -3.5d
 			y: 4.5d
+		}
+		{
+			id: "185F0A6DA3CE2BE5"
+			tasks: [{
+				id: "332C73E4654B3221"
+				item: "kubejs:compressed_emerald_gem"
+				type: "item"
+			}]
+			x: -2.5d
+			y: -6.5d
 		}
 	]
 	title: "END !!!!"

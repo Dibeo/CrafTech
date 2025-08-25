@@ -176,11 +176,7 @@
 		}
 		{
 			dependencies: ["2039D65F94C166D7"]
-			description: [
-				"This is a tech modpack so for the chunkloader you should use the dimensional stabilizer of mekanism."
-				""
-				"Note : I did not test this block for loading lot of chunks (my base for this pack is at the time 26 chunks the sole problem I have noted till now is that if there is no power you may have to reload the dimensional stabilizer for it to properly function again, but that does not happen every time)."
-			]
+			description: ["This is a tech modpack so for the chunkloader you will either have to craft the dimensional stabilizer of mekanism or just buy them in the market."]
 			id: "7544D64DBD1D137B"
 			tasks: [{
 				id: "6EFE42697C149158"

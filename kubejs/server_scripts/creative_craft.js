@@ -51,6 +51,7 @@ ServerEvents.recipes((event) => {
     ["mekanism:ultimate_fluid_tank", "mekanism:creative_fluid_tank"],
     ["mekanism:ultimate_chemical_tank", "mekanism:creative_chemical_tank"],
     ["mekanism:ultimate_bin", "mekanism:creative_bin"],
+    ["mekanism:ultimate_energy_cube",'mekanism:creative_energy_cube{mekData:{EnergyContainers:[{Container:0b,stored:"1000000"}]}}'] //does not work
   ];
 
   recipes.forEach(([input, output]) => {

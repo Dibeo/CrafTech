@@ -88,13 +88,38 @@ ServerEvents.recipes((event) => {
       {
         type: "pneumaticcraft:stacked_item",
         count: 4,
-        item: "minecraft:snow_block",
+        item: "minecraft:emerald_block",
+      },
+      {
+        type: "pneumaticcraft:stacked_item",
+        count: 1,
+        item: "industrialforegoing:laser_lens5",
+      },
+      {
+        type: "pneumaticcraft:stacked_item",
+        count: 4,
+        item: "minecraft:slime_block",
+      },
+      {
+        type: "pneumaticcraft:stacked_item",
+        count: 4,
+        item: "pneumaticcraft:plastic_brick_lime",
+      },
+      {
+        type: "pneumaticcraft:stacked_item",
+        count: 1,
+        item: "pneumaticcraft:module_expansion_card",
+      },
+      {
+        type: "pneumaticcraft:stacked_item",
+        count: 4,
+        item: "immersiveengineering:insulating_glass",
       },
     ],
-    pressure: 1.5,
+    pressure: 6,
     results: [
       {
-        item: "minecraft:ice",
+        item: "kubejs:compressed_emerald_gem",
       },
     ],
   });

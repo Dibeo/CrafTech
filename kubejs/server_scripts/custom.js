@@ -15,20 +15,6 @@ ServerEvents.recipes((event) => {
     1000 // time
   );
 
-  event.shaped(
-    Item.of("#forge:gems/coin", 1), // arg 1: output
-    [
-      "BRB",
-      "ENE", // arg 2: the shape (array of strings)
-      "B A",
-    ],
-    {
-      A: "minecraft:andesite",
-      B: "minecraft:diorite", //arg 3: the mapping object
-      C: "minecraft:granite",
-    }
-  );
-
   event.custom({
     type: "immersiveengineering:metal_press",
     energy: 4800,

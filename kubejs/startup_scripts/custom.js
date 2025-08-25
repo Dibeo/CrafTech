@@ -22,7 +22,7 @@ StartupEvents.registry("item", (event) => {
     .tag("forge:gems")
     .tag("forge:gems/nether");
 
-    event
+  event
     .create("raw_nether_gem")
     .texture("kubejs:item/raw_nether_gem")
     .rarity("uncommon")
@@ -37,4 +37,20 @@ StartupEvents.registry("item", (event) => {
     .fireResistant(true)
     .tag("forge:gems")
     .tag("forge:gems/coin");
+
+  event
+    .create("creative_gem")
+    .texture("kubejs:item/creative_gem")
+    .glow(true)
+    .rarity("supreme")
+    .fireResistant(true)
+    .tag("forge:gems")
+    .tag("forge:gems/creative");
+
+  event
+    .create("empty_creative_gem")
+    .texture("kubejs:item/empty_creative_gem")
+    .rarity("uncommon")
+    .tag("forge:gems")
+    .tag("forge:gems/empty_creative");
 });

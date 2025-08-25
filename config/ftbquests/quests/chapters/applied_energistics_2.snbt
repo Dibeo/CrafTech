@@ -3,9 +3,66 @@
 	default_quest_shape: ""
 	filename: "applied_energistics_2"
 	group: ""
+	icon: "ae2:controller"
 	id: "13604AACA44F76EB"
 	order_index: 6
 	quest_links: [ ]
-	quests: [ ]
+	quests: [
+		{
+			id: "44D856C076BA01B9"
+			tasks: [{
+				id: "28E9CF83D8763DC9"
+				item: "ae2:charger"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"44D856C076BA01B9"
+				"2C5FF113807E20DD"
+			]
+			description: ["You can get this by putting a fluid extractor next to a certus crystal block instead of a log."]
+			id: "10CC4F7AA60496E7"
+			tasks: [{
+				id: "0EC1B72D50329DD0"
+				item: "kubejs:liquid_certus_quartz_bucket"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["44D856C076BA01B9"]
+			id: "2A6FF29E51F29442"
+			tasks: [{
+				count: 8L
+				id: "588E80CBAC85CE3E"
+				item: { Count: 8, id: "ae2:charged_certus_quartz_crystal" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["10CC4F7AA60496E7"]
+			id: "2C45D02725E57D7C"
+			tasks: [
+				{
+					id: "7456548BCBF879DF"
+					item: "ae2:certus_quartz_crystal"
+					type: "item"
+				}
+				{
+					id: "186898971D9DF087"
+					item: "minecraft:water_bucket"
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -1.5d
+		}
+	]
 	title: "Applied Energistics 2"
 }

@@ -5,6 +5,80 @@
 	group: ""
 	icon: "minecraft:grass_block"
 	id: "57547FD7C99B376E"
+	images: [
+		{
+			height: 1.0d
+			image: "pneumaticcraft:item/pressure_gauge"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "immersiveengineering:item/tool_hammer"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "ae2:block/controller_inside_a_powered"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "ae2:block/controller_lights"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "industrialforegoing:item/rubber"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:item/alloy_infused"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: 5.0d
+		}
+		{
+			height: 4.0d
+			image: "ae2:textures/gui/sprites/guide/inscriber_arrows_bg.png"
+			rotation: 90.0d
+			width: 2.0d
+			x: 5.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "guideme:textures/gui/sprites/recipe_arrow.png"
+			rotation: 90.0d
+			width: 2.0d
+			x: 5.5d
+			y: 3.5d
+		}
+		{
+			height: 4.0d
+			image: "ae2:textures/gui/sprites/guide/inscriber_arrows_bg.png"
+			rotation: -90.0d
+			width: 2.0d
+			x: 5.5d
+			y: -2.5d
+		}
+	]
 	order_index: 0
 	quest_links: [ ]
 	quests: [
@@ -99,6 +173,22 @@
 			}]
 			x: -1.0d
 			y: 1.5d
+		}
+		{
+			dependencies: ["2039D65F94C166D7"]
+			description: [
+				"This is a tech modpack so for the chunkloader you should use the dimensional stabilizer of mekanism."
+				""
+				"Note : I did not test this block for loading lot of chunks (my base for this pack is at the time 26 chunks the sole problem I have noted till now is that if there is no power you may have to reload the dimensional stabilizer for it to properly function again, but that does not happen every time)."
+			]
+			id: "7544D64DBD1D137B"
+			tasks: [{
+				id: "6EFE42697C149158"
+				title: "Chunkload"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: 3.5d
 		}
 	]
 	title: "Beginning"

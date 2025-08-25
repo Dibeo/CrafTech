@@ -6,6 +6,21 @@
 	id: "2A86935ADC1385B1"
 	order_index: 4
 	quest_links: [ ]
-	quests: [ ]
+	quests: [{
+		description: [
+			"Just take some iron, drop it next to a tnt, BOOM, compressed iron, easy ?"
+			""
+			"{image:pneumaticcraft:textures/patchouli/compressed_iron.png width:100 height:100 align:center}"
+		]
+		id: "4EAEF836CC6D4386"
+		tasks: [{
+			count: 8L
+			id: "23006D8B352182A4"
+			item: { Count: 8, id: "pneumaticcraft:ingot_iron_compressed" }
+			type: "item"
+		}]
+		x: -4.0d
+		y: 0.0d
+	}]
 	title: "Pneumaticcraft"
 }

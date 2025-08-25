@@ -587,6 +587,13 @@
 			y: -3.0d
 		}
 		{
+			icon: {
+				Count: 1
+				id: "immersiveengineering:glider"
+				tag: {
+					Damage: 0
+				}
+			}
 			id: "6C317D8CF6485C79"
 			rewards: [{
 				id: "20035C4BB931FE7C"
@@ -606,6 +613,7 @@
 				item: { Count: 16, id: "kubejs:coin" }
 				type: "item"
 			}]
+			title: "Collapsible Glider"
 			x: 0.0d
 			y: 2.0d
 		}

@@ -6,6 +6,15 @@
 	id: "2F3EE191DD4A2188"
 	order_index: 7
 	quest_links: [ ]
-	quests: [ ]
+	quests: [{
+		id: "73D3DFE3291BA8C3"
+		tasks: [{
+			id: "215F6004AF7389DE"
+			item: "mekanism:metallurgic_infuser"
+			type: "item"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
 	title: "Mekanism"
 }

@@ -479,7 +479,11 @@
 		}
 		{
 			dependencies: ["55322D9D43D7FCC6"]
-			description: ["With this multiblock you will be able to make your plate, gear, rods and wire for cheaper and or easier."]
+			description: [
+				"With this multiblock you will be able to make your plate, gear, rods and wire for cheaper and or easier."
+				""
+				"Some plates are made with materials that are just to hard to be made with just a hammer."
+			]
 			id: "31B09AF23630500B"
 			tasks: [
 				{

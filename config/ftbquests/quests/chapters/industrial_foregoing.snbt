@@ -3,9 +3,44 @@
 	default_quest_shape: ""
 	filename: "industrial_foregoing"
 	group: ""
+	icon: "industrialforegoing:plastic"
 	id: "7D97FF783345173F"
 	order_index: 5
 	quest_links: [ ]
-	quests: [ ]
+	quests: [
+		{
+			description: ["Put the face with blade (the animated one) next to a log and voila, power it to get more fluid."]
+			id: "2C5FF113807E20DD"
+			tasks: [{
+				id: "33CE6D9089BBF3FF"
+				item: "industrialforegoing:fluid_extractor"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2C5FF113807E20DD"]
+			id: "4D35C0AA2D831E40"
+			tasks: [{
+				id: "669ED78A3D0EDE96"
+				item: "industrialforegoing:latex_bucket"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4D35C0AA2D831E40"]
+			id: "6E727AF178E73696"
+			tasks: [{
+				id: "00E3D8A3EB9D2B9F"
+				item: "industrialforegoing:latex_processing_unit"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+	]
 	title: "Industrial Foregoing"
 }

@@ -24,8 +24,8 @@
 				item: "kubejs:nether_gem"
 				type: "item"
 			}]
-			x: -6.0d
-			y: -4.0d
+			x: -5.5d
+			y: -5.0d
 		}
 		{
 			id: "36264013367FF81C"
@@ -34,7 +34,22 @@
 				item: "kubejs:coin_gem"
 				type: "item"
 			}]
-			x: -1.0d
+			x: -1.5d
+			y: -5.0d
+		}
+		{
+			dependencies: [
+				"0F8CAC21BEA6308A"
+				"31616EA6CD41C35D"
+				"36264013367FF81C"
+			]
+			id: "78B7F8B30830EAEB"
+			tasks: [{
+				id: "65A41819D53AADA1"
+				item: "kubejs:creative_gem"
+				type: "item"
+			}]
+			x: -3.5d
 			y: -4.0d
 		}
 	]

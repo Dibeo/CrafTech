@@ -9,6 +9,7 @@
 	quest_links: [ ]
 	quests: [
 		{
+			dependencies: ["2CE2EA918E2DE76A"]
 			description: ["Put the face with blade (the animated one) next to a log and voila, power it to get more fluid."]
 			id: "2C5FF113807E20DD"
 			tasks: [{
@@ -16,8 +17,8 @@
 				item: "industrialforegoing:fluid_extractor"
 				type: "item"
 			}]
-			x: 0.0d
-			y: 0.0d
+			x: -5.5d
+			y: -5.0d
 		}
 		{
 			dependencies: ["2C5FF113807E20DD"]
@@ -27,19 +28,165 @@
 				item: "industrialforegoing:latex_bucket"
 				type: "item"
 			}]
-			x: 2.5d
-			y: 0.0d
+			x: -7.0d
+			y: -4.0d
 		}
 		{
-			dependencies: ["4D35C0AA2D831E40"]
+			dependencies: ["2CE2EA918E2DE76A"]
 			id: "6E727AF178E73696"
 			tasks: [{
 				id: "00E3D8A3EB9D2B9F"
 				item: "industrialforegoing:latex_processing_unit"
 				type: "item"
 			}]
-			x: 5.0d
+			x: -5.5d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"2CE2EA918E2DE76A"
+				"7EB76536468B0AA4"
+			]
+			description: ["You will need sludge in the future probably not a lot but at least some."]
+			id: "73779E43DC09FFE1"
+			tasks: [{
+				id: "657E2A4C5DB1A1FC"
+				item: "industrialforegoing:plant_gatherer"
+				type: "item"
+			}]
+			x: -2.0d
 			y: 0.0d
+		}
+		{
+			dependencies: ["4EAEF836CC6D4386"]
+			id: "2CE2EA918E2DE76A"
+			size: 2.0d
+			tasks: [{
+				id: "60AB47A94D256E24"
+				item: "industrialforegoing:machine_frame_pity"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"2CE2EA918E2DE76A"
+				"7EB76536468B0AA4"
+				"0016D8BAC7D58B57"
+			]
+			id: "241CFE3F1D98707E"
+			size: 2.0d
+			tasks: [{
+				id: "1172486C151EA07B"
+				item: "industrialforegoing:machine_frame_simple"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["241CFE3F1D98707E"]
+			id: "6BFF79382D42FEAB"
+			size: 2.0d
+			tasks: [{
+				id: "7643F4202C3E9C01"
+				item: "industrialforegoing:machine_frame_advanced"
+				type: "item"
+			}]
+			x: 6.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["6BFF79382D42FEAB"]
+			id: "3CF0954E55F3C827"
+			size: 2.0d
+			tasks: [{
+				id: "5221D3898E94FF0D"
+				item: "industrialforegoing:machine_frame_supreme"
+				type: "item"
+			}]
+			x: 10.0d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"6E727AF178E73696"
+				"4D35C0AA2D831E40"
+			]
+			id: "07BFAE8EF130AAFF"
+			tasks: [{
+				id: "66E258BD4C182ED6"
+				item: "industrialforegoing:tinydryrubber"
+				type: "item"
+			}]
+			x: -7.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["07BFAE8EF130AAFF"]
+			id: "71F3FF420E443E67"
+			tasks: [{
+				id: "31FD1FFBBF184D82"
+				item: "industrialforegoing:dryrubber"
+				type: "item"
+			}]
+			x: -9.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["71F3FF420E443E67"]
+			id: "7EB76536468B0AA4"
+			tasks: [{
+				id: "62C2261402352F21"
+				item: "industrialforegoing:plastic"
+				type: "item"
+			}]
+			x: -5.5d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"7EB76536468B0AA4"
+				"2CE2EA918E2DE76A"
+			]
+			id: "098C53E5E69D2C86"
+			tasks: [{
+				id: "5469C2F5A72E6156"
+				item: "industrialforegoing:sewer"
+				type: "item"
+			}]
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"2CE2EA918E2DE76A"
+				"7EB76536468B0AA4"
+			]
+			id: "0016D8BAC7D58B57"
+			tasks: [{
+				id: "7D2A5E554B3539C2"
+				item: "industrialforegoing:dissolution_chamber"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"2CE2EA918E2DE76A"
+				"7EB76536468B0AA4"
+			]
+			description: ["Useful for automation."]
+			id: "1AF708252B0FE055"
+			tasks: [{
+				id: "6B7F52039249DF31"
+				item: "industrialforegoing:block_breaker"
+				type: "item"
+			}]
+			x: -3.5d
+			y: -5.5d
 		}
 	]
 	title: "Industrial Foregoing"

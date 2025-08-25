@@ -44,6 +44,21 @@ ServerEvents.recipes((event) => {
     },
   });
 
+  event.custom({
+    type: "immersiveengineering:metal_press",
+    energy: 4800,
+    input: {
+      base_ingredient: {
+        tag: "forge:gems/lapis",
+      },
+      count: 4,
+    },
+    mold: "immersiveengineering:mold_gear",
+    result: {
+      tag: "forge:gears/lapis",
+    },
+  });
+
   event.shaped(Item.of("#forge:gems/coin", 1), ["PGP", "EAE", "PLP"], {
     A: "minecraft:enchanted_golden_apple",
     E: "#forge:gears/emerald",

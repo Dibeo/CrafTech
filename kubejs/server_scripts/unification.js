@@ -1,5 +1,4 @@
 ServerEvents.recipes((event) => {
-
   function fermenter(input, output, outamount) {
     event.custom({
       type: "immersiveengineering:fermenter",
@@ -121,5 +120,12 @@ ServerEvents.recipes((event) => {
     },
     pressure: 2.0,
     time: 300,
+  });
+
+  event.remove({ id: "minecraft:sticky_piston" });
+
+  event.shaped(Item.of("minecraft:sticky_piston", 1), ["S", "P"], {
+    S: "#forge:slimeballs",
+    P: "minecraft:piston",
   });
 });

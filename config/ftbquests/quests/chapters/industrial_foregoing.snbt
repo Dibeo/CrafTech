@@ -192,6 +192,163 @@
 			x: -3.5d
 			y: -5.5d
 		}
+		{
+			dependencies: ["2CE2EA918E2DE76A"]
+			id: "0E38D9D896BFE9AD"
+			tasks: [{
+				id: "36A666A859913EF0"
+				item: "industrialforegoing:common_black_hole_tank"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -10.0d
+		}
+		{
+			dependencies: [
+				"0E38D9D896BFE9AD"
+				"2CE2EA918E2DE76A"
+			]
+			id: "0A68942898E44D43"
+			tasks: [{
+				id: "5F460B8EB55607FD"
+				item: "industrialforegoing:pity_black_hole_tank"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -10.0d
+		}
+		{
+			dependencies: [
+				"0A68942898E44D43"
+				"241CFE3F1D98707E"
+			]
+			id: "11F5095AB63F2200"
+			tasks: [{
+				id: "6255C7009BC3C66E"
+				item: "industrialforegoing:simple_black_hole_tank"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -10.0d
+		}
+		{
+			dependencies: [
+				"11F5095AB63F2200"
+				"6BFF79382D42FEAB"
+			]
+			id: "4C86A6009A6E395A"
+			tasks: [{
+				id: "7EF4A629C640DBA0"
+				item: "industrialforegoing:advanced_black_hole_tank"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -10.0d
+		}
+		{
+			dependencies: [
+				"4C86A6009A6E395A"
+				"3CF0954E55F3C827"
+			]
+			id: "66DA82BEAF98D7FE"
+			tasks: [{
+				id: "2E961C85DF3B598C"
+				item: "industrialforegoing:supreme_black_hole_tank"
+				type: "item"
+			}]
+			x: 6.5d
+			y: -10.0d
+		}
+		{
+			dependencies: ["2CE2EA918E2DE76A"]
+			id: "1E9450980735DC78"
+			tasks: [{
+				id: "258BFE3690225283"
+				item: "industrialforegoing:common_black_hole_unit"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -8.5d
+		}
+		{
+			dependencies: [
+				"1E9450980735DC78"
+				"2CE2EA918E2DE76A"
+			]
+			id: "374B8E980902BDB6"
+			tasks: [{
+				id: "46D389A11D556275"
+				item: "industrialforegoing:pity_black_hole_unit"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -8.5d
+		}
+		{
+			dependencies: [
+				"374B8E980902BDB6"
+				"241CFE3F1D98707E"
+			]
+			id: "21226209021F945B"
+			tasks: [{
+				id: "5D56B5A9F0A3F46D"
+				item: "industrialforegoing:simple_black_hole_unit"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -8.5d
+		}
+		{
+			dependencies: [
+				"21226209021F945B"
+				"6BFF79382D42FEAB"
+			]
+			id: "59592C6A8A90E92E"
+			tasks: [{
+				id: "6A51BA07CBDCC967"
+				item: "industrialforegoing:advanced_black_hole_unit"
+				type: "item"
+			}]
+			x: 6.0d
+			y: -8.5d
+		}
+		{
+			dependencies: [
+				"59592C6A8A90E92E"
+				"3CF0954E55F3C827"
+			]
+			id: "667844BD67311F61"
+			tasks: [{
+				id: "3782A90BFCF139D0"
+				item: "industrialforegoing:supreme_black_hole_unit"
+				type: "item"
+			}]
+			x: 8.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["3CF0954E55F3C827"]
+			description: ["You can put multiple unit in this and connect it to your ae system for mass storage."]
+			id: "1BA6F9A9DD162F41"
+			tasks: [{
+				id: "317AA72443F9A05C"
+				item: "industrialforegoing:black_hole_controller"
+				type: "item"
+			}]
+			x: 9.5d
+			y: -9.5d
+		}
+		{
+			dependencies: ["2CE2EA918E2DE76A"]
+			id: "59D969C482B2B4A6"
+			tasks: [{
+				id: "40F99F1EA9498D37"
+				item: "industrialforegoing:resourceful_furnace"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -4.5d
+		}
 	]
 	title: "Industrial Foregoing"
 }

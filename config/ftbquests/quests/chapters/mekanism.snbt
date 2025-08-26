@@ -11,6 +11,12 @@
 			dependencies: ["59D969C482B2B4A6"]
 			description: ["You will need more than one of each, but i can't tell how many you will need as I don't know what your setups will look like."]
 			id: "73D3DFE3291BA8C3"
+			rewards: [{
+				count: 2
+				id: "560E6C28570CA557"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "215F6004AF7389DE"
 				item: "mekanism:metallurgic_infuser"
@@ -22,17 +28,29 @@
 		{
 			dependencies: ["73D3DFE3291BA8C3"]
 			id: "09A43F4D6A6159A1"
+			rewards: [{
+				count: 2
+				id: "6CBAD204D3E0B444"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "5DB9218DACBE4AF3"
 				item: "mekanism:enrichment_chamber"
 				type: "item"
 			}]
-			x: 2.0d
+			x: 2.5d
 			y: -1.5d
 		}
 		{
 			dependencies: ["09A43F4D6A6159A1"]
 			id: "280846B0CA444DB4"
+			rewards: [{
+				count: 2
+				id: "5F76FCF3EAA10CC4"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "43093D403CC472BF"
 				item: "mekanism:energized_smelter"
@@ -44,6 +62,12 @@
 		{
 			dependencies: ["280846B0CA444DB4"]
 			id: "1C68EF888A7E1E3A"
+			rewards: [{
+				count: 2
+				id: "592D0DFF0D9EFC26"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "6C1AF04D02A5C850"
 				item: "mekanism:crusher"
@@ -55,6 +79,12 @@
 		{
 			dependencies: ["1C68EF888A7E1E3A"]
 			id: "4729C22D483D1DC1"
+			rewards: [{
+				count: 2
+				id: "0263CC8680CCE687"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "5A656EB9C4BBEF5C"
 				item: "mekanism:precision_sawmill"
@@ -66,17 +96,29 @@
 		{
 			dependencies: ["73D3DFE3291BA8C3"]
 			id: "1C76B322C1BB7F35"
+			rewards: [{
+				count: 2
+				id: "0B6310070498678D"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "67758B3776EC9D63"
 				item: "mekanism:configurator"
 				type: "item"
 			}]
-			x: 0.5d
-			y: -2.5d
+			x: -1.5d
+			y: -0.5d
 		}
 		{
 			dependencies: ["4729C22D483D1DC1"]
 			id: "2BD97396E2032B50"
+			rewards: [{
+				count: 2
+				id: "1F3C6EAB6F734014"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [
 				{
 					count: 4L
@@ -103,6 +145,12 @@
 		{
 			dependencies: ["2BD97396E2032B50"]
 			id: "616823017F6BA244"
+			rewards: [{
+				count: 2
+				id: "58D454A0D8554E47"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "1EE7832B9222E793"
 				item: "mekanism:basic_tier_installer"
@@ -114,6 +162,12 @@
 		{
 			dependencies: ["616823017F6BA244"]
 			id: "2292BDEFC63FAE6E"
+			rewards: [{
+				count: 2
+				id: "59F677DC65D10D53"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "0F058B1EC0C14D55"
 				item: "mekanism:advanced_tier_installer"
@@ -125,28 +179,46 @@
 		{
 			dependencies: ["2292BDEFC63FAE6E"]
 			id: "60CBE2E21CB53041"
+			rewards: [{
+				count: 2
+				id: "33571D53E5E0F0BA"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "6F8A8B390C42A3BD"
 				item: "mekanism:elite_tier_installer"
 				type: "item"
 			}]
 			x: 12.0d
-			y: 1.5d
+			y: 2.0d
 		}
 		{
 			dependencies: ["60CBE2E21CB53041"]
 			id: "080BECDED52E7692"
+			rewards: [{
+				count: 2
+				id: "1AD026A865241A28"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "35782C2F3F513EAC"
 				item: "mekanism:ultimate_tier_installer"
 				type: "item"
 			}]
 			x: 12.0d
-			y: 3.0d
+			y: 3.5d
 		}
 		{
 			dependencies: ["73D3DFE3291BA8C3"]
 			id: "07337992CC94417A"
+			rewards: [{
+				count: 2
+				id: "6E7F0855700F09CF"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "601064222AE8B17D"
 				item: "mekanism:basic_pressurized_tube"
@@ -158,6 +230,12 @@
 		{
 			dependencies: ["07337992CC94417A"]
 			id: "7595AF4D113D25FE"
+			rewards: [{
+				count: 2
+				id: "31F1BBE0086C28B6"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "50A2922BC047DF7E"
 				item: "mekanism:advanced_pressurized_tube"
@@ -169,6 +247,12 @@
 		{
 			dependencies: ["7595AF4D113D25FE"]
 			id: "142FD3AD52B5E431"
+			rewards: [{
+				count: 2
+				id: "0F0E98ACDB9CA002"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "7636FE4326D97332"
 				item: "mekanism:elite_pressurized_tube"
@@ -180,6 +264,12 @@
 		{
 			dependencies: ["142FD3AD52B5E431"]
 			id: "23CB5CECBAA45762"
+			rewards: [{
+				count: 2
+				id: "75A2A9D0DAB9DCD5"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "453335124E86A303"
 				item: "mekanism:ultimate_pressurized_tube"
@@ -191,6 +281,12 @@
 		{
 			dependencies: ["73D3DFE3291BA8C3"]
 			id: "737F93A0058F5DAB"
+			rewards: [{
+				count: 2
+				id: "48F4C523070BCE98"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "4AD53A6AE03DEB5A"
 				item: "mekanism:basic_universal_cable"
@@ -202,6 +298,12 @@
 		{
 			dependencies: ["737F93A0058F5DAB"]
 			id: "42C8FE5258432CFD"
+			rewards: [{
+				count: 2
+				id: "540E69260A51E219"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "2CE8BC7601360B4D"
 				item: "mekanism:advanced_universal_cable"
@@ -213,6 +315,12 @@
 		{
 			dependencies: ["42C8FE5258432CFD"]
 			id: "264BB94CCC45FC79"
+			rewards: [{
+				count: 2
+				id: "6E72F18118901D91"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "545806D540F83370"
 				item: "mekanism:elite_universal_cable"
@@ -224,6 +332,12 @@
 		{
 			dependencies: ["264BB94CCC45FC79"]
 			id: "4BEDED97BB8F1641"
+			rewards: [{
+				count: 2
+				id: "289CEA07EC0DA6FE"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "123638CBF554E819"
 				item: "mekanism:ultimate_universal_cable"
@@ -235,6 +349,12 @@
 		{
 			dependencies: ["73D3DFE3291BA8C3"]
 			id: "227877006A8E9D64"
+			rewards: [{
+				count: 2
+				id: "6EB28D8CD9842AE7"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "211F72B4E5ADCE11"
 				item: "mekanism:basic_thermodynamic_conductor"
@@ -246,6 +366,12 @@
 		{
 			dependencies: ["1B278446CC0D4BAD"]
 			id: "4203FD25DE2B3DAB"
+			rewards: [{
+				count: 2
+				id: "774BD02A275ECA68"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "20431D20CF641FB3"
 				item: "mekanism:elite_thermodynamic_conductor"
@@ -257,6 +383,12 @@
 		{
 			dependencies: ["227877006A8E9D64"]
 			id: "1B278446CC0D4BAD"
+			rewards: [{
+				count: 2
+				id: "3865AB7100E91DCA"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "6B232200B08815C7"
 				item: "mekanism:advanced_thermodynamic_conductor"
@@ -268,6 +400,12 @@
 		{
 			dependencies: ["4203FD25DE2B3DAB"]
 			id: "57C02F469F4B1D6D"
+			rewards: [{
+				count: 2
+				id: "370A154EC0F2CF2A"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "0A6E4B5A92B8AB80"
 				item: "mekanism:ultimate_thermodynamic_conductor"
@@ -279,6 +417,12 @@
 		{
 			dependencies: ["73D3DFE3291BA8C3"]
 			id: "38C34D4A42765FEE"
+			rewards: [{
+				count: 2
+				id: "0A6A33169DE5E280"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "1C139F900BD01E7F"
 				item: "mekanism:basic_mechanical_pipe"
@@ -290,6 +434,12 @@
 		{
 			dependencies: ["38C34D4A42765FEE"]
 			id: "292C0F24447942F6"
+			rewards: [{
+				count: 2
+				id: "081083E730CB30B0"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "18F4FA458626FB71"
 				item: "mekanism:advanced_mechanical_pipe"
@@ -301,6 +451,12 @@
 		{
 			dependencies: ["292C0F24447942F6"]
 			id: "272EF0DC036B0BDE"
+			rewards: [{
+				count: 2
+				id: "02315356ED36591C"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "043DB08DE6B3654F"
 				item: "mekanism:elite_mechanical_pipe"
@@ -312,6 +468,12 @@
 		{
 			dependencies: ["272EF0DC036B0BDE"]
 			id: "1DAE9F95B5757104"
+			rewards: [{
+				count: 2
+				id: "379009A85DCE5B85"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "5F3E81803B52EA73"
 				item: "mekanism:ultimate_mechanical_pipe"
@@ -323,6 +485,12 @@
 		{
 			dependencies: ["73D3DFE3291BA8C3"]
 			id: "38F12C2C5C0292AB"
+			rewards: [{
+				count: 2
+				id: "3A31AFF1BF302FB0"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "2ABD62897FCF3688"
 				item: "mekanism:basic_logistical_transporter"
@@ -334,6 +502,12 @@
 		{
 			dependencies: ["38F12C2C5C0292AB"]
 			id: "6281136EAFEA409F"
+			rewards: [{
+				count: 2
+				id: "174392797D0E800A"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "412612B741BDE395"
 				item: "mekanism:advanced_logistical_transporter"
@@ -345,6 +519,12 @@
 		{
 			dependencies: ["6281136EAFEA409F"]
 			id: "4A95E8AD2B77576C"
+			rewards: [{
+				count: 2
+				id: "0CC8F3483BB87393"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "6FF8F99833479A48"
 				item: "mekanism:elite_logistical_transporter"
@@ -356,6 +536,12 @@
 		{
 			dependencies: ["4A95E8AD2B77576C"]
 			id: "5BD1AF037322E163"
+			rewards: [{
+				count: 2
+				id: "6A5308FA2C87C641"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "7849D1BA03E40951"
 				item: "mekanism:ultimate_logistical_transporter"
@@ -368,6 +554,12 @@
 			dependencies: ["73D3DFE3291BA8C3"]
 			hide_dependency_lines: true
 			id: "2D60344B79E7599C"
+			rewards: [{
+				count: 2
+				id: "15D6555FF35C950C"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "628042386D08A739"
 				item: {
@@ -408,6 +600,12 @@
 			dependencies: ["73D3DFE3291BA8C3"]
 			hide_dependency_lines: true
 			id: "53D09A7399EF86E0"
+			rewards: [{
+				count: 2
+				id: "1118F33FE96248DF"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "342F73B87D5CAA52"
 				item: {
@@ -448,6 +646,12 @@
 			dependencies: ["73D3DFE3291BA8C3"]
 			hide_dependency_lines: true
 			id: "22A71C1526D1999E"
+			rewards: [{
+				count: 2
+				id: "148A6112BF59F044"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "3B91F6DB783AD214"
 				item: {
@@ -502,6 +706,12 @@
 			dependencies: ["73D3DFE3291BA8C3"]
 			hide_dependency_lines: true
 			id: "3EA2AF3B8AB03C4C"
+			rewards: [{
+				count: 2
+				id: "26942399DB8D2B2C"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "57E1829F2D39C392"
 				item: {
@@ -529,6 +739,12 @@
 		{
 			dependencies: ["73D3DFE3291BA8C3"]
 			id: "039457D966EA0EEA"
+			rewards: [{
+				count: 2
+				id: "40E3E68BBB29E334"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "3D87F509E96E8039"
@@ -542,23 +758,35 @@
 				}
 			]
 			title: "Basic Generator"
-			x: 3.0d
+			x: 2.5d
 			y: 0.0d
 		}
 		{
 			dependencies: ["039457D966EA0EEA"]
 			id: "14F4E4DC3F481FF3"
+			rewards: [{
+				count: 2
+				id: "4BBA860D06692CAC"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "4BC1C69B76AFBA65"
 				item: "mekanismgenerators:wind_generator"
 				type: "item"
 			}]
-			x: 4.5d
+			x: 4.0d
 			y: 0.0d
 		}
 		{
 			dependencies: ["14F4E4DC3F481FF3"]
 			id: "6A150A9DA7BCD517"
+			rewards: [{
+				count: 2
+				id: "5C84DD703F009578"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "2F86801CF36C3C57"
 				item: "mekanismgenerators:gas_burning_generator"
@@ -570,28 +798,46 @@
 		{
 			dependencies: ["039457D966EA0EEA"]
 			id: "3ECB2C743F52189E"
+			rewards: [{
+				count: 2
+				id: "6D064948DEBD1F85"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "4813BF15495E0920"
 				item: "mekanismgenerators:solar_generator"
 				type: "item"
 			}]
-			x: 4.5d
-			y: 1.0d
+			x: 4.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["3ECB2C743F52189E"]
 			id: "4B6CD27756B09D0B"
+			rewards: [{
+				count: 2
+				id: "673DA858FB50B8A4"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "59939885E035B7C9"
 				item: "mekanismgenerators:advanced_solar_generator"
 				type: "item"
 			}]
 			x: 6.0d
-			y: 1.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["4729C22D483D1DC1"]
 			id: "7D1625140AABDEEB"
+			rewards: [{
+				count: 2
+				id: "5E0CA8318F165E4A"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [
 				{
 					count: 8L
@@ -613,13 +859,19 @@
 			dependencies: ["7D1625140AABDEEB"]
 			description: ["Les useful than the one from Industrial Foregoing as it really ine the block so if there is nothing left it will not mine anything, but It can mine specific ore or blocks"]
 			id: "066C91A242DB0C3C"
+			rewards: [{
+				count: 2
+				id: "541E328FAB06EC22"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "336344E07493EB11"
 				item: "mekanism:digital_miner"
 				type: "item"
 			}]
 			x: 8.0d
-			y: 1.5d
+			y: 2.0d
 		}
 		{
 			dependencies: ["2BD97396E2032B50"]
@@ -631,6 +883,12 @@
 				"To get Oxygen for our Purification Chamber, we'll need an Electrolytic Separator which will take water and split it into Hydrogen and Oxygen."
 			]
 			id: "025952022B3709AD"
+			rewards: [{
+				count: 2
+				id: "5A328DDF15DD7E25"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "51D99B227C88BE80"
@@ -670,6 +928,12 @@
 				"The Advanced Solar Generators on top will passively heat the plant, but you can increase the heat generation, as well as keep it hot at night, by pumping in heat from the Resistive Heater (which converts RF power to heat) or the Fuelwood Heater (which burns fuels to produce heat) through a Valve."
 			]
 			id: "371BCE4E13934EB6"
+			rewards: [{
+				count: 2
+				id: "447543FDE0EE47CB"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "5EA05F97D2296259"
@@ -697,7 +961,7 @@
 			]
 			title: "Brine"
 			x: 10.0d
-			y: 1.5d
+			y: 2.0d
 		}
 		{
 			dependencies: ["371BCE4E13934EB6"]
@@ -709,6 +973,12 @@
 				"The Hydrogen Chloride is pumped into a Chemical Injection Chamber with our ores to produce 4 ore shards per ore. These shards then go into our existing triple ore processing setup to be made into ingots."
 			]
 			id: "2AEA2DEE873BABF5"
+			rewards: [{
+				count: 2
+				id: "22901DF68F01F19C"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "7A7ED4B8A3C8D6FB"
@@ -728,7 +998,7 @@
 			]
 			title: "4x MORE !!!!"
 			x: 10.0d
-			y: 3.0d
+			y: 3.5d
 		}
 		{
 			dependencies: ["2AEA2DEE873BABF5"]
@@ -744,6 +1014,12 @@
 				"Create Water Vapor with a Rotary Condensentrator supplied with water and then combine the Sulfur Trioxide with the Water Vapor in a Chemical Infuser to produce Sulfuric Acid."
 			]
 			id: "40EDAF8AF306278C"
+			rewards: [{
+				count: 2
+				id: "27845072814C5914"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "62CB2175264249A6"
@@ -769,7 +1045,7 @@
 			]
 			title: "5x MORE !!!!!!!!!!!!!!!!!!!!"
 			x: 8.0d
-			y: 3.0d
+			y: 3.5d
 		}
 		{
 			dependencies: ["40EDAF8AF306278C"]
@@ -785,6 +1061,12 @@
 				"Congratulations, you are now making 5 ingots per ore!"
 			]
 			id: "5D31A29EB3703123"
+			rewards: [{
+				count: 2
+				id: "6CC882A7A712DBCF"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "5BA28EFED0B3E2A9"
@@ -804,7 +1086,58 @@
 			]
 			title: "Final Process"
 			x: 6.0d
-			y: 3.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["22A71C1526D1999E"]
+			description: [
+				"The Induction Matrix is a multiblock structure made up of 4 components - Casings, Ports, Providers, and Cells."
+				""
+				"The Induction Matrix can be up to 18x18x18 in size, and requires at least one provider and one cell."
+				""
+				"Induction Ports are the blocks used for input and output from the Matrix. You'll probably want at least 2 of these - one for input and one for output."
+				""
+				"Induction Cells are the blocks that actually store the energy. These are placed inside the structure and can be of any tier, even differing tiers. The capacities of all the cells are added together to determine the maximum capacity of the Matrix."
+				""
+				"Induction Providers are blocks that determine how much energy can be output from the Matrix per tick. If multiple providers are present, their transfer rates are added together to create a total output rate for the Matrix - note that this is not per port, but for the whole Matrix. Similarly to cells, you can use differing tiers of providers. Also note that it is not required that the providers be placed next to the ports."
+				""
+				"You don't need to fully fill the interior."
+				""
+				"The blocks required for this quest will build the smallest possible Matrix with a single provider and cell and 2 ports, which means it can be bigger, and you can add window to it."
+			]
+			id: "64FE256776DBFEAF"
+			rewards: [{
+				count: 2
+				id: "52F0819C04A6C765"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 36L
+					id: "5CA84B2D0F70AEF1"
+					item: { Count: 36, id: "mekanism:induction_casing" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "084B0CB0D68EC539"
+					item: { Count: 2, id: "mekanism:induction_port" }
+					type: "item"
+				}
+				{
+					id: "5F127DEA61F4CD6D"
+					item: "mekanism:basic_induction_cell"
+					type: "item"
+				}
+				{
+					id: "5BF5C04CAEE42380"
+					item: "mekanism:basic_induction_provider"
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: 7.5d
 		}
 	]
 	title: "Mekanism"

@@ -22,6 +22,12 @@
 			dependencies: ["38E6B13D891682F0"]
 			description: ["You will need a lot more than that but it is the least you will need."]
 			id: "387EB339E577197C"
+			rewards: [{
+				count: 8
+				id: "2BF2F6A42A23A753"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				count: 32L
 				id: "7A20D8130A7F781D"
@@ -34,6 +40,12 @@
 		{
 			dependencies: ["387EB339E577197C"]
 			id: "54DEAB12E93B2791"
+			rewards: [{
+				count: 8
+				id: "55C6F3AD90F079C6"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "64DF72B49B11F9C3"
@@ -53,6 +65,12 @@
 		{
 			dependencies: ["54DEAB12E93B2791"]
 			id: "6574A2B0C7A5C0EB"
+			rewards: [{
+				count: 8
+				id: "6F603CA81507A73B"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "1D8558992FE9793A"
 				item: "fluxnetworks:flux_controller"
@@ -65,6 +83,12 @@
 			dependencies: ["54DEAB12E93B2791"]
 			description: ["This is a basic storage if you think you need it."]
 			id: "19BE5CFA1D2AD470"
+			rewards: [{
+				count: 8
+				id: "467AC73CD784F922"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "4C0AF8D404F9D4CE"
 				item: "fluxnetworks:basic_flux_storage"
@@ -76,6 +100,12 @@
 		{
 			dependencies: ["38E6B13D891682F0"]
 			id: "53ABBFD806E6A392"
+			rewards: [{
+				count: 8
+				id: "651E10D941DC5C5D"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "36C21681D4396C08"
@@ -99,6 +129,12 @@
 		{
 			dependencies: ["38E6B13D891682F0"]
 			id: "0BC5DCB5AA8FBADD"
+			rewards: [{
+				count: 8
+				id: "384AF3B444EE0CEB"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "681A04B0D3249314"
@@ -121,6 +157,12 @@
 		{
 			dependencies: ["38E6B13D891682F0"]
 			id: "59E5227ADE5D0962"
+			rewards: [{
+				count: 8
+				id: "5952E7B42AD4C99F"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "6B0CA50ED0EC0F05"
 				item: {
@@ -151,6 +193,12 @@
 		{
 			dependencies: ["59E5227ADE5D0962"]
 			id: "03434F5815BA9876"
+			rewards: [{
+				count: 8
+				id: "7B6951222A47C761"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "63567FB7E6D84AA8"
 				item: {
@@ -178,6 +226,12 @@
 		{
 			dependencies: ["38E6B13D891682F0"]
 			id: "4DDBDE86709F5BC6"
+			rewards: [{
+				count: 8
+				id: "563566833220FDFD"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "1FCE30C45CC6195A"
 				item: {
@@ -228,6 +282,12 @@
 		{
 			dependencies: ["38E6B13D891682F0"]
 			id: "677D444C926143A0"
+			rewards: [{
+				count: 8
+				id: "611A2915139ACCEC"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "61FEB93F909592D2"
 				item: {

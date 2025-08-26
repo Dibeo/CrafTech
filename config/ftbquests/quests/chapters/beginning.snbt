@@ -89,6 +89,11 @@
 				"This modpack is not for beginners, even if I will try my best to explain most of the process."
 			]
 			id: "252D324EB358BCAE"
+			rewards: [{
+				id: "50008C4E32C5D9E6"
+				type: "xp"
+				xp: 100
+			}]
 			tasks: [{
 				id: "2E72AB9FEBC6B3F4"
 				title: "1."
@@ -106,6 +111,11 @@
 				"No long session of exploration."
 			]
 			id: "04E7255540408951"
+			rewards: [{
+				id: "1D74621CC785B78C"
+				type: "xp"
+				xp: 100
+			}]
 			tasks: [{
 				id: "42F65E8A670647F7"
 				title: "Tech Oriented"
@@ -118,6 +128,11 @@
 			dependencies: ["04E7255540408951"]
 			description: ["It is recommended to automate at the very least the items and ressources asked in the quest book."]
 			id: "3120DFD954F48E6B"
+			rewards: [{
+				id: "6E69F5DC259AD43A"
+				type: "xp"
+				xp: 100
+			}]
 			tasks: [{
 				id: "0CB1C5DA4CB78EA0"
 				title: "Automation"
@@ -130,6 +145,11 @@
 			dependencies: ["3120DFD954F48E6B"]
 			description: ["In this pack most quest will reward you with coin, with them you will be able to purchase items that are uncraftable or you just don't want to craft them."]
 			id: "0415554933FEB27E"
+			rewards: [{
+				id: "31727A1D426B0A02"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "4FF54B13A5E86E4C"
 				title: "Currency"
@@ -142,6 +162,11 @@
 			dependencies: ["72D0AF9A0A01ACAD"]
 			description: ["Put your multiblock in one chunk if possible."]
 			id: "2039D65F94C166D7"
+			rewards: [{
+				id: "6914EC11C452C678"
+				type: "xp"
+				xp: 100
+			}]
 			tasks: [{
 				id: "7B53AFDE439F1EFB"
 				title: "Chunck based machine"
@@ -154,6 +179,11 @@
 			dependencies: ["0415554933FEB27E"]
 			description: ["You have a veinmine mod so make sure you configured the key."]
 			id: "72D0AF9A0A01ACAD"
+			rewards: [{
+				id: "6654A21A65F838AD"
+				type: "xp"
+				xp: 100
+			}]
 			tasks: [{
 				id: "4E3DC1EC9CC27E25"
 				title: "VeinMine"
@@ -166,6 +196,11 @@
 			dependencies: ["2039D65F94C166D7"]
 			description: ["If you found a village you should keep it as you will probably need to trade with villagers."]
 			id: "329EB55789DE977C"
+			rewards: [{
+				id: "11D4C7E4DDFEB6F8"
+				type: "xp"
+				xp: 100
+			}]
 			tasks: [{
 				id: "079F678ACABE4DC9"
 				title: "Villagers"
@@ -178,6 +213,11 @@
 			dependencies: ["2039D65F94C166D7"]
 			description: ["This is a tech modpack so for the chunkloader you will either have to craft the dimensional stabilizer of mekanism or just buy them in the market."]
 			id: "7544D64DBD1D137B"
+			rewards: [{
+				id: "24C3A48905552465"
+				type: "xp"
+				xp: 100
+			}]
 			tasks: [{
 				id: "6EFE42697C149158"
 				title: "Chunkload"
@@ -190,6 +230,11 @@
 			dependencies: ["252D324EB358BCAE"]
 			description: ["This is not a modpack made for beginner even if they can do it, I will only put explanation in the quest book that seems necessary for me, or if there is no guide book (in-game)."]
 			id: "73493F835236078A"
+			rewards: [{
+				id: "5F5476001D6D187B"
+				type: "xp"
+				xp: 100
+			}]
 			tasks: [{
 				id: "5C0CD72B3AB82E3E"
 				title: "Explanation"

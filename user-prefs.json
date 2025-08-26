@@ -1,0 +1,4512 @@
+{
+  "export": {
+    "filesSelection": [
+      {
+        "path": "config",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\aluminum.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\amethyst.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\ancient_debris.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\coal.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\cobalt.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\copper.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\diamond.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\emerald.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\gas_pocket.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\gold.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\iridium.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\iron.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\lapis.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\lead.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\nether_gold.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\nether_quartz.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\nickel.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\osmium.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\palladium.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\platinum.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\redstone.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\rhodium.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\ruby.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\ruthenium.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\sapphire.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\silver.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\tin.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\topaz.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\uranium.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Deposits\\zinc.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Geodes",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\Geodes\\amethyst.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\VanillaOres",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\VanillaOres\\ancient_debris.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\VanillaOres\\andesite.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\VanillaOres\\blackstone.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\VanillaOres\\clay.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\VanillaOres\\coal_ore.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\VanillaOres\\copper_ore.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\VanillaOres\\diamond_ore.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\VanillaOres\\diorite.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\VanillaOres\\dirt.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\VanillaOres\\emerald_ore.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\VanillaOres\\gold_ore.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\VanillaOres\\granite.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\VanillaOres\\gravel.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\VanillaOres\\infested_stone.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\VanillaOres\\iron_ore.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\VanillaOres\\lapis_ore.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\VanillaOres\\magma_block.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\VanillaOres\\nether_gold_ore.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\VanillaOres\\nether_quartz_ore.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\VanillaOres\\redstone_ore.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\VanillaOres\\soul_sand.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods\\VanillaOres\\tuff.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ae2",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ae2\\client.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ae2\\common.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\almostunified",
+        "isSelected": true
+      },
+      {
+        "path": "config\\almostunified\\debug.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\almostunified\\duplicates.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\almostunified\\startup.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\almostunified\\unify.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\de",
+        "isSelected": true
+      },
+      {
+        "path": "config\\de\\mari_023",
+        "isSelected": true
+      },
+      {
+        "path": "config\\de\\mari_023\\ae2wtlib.json5",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\assets",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\assets\\cursor.png",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\assets\\logo.jpg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\assets\\logo.png",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\customization",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\customization\\title_screen_layout.txt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\customization\\universal_layout.txt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\custom_locals",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\layout_editor",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\layout_editor\\widgets",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\layout_editor\\widgets\\element_layer_control.lewidget",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\panoramas",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\slideshows",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\ui_themes",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\ui_themes\\dark.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\ui_themes\\light.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\customizablemenus.txt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\custom_gui_screens.txt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\legacy_checklist.txt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\options.txt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\user_variables.db",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgeendertech",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgeendertech\\Biomes",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgeendertech\\Biomes\\ae2$spatial_storage.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgeendertech\\Biomes\\minecraft$badlands.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgeendertech\\Biomes\\minecraft$cold_ocean.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgeendertech\\Biomes\\minecraft$dark_forest.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgeendertech\\Biomes\\minecraft$end_barrens.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgeendertech\\Biomes\\minecraft$eroded_badlands.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgeendertech\\Biomes\\minecraft$flower_forest.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgeendertech\\Biomes\\minecraft$grove.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgeendertech\\Biomes\\minecraft$ice_spikes.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgeendertech\\Biomes\\minecraft$mangrove_swamp.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgeendertech\\Biomes\\minecraft$nether_wastes.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgeendertech\\Biomes\\minecraft$ocean.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgeendertech\\Biomes\\minecraft$old_growth_birch_forest.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgeendertech\\Biomes\\minecraft$old_growth_pine_taiga.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgeendertech\\Biomes\\minecraft$plains.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgeendertech\\Biomes\\minecraft$river.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgeendertech\\Biomes\\minecraft$savanna.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgeendertech\\Biomes\\minecraft$snowy_beach.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgeendertech\\Biomes\\minecraft$soul_sand_valley.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgeendertech\\Biomes\\minecraft$stony_peaks.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgeendertech\\Biomes\\minecraft$stony_shore.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgeendertech\\Biomes\\minecraft$swamp.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgeendertech\\Biomes\\minecraft$taiga.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgeendertech\\Biomes\\minecraft$the_void.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgeendertech\\Biomes\\minecraft$warped_forest.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgeendertech\\Biomes\\minecraft$windswept_forest.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgeendertech\\Biomes\\minecraft$windswept_gravelly_hills.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgeendertech\\Biomes\\minecraft$windswept_hills.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgeendertech\\Biomes\\minecraft$wooded_badlands.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgeendertech\\Biomes\\terralith$frozen_cliffs.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgeendertech\\Biomes\\terralith$stony_spires.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgeendertech\\Biomes\\terralith$temperate_highlands.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgeendertech\\Biomes\\terralith$warm_river.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgeendertech\\cached.dat",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgeendertech\\Wind.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ftbquests",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ftbquests\\quests",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ftbquests\\quests\\chapters",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ftbquests\\quests\\chapters\\applied_energistics_2.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ftbquests\\quests\\chapters\\beginning.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ftbquests\\quests\\chapters\\end.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ftbquests\\quests\\chapters\\immersive.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ftbquests\\quests\\chapters\\industrial_foregoing.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ftbquests\\quests\\chapters\\market.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ftbquests\\quests\\chapters\\mekanism.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ftbquests\\quests\\chapters\\misc.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ftbquests\\quests\\chapters\\pneumaticcraft.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ftbquests\\quests\\reward_tables",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ftbquests\\quests\\reward_tables\\hammock.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ftbquests\\quests\\reward_tables\\sleepingbag.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ftbquests\\quests\\chapter_groups.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ftbquests\\quests\\data.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\functionalstorage",
+        "isSelected": true
+      },
+      {
+        "path": "config\\functionalstorage\\functionalstorage-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\functionalstorage\\functionalstorage-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\industrialforegoing",
+        "isSelected": true
+      },
+      {
+        "path": "config\\industrialforegoing\\machine-agriculture-husbandry.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\industrialforegoing\\machine-core.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\industrialforegoing\\machine-generator.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\industrialforegoing\\machine-misc.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\industrialforegoing\\machine-resource-production.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jade",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jade\\hide-blocks.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jade\\hide-entities.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jade\\jade.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jade\\plugins.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jade\\sort-order.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jamlib",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jamlib\\known_suspicious_jars.txt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jei",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jei\\world",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jei\\world\\local",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jei\\world\\local\\New_World",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jei\\world\\local\\New_World\\bookmarks.ini",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jei\\world\\local\\New_World__1",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jei\\blacklist.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jei\\ingredient-list-mod-sort-order.ini",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jei\\ingredient-list-type-sort-order.ini",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jei\\jei-client.ini",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jei\\jei-colors.ini",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jei\\jei-debug.ini",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jei\\jei-mod-id-format.ini",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jei\\recipe-category-sort-order.ini",
+        "isSelected": true
+      },
+      {
+        "path": "config\\konkrete",
+        "isSelected": true
+      },
+      {
+        "path": "config\\konkrete\\locals",
+        "isSelected": true
+      },
+      {
+        "path": "config\\konkrete\\locals\\de_de.local",
+        "isSelected": true
+      },
+      {
+        "path": "config\\konkrete\\locals\\en_us.local",
+        "isSelected": true
+      },
+      {
+        "path": "config\\konkrete\\locals\\pl_pl.local",
+        "isSelected": true
+      },
+      {
+        "path": "config\\konkrete\\locals\\pt_br.local",
+        "isSelected": true
+      },
+      {
+        "path": "config\\Mekanism",
+        "isSelected": true
+      },
+      {
+        "path": "config\\Mekanism\\client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\Mekanism\\common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\Mekanism\\gear.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\Mekanism\\general.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\Mekanism\\generator-storage.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\Mekanism\\generators-gear.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\Mekanism\\generators.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\Mekanism\\machine-storage.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\Mekanism\\machine-usage.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\Mekanism\\tiers.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\Mekanism\\tools-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\Mekanism\\tools.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\Mekanism\\world.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\pneumaticcraft",
+        "isSelected": true
+      },
+      {
+        "path": "config\\pneumaticcraft\\ArmorFeatureStatus.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\pneumaticcraft\\MicromissileDefaults.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\pneumaticcraft\\PneumaticArmorHUDLayout.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\pneumaticcraft\\ProgrammingPuzzleBlacklist.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\pneumaticcraft\\thirdparty.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\titanium",
+        "isSelected": true
+      },
+      {
+        "path": "config\\titanium\\titanium-tags.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\titanium\\titanium.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\adlods-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ambientsounds-client.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\appleskin-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\betteradvancements-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\buildinggadgets2-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ccl.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\chunkloaders-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\citadel-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\cofh_core-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\cofh_core-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\collective.json5",
+        "isSelected": true
+      },
+      {
+        "path": "config\\colorfulhearts.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\comforts-server.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\commoncapabilities-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\constructionwand-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\corpsecurioscompat-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ctm.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\cucumber-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\cucumber-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\cucumber-tags.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\cull-less-leaves.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\cupboard.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\curios-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\curios-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\cyclopscore-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\doubledoors.json5",
+        "isSelected": true
+      },
+      {
+        "path": "config\\embeddium-fingerprint.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\embeddium-mixins.properties",
+        "isSelected": true
+      },
+      {
+        "path": "config\\embeddium-options.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\enchdesc.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\EnderStorage.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\entangled-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\explorerscompass-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\explorerscompass-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\extremesoundmuffler-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\farsight.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fastbench.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ferritecore-mixin.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fluxnetworks-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fluxnetworks-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fml.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forge-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgeendertech-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ftbxmodcompat.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\guideme.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\immersiveengineering-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\immersiveengineering-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\inventorysorter-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\itemcollectors-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jei_mekanism_multiblocks-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jeresources-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jeresources.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\laserbridges.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\lootr-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\lootr-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\mcjtylib-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\modernfix-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\modernfix-mixins.properties",
+        "isSelected": true
+      },
+      {
+        "path": "config\\modularrouters-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\modularrouters-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\moreoverlays.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\MouseTweaks.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\naturescompass-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\naturescompass-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\nerb.yaml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\packetfixer.properties",
+        "isSelected": true
+      },
+      {
+        "path": "config\\patchouli-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\pneumaticcraft-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\pneumaticcraft-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\polymorph-integrations.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\prettyrain.json5",
+        "isSelected": true
+      },
+      {
+        "path": "config\\resourceful-config-web.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\rightclickharvest.json5",
+        "isSelected": true
+      },
+      {
+        "path": "config\\sidebar_buttons.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\simplemagnets-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\smoothboot.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\sodiumdynamiclights-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\toastcontrol-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\toolbelt-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\toolbelt-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\travelerstitles-forge-1_20.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\yungsmenutweaks-forge-1_20_1.toml",
+        "isSelected": true
+      },
+      {
+        "path": "crash-reports",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports\\crash-2025-07-31_11.39.58-fml.txt",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports\\crash-2025-07-31_13.40.09-client.txt",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports\\crash-2025-07-31_13.41.11-client.txt",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports\\crash-2025-07-31_13.45.01-client.txt",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports\\crash-2025-07-31_13.45.46-client.txt",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports\\crash-2025-08-01_15.10.49-client.txt",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports\\crash-2025-08-01_15.11.52-client.txt",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports\\crash-2025-08-24_17.11.17-client.txt",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports\\crash-2025-08-25_17.10.12-client.txt",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports\\crash-2025-08-25_17.15.19-client.txt",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports\\crash-2025-08-25_17.15.59-fml.txt",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports\\crash-2025-08-25_17.24.37-client.txt",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports\\crash-2025-08-25_17.26.14-client.txt",
+        "isSelected": false
+      },
+      {
+        "path": "datapacks",
+        "isSelected": false
+      },
+      {
+        "path": "defaultconfigs",
+        "isSelected": true
+      },
+      {
+        "path": "defaultconfigs\\ftbchunks",
+        "isSelected": true
+      },
+      {
+        "path": "defaultconfigs\\ftbchunks\\client-config.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "defaultconfigs\\ftbchunks\\ftbchunks-world.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "defaultconfigs\\ftblibrary",
+        "isSelected": true
+      },
+      {
+        "path": "defaultconfigs\\ftblibrary\\ftblibrary-client.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "defaultconfigs\\ftbquests",
+        "isSelected": true
+      },
+      {
+        "path": "defaultconfigs\\ftbquests\\client-config.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "defaultconfigs\\ftbultimine",
+        "isSelected": true
+      },
+      {
+        "path": "defaultconfigs\\ftbultimine\\ftbultimine-client.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "defaultconfigs\\ftbultimine\\ftbultimine-server.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "defaultconfigs\\ftbxmodcompat",
+        "isSelected": true
+      },
+      {
+        "path": "defaultconfigs\\ftbxmodcompat\\ftbxmodcompat.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "defaultconfigs\\fluxnetworks-server.toml",
+        "isSelected": true
+      },
+      {
+        "path": "downloads",
+        "isSelected": false
+      },
+      {
+        "path": "ESM",
+        "isSelected": false
+      },
+      {
+        "path": "ESM\\New World",
+        "isSelected": false
+      },
+      {
+        "path": "ESM\\New World\\anchors.dat",
+        "isSelected": false
+      },
+      {
+        "path": "ESM\\soundsMuffled.dat",
+        "isSelected": false
+      },
+      {
+        "path": "fancymenu_data",
+        "isSelected": true
+      },
+      {
+        "path": "fancymenu_data\\buddy",
+        "isSelected": true
+      },
+      {
+        "path": "fancymenu_data\\buddy\\buddy_leveling.json",
+        "isSelected": true
+      },
+      {
+        "path": "fancymenu_data\\buddy\\buddy_save.json",
+        "isSelected": true
+      },
+      {
+        "path": "fancymenu_data\\cached_data",
+        "isSelected": true
+      },
+      {
+        "path": "fancymenu_data\\fancymenu_temp",
+        "isSelected": true
+      },
+      {
+        "path": "fancymenu_data\\last_world.fmdata",
+        "isSelected": true
+      },
+      {
+        "path": "journeymap",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\config",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\config\\5.10",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\config\\5.10\\journeymap.core.config",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\config\\5.10\\journeymap.fullmap.config",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\config\\5.10\\journeymap.minimap.config",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\config\\5.10\\journeymap.minimap2.config",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\config\\5.10\\journeymap.topo.config",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\config\\5.10\\journeymap.waypoint.config",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\config\\5.10\\journeymap.webmap.config",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\mp",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\mp\\offline",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\3",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\3\\cache",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\3\\cache\\r.-1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\3\\cache\\r.-1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\3\\cache\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\3\\cache\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\3\\-1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\3\\-1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\3\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\3\\0,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\4",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\4\\cache",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\4\\cache\\r.-1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\4\\cache\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\4\\-1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\4\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\biome",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\biome\\-1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\biome\\-1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\biome\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\biome\\0,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\biome\\0,1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\biome\\1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\cache",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\cache\\r.-1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\cache\\r.-1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\cache\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\cache\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\cache\\r.0.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\cache\\r.1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\day",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\day\\-1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\day\\-1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\day\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\day\\0,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\day\\0,1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\day\\1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\night",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\night\\-1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\night\\-1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\night\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\night\\0,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\night\\0,1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\night\\1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\topo",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\topo\\cache",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\topo\\cache\\r.-1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\topo\\cache\\r.-1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\topo\\cache\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\topo\\cache\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\topo\\cache\\r.0.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\topo\\cache\\r.1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\topo\\-1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\topo\\-1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\topo\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\topo\\0,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\topo\\0,1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\overworld\\topo\\1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\waypoints",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World\\waypoints\\Death-15-54-20-08-25-2025_-18-58-3.json",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\-1",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\-1\\cache",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\-1\\cache\\r.-1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\-1\\cache\\r.-1.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\-1\\cache\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\-1\\cache\\r.0.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\-1\\-1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\-1\\-1,1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\-1\\0,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\-1\\0,1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\0",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\0\\cache",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\0\\cache\\r.-1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\0\\cache\\r.-1.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\0\\cache\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\0\\cache\\r.0.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\0\\-1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\0\\-1,1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\0\\0,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\0\\0,1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\1",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\1\\cache",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\1\\cache\\r.-1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\1\\cache\\r.-1.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\1\\cache\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\1\\cache\\r.0.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\1\\-1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\1\\-1,1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\1\\0,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\1\\0,1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\2",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\2\\cache",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\2\\cache\\r.-1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\2\\cache\\r.-1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\2\\cache\\r.-1.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\2\\cache\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\2\\cache\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\2\\cache\\r.0.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\2\\-1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\2\\-1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\2\\-1,1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\2\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\2\\0,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\2\\0,1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\3",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\3\\cache",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\3\\cache\\r.-1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\3\\cache\\r.-1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\3\\cache\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\3\\cache\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\3\\-1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\3\\-1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\3\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\3\\0,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\biome",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\biome\\-1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\biome\\-1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\biome\\-1,1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\biome\\-2,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\biome\\-2,1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\biome\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\biome\\0,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\biome\\0,1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\cache",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\cache\\r.-1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\cache\\r.-1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\cache\\r.-1.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\cache\\r.-2.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\cache\\r.-2.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\cache\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\cache\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\cache\\r.0.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\day",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\day\\-1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\day\\-1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\day\\-1,1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\day\\-2,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\day\\-2,1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\day\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\day\\0,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\day\\0,1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\night",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\night\\-1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\night\\-1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\night\\-1,1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\night\\-2,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\night\\-2,1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\night\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\night\\0,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\night\\0,1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\topo",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\topo\\cache",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\topo\\cache\\r.-1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\topo\\cache\\r.-1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\topo\\cache\\r.-1.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\topo\\cache\\r.-2.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\topo\\cache\\r.-2.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\topo\\cache\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\topo\\cache\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\topo\\cache\\r.0.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\topo\\-1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\topo\\-1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\topo\\-1,1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\topo\\-2,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\topo\\-2,1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\topo\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\topo\\0,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\topo\\0,1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\waypoints",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\container",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\container\\htoolbar_begin.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\container\\htoolbar_end.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\container\\htoolbar_inner.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\container\\vtoolbar_begin.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\container\\vtoolbar_end.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\container\\vtoolbar_inner.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\control",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\control\\flat_button_disabled.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\control\\flat_button_hover.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\control\\flat_button_off.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\control\\flat_button_on.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\control\\flat_toggle_disabled.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\control\\flat_toggle_hover.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\control\\flat_toggle_off.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\control\\flat_toggle_on.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\about.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\actions.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\alert.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\animals.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\automap.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\biome.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\browser.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\caves.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\close.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\day.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\delete.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\disable.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\follow.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\grid.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\keys.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\layers.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\monsters.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\night.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\options.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\pets.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\players.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\reset.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\savemap.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\search.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\server.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\theme.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\topo.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\villagers.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\waypoints.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\zoomin.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\icon\\zoomout.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\circle",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\circle\\flat_compass_point.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\circle\\flat_mask_256.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\circle\\flat_mask_512.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\circle\\flat_rim_256.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\circle\\flat_rim_512.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\circle\\pur_compass_point.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\circle\\pur_mask_256.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\circle\\pur_mask_512.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\circle\\pur_rim_256.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\circle\\pur_rim_512.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\square",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\square\\flat_bottom.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\square\\flat_bottomleft.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\square\\flat_bottomright.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\square\\flat_compass_point.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\square\\flat_left.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\square\\flat_right.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\square\\flat_top.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\square\\flat_topleft.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\square\\flat_topright.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\square\\pur_bottom.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\square\\pur_bottomleft.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\square\\pur_bottomright.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\square\\pur_compass_point.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\square\\pur_left.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\square\\pur_right.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\square\\pur_top.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\square\\pur_topleft.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\minimap\\square\\pur_topright.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\DesertTemple.theme2.json",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\EndCity.theme2.json",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\ForestMansion.theme2.json",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\NetherFortress.theme2.json",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\OceanMonument.theme2.json",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\Purist.theme2.json",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\flat\\Stronghold.theme2.json",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\theme\\default.theme.config",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\server",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\server\\5.10",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\server\\5.10\\journeymap.server.ae2~spatial_storage.config",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\server\\5.10\\journeymap.server.default.config",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\server\\5.10\\journeymap.server.global.config",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\server\\5.10\\journeymap.server.minecraft~overworld.config",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\server\\5.10\\journeymap.server.minecraft~the_end.config",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\server\\5.10\\journeymap.server.minecraft~the_nether.config",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\journeymap.log",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\ftbquests",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\ftbquests\\textures",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\ftbquests\\textures\\quests",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\ftbquests\\textures\\quests\\alloykiln.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\ftbquests\\textures\\quests\\blastfurnace.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\ftbquests\\textures\\quests\\coke_oven.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\ftbquests\\textures\\quests\\improved_blast_furnace.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\ftbquests\\textures\\quests\\powered_lantern.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\ftbquests\\textures\\quests\\thermo_generator.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\ftbquests\\textures\\quests\\waterwheel.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\ftbquests\\textures\\quests\\windmill.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\ftbquests\\textures\\quests\\windmillupgrade.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\immersiveengineering",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\immersiveengineering\\textures",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\immersiveengineering\\textures\\block",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\immersiveengineering\\textures\\item",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\immersiveengineering\\textures\\item\\metal_plate_blaze.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\immersiveengineering\\textures\\item\\metal_plate_diamond.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\immersiveengineering\\textures\\item\\metal_plate_netherite.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\immersiveengineering\\textures\\item\\metal_plate_osmium.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\industrialforegoing",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\industrialforegoing\\textures",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\industrialforegoing\\textures\\item",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\industrialforegoing\\textures\\item\\emerald_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\industrialforegoing\\textures\\item\\lapis_lazuli_gear.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\block",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\block\\example_block.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\coin.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\coin_gem.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\compressed_emerald_gem.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\creative_gem.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\dimensional_gem.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\empty_creative_gem.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\nether_gem.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\raw_nether_gem.png",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\client_scripts",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\client_scripts\\example.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\config",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\config\\client.properties",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\config\\common.properties",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\data",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\hardification",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\hardification\\ae2.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\hardification\\armors.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\hardification\\compass.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\hardification\\entangled.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\hardification\\fluxnetwork.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\hardification\\immersiveengineering.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\hardification\\indusforegoing.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\hardification\\ironchest.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\hardification\\mekanism.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\hardification\\minecraft.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\hardification\\pneumaticcraft.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\hardification\\timeinabottle.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\tags",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\tags\\indusforegoing.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\tags\\minecraft.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\creative_craft.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\custom.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\server_scripts\\unification.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\startup_scripts",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\startup_scripts\\custom.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\startup_scripts\\custom_fluids.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\startup_scripts\\example.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\startup_scripts\\immersiveengineering.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\startup_scripts\\indusforegoing.js",
+        "isSelected": true
+      },
+      {
+        "path": "kubejs\\README.txt",
+        "isSelected": true
+      },
+      {
+        "path": "local",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\14e2a0c3-f818-4d44-a473-4f2620be1ea5",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\14e2a0c3-f818-4d44-a473-4f2620be1ea5\\minecraft_overworld",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\14e2a0c3-f818-4d44-a473-4f2620be1ea5\\minecraft_overworld\\0EA5F-0EA5F.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\14e2a0c3-f818-4d44-a473-4f2620be1ea5\\minecraft_overworld\\0EA5F-0EA60.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\14e2a0c3-f818-4d44-a473-4f2620be1ea5\\minecraft_overworld\\0EA60-0EA5F.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\14e2a0c3-f818-4d44-a473-4f2620be1ea5\\minecraft_overworld\\0EA60-0EA60.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\14e2a0c3-f818-4d44-a473-4f2620be1ea5\\minecraft_overworld\\0EA60-0EA61.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\14e2a0c3-f818-4d44-a473-4f2620be1ea5\\minecraft_overworld\\0EA61-0EA60.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\14e2a0c3-f818-4d44-a473-4f2620be1ea5\\minecraft_overworld\\dimension.regions",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\14e2a0c3-f818-4d44-a473-4f2620be1ea5\\minecraft_overworld\\waypoints.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\14e2a0c3-f818-4d44-a473-4f2620be1ea5\\biome_map.txt",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\14e2a0c3-f818-4d44-a473-4f2620be1ea5\\block_map.txt",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\14e2a0c3-f818-4d44-a473-4f2620be1ea5\\dimensions.txt",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\334697ce-9335-4d61-a455-e78b04c1b2bb",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\334697ce-9335-4d61-a455-e78b04c1b2bb\\minecraft_overworld",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\334697ce-9335-4d61-a455-e78b04c1b2bb\\minecraft_overworld\\0EA5F-0EA5E.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\334697ce-9335-4d61-a455-e78b04c1b2bb\\minecraft_overworld\\0EA5F-0EA5F.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\334697ce-9335-4d61-a455-e78b04c1b2bb\\minecraft_overworld\\dimension.regions",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\334697ce-9335-4d61-a455-e78b04c1b2bb\\minecraft_overworld\\waypoints.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\334697ce-9335-4d61-a455-e78b04c1b2bb\\biome_map.txt",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\334697ce-9335-4d61-a455-e78b04c1b2bb\\block_map.txt",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\334697ce-9335-4d61-a455-e78b04c1b2bb\\dimensions.txt",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\e49952aa-8cf4-4f8d-9ef9-f2cd371f83fd",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\e49952aa-8cf4-4f8d-9ef9-f2cd371f83fd\\minecraft_overworld",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\e49952aa-8cf4-4f8d-9ef9-f2cd371f83fd\\minecraft_overworld\\0EA5F-0EA5F.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\e49952aa-8cf4-4f8d-9ef9-f2cd371f83fd\\minecraft_overworld\\0EA5F-0EA60.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\e49952aa-8cf4-4f8d-9ef9-f2cd371f83fd\\minecraft_overworld\\0EA60-0EA5F.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\e49952aa-8cf4-4f8d-9ef9-f2cd371f83fd\\minecraft_overworld\\0EA60-0EA60.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\e49952aa-8cf4-4f8d-9ef9-f2cd371f83fd\\minecraft_overworld\\dimension.regions",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\e49952aa-8cf4-4f8d-9ef9-f2cd371f83fd\\minecraft_overworld\\waypoints.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\e49952aa-8cf4-4f8d-9ef9-f2cd371f83fd\\biome_map.txt",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\e49952aa-8cf4-4f8d-9ef9-f2cd371f83fd\\block_map.txt",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\e49952aa-8cf4-4f8d-9ef9-f2cd371f83fd\\dimensions.txt",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\client-config.snbt",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbquests",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbquests\\client-config.snbt",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\cache",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\export",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\exported_packs",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\dev.properties",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftblibrary-client.snbt",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbultimine-client.snbt",
+        "isSelected": false
+      },
+      {
+        "path": "logs",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\kubejs",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\kubejs\\client.log",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\kubejs\\server.log",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\kubejs\\startup.log",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\telemetry",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-07-31-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-07-31-2.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-07-31-3.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-07-31-4.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-07-31-5.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-07-31-6.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-08-01-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-08-01-2.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-08-01-3.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-08-01-4.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-08-01-5.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-08-01-6.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-08-02-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-08-02-2.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-08-02-3.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-08-02-4.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-08-02-5.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-08-02-6.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-08-24-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-08-24-2.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-08-24-3.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-08-24-4.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-08-24-5.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-08-24-6.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-08-25-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-08-25-2.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-08-25-3.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-08-25-4.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-08-25-5.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-08-25-6.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\latest.log",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\pneumaticcraft_villages_mechanic_house_plains_ceb9855fb2.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\pneumaticcraft_villages_mechanic_house_taiga_6cc4889807.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\terralith_regular_glacial_interior1_177372923e.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\terralith_regular_glacial_interior216_def980a590.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\terralith_regular_glacial_interior2_6dedf627f7.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\terralith_underground_old_refinery_8ddf79e31c.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\terralith_underground_smallminingoutpost_9f4d2d29ab.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\terralith_village_fortified_roads_bend1_dfd55ed6fb.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\terralith_village_fortified_roads_bend2_84e95bfde4.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\terralith_village_fortified_roads_inter1_4e8fc473da.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\terralith_village_fortified_roads_intersection_big_e1d39000b6.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\terralith_village_fortified_roads_straight1_4a018179f4.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\terralith_village_fortified_roads_straight2_bdb2e3e015.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\terralith_village_fortified_roads_t1_b9cac66894.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\terralith_village_fortified_roads_t2_90cd797569.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\terralith_village_fortified_start_castle_6f4590aebb.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\terralith_village_fortified_terminators_term1_4e17199e1f.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\terralith_village_fortified_terminators_term2_42d9ab04a9.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "modernfix\\structureCacheV1\\terralith_village_fortified_terminators_term3_815d826fcc.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "mods",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\AdLods-1.20.1-8.1.6.0-build.1450.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ae2wtlib-15.2.3-forge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\almostunified-forge-1.20.1-0.10.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\AmbientEnvironment-forge-1.20.1-11.0.0.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\AmbientSounds_FORGE_v6.1.11_mc1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\appleskin-forge-mc1.20.1-2.5.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\appliedenergistics2-forge-15.4.7.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\architectury-9.2.14-forge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\baguettelib-1.20.1-Forge-1.0.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\BetterAdvancements-Forge-1.20.1-0.4.2.25.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\BetterF3-7.0.2-Forge-1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Bookshelf-Forge-1.20.1-20.2.13.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\buildinggadgets2-1.0.7.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\citadel-2.6.2-1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\cloth-config-11.1.136-forge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Clumps-forge-1.20.1-12.0.0.4.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\CodeChickenLib-1.20.1-4.4.0.516-universal.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\cofh_core-1.20.1-11.0.2.56.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\collective-1.20.1-8.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\colorfulhearts-forge-1.20.1-4.3.16.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\comforts-forge-6.4.0+1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\CommonCapabilities-1.20.1-2.9.7.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\constructionwand-1.20.1-2.11.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Controlling-forge-1.20.1-12.0.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\corpse-forge-1.20.1-1.0.21.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\corpsecurioscompat-1.20.x-Forge-3.0.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\CreativeCore_FORGE_v2.12.32_mc1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\CTM-1.20.1-1.1.10.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Cucumber-1.20.1-7.0.14.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\CullLessLeaves-Reforged-1.20.1-1.0.5.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\cupboard-1.20.1-2.7.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\curios-forge-5.14.1+1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\CyclopsCore-1.20.1-1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\deimos-1.20.1-forge-2.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\doubledoors-1.20.1-7.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\embeddium-0.3.31+mc1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\EnchantmentDescriptions-Forge-1.20.1-17.1.19.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\EnderStorage-1.20.1-2.11.0.188-universal.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\entangled-1.3.20-forge-mc1.20.4.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ExplorersCompass-1.20.1-1.3.3-forge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ExtremeSoundMuffler-3.49.1-forge-1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\fancymenu_forge_3.7.0_MC_1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\farsight-1.20.1-3.7.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Fastload-Reforged-mc1.20.1-3.4.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\FastWorkbench-1.20.1-8.0.4.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ferritecore-6.0.1-forge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\flatbedrock-forge-3.0.1-build.18+mc1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\FluxNetworks-1.20.1-7.2.1.15.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ForgeEndertech-1.20.1-11.1.8.0-build.1486.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ftb-chunks-forge-2001.3.6.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ftb-filter-system-forge-20.0.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ftb-library-forge-2001.2.10.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ftb-quests-forge-2001.4.14.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ftb-teams-forge-2001.3.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ftb-ultimine-forge-2001.1.6.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ftb-xmod-compat-forge-2.1.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ftbquestlocalizer-1.20.1-forge-3.2.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\fusion-1.2.10-forge-mc1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\geckolib-forge-1.20.1-4.7.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\guideme-20.1.11.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\imfast-FORGE-1.20.1-1.0.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ImmersiveEngineering-1.20.1-10.2.0-183.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\industrial-foregoing-1.20.1-3.5.19.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\inventorysorter-1.20.1-23.0.8.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ironchest-1.20.1-14.4.4.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\item-filters-forge-2001.1.0-build.59.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\itemcollectors-1.1.11-forge-mc1.20.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Jade-1.20.1-Forge-11.13.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\jamlib-forge-1.3.5+1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\jei-1.20.1-forge-15.20.0.112.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\journeymap-1.20.1-5.10.3-forge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\justenoughbreeding-forge-1.20-1.20.1-1.5.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\JustEnoughMekanismMultiblocks-1.20.1-4.10.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\JustEnoughProfessions-forge-1.20.1-3.0.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\JustEnoughResources-1.20.1-1.4.0.247.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\kjsindustrialforegoing-1.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\kubejs-forge-2001.6.5-build.16.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\laserbridges-1.20.1-forge-5.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\laserio-1.6.8.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\lootr-forge-1.20-0.7.35.91.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\mcjtylib-1.20-8.0.7.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Mekanism-1.20.1-10.4.16.80.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\MekanismGenerators-1.20.1-10.4.16.80.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\MekanismTools-1.20.1-10.4.16.80.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\modernfix-forge-5.24.3+mc1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\modular-routers-12.1.1+mc1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\moreoverlays-1.22.7-mc1.20.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\NaturesCompass-1.20.1-1.11.2-forge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Not Enough Recipe Book-FORGE-0.4.1+1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\OctoLib-FORGE-0.5.0.1+1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\packetfixer-3.1.4-1.18-1.20.4-merged.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Patchouli-1.20.1-84.1-FORGE.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Placebo-1.20.1-8.6.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\pneumaticcraft-repressurized-6.0.20+mc1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\polymorph-forge-0.49.10+1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Pretty Rain-1.20.1-Forge-1.1.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\rechiseled-1.1.6-forge-mc1.20.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\resourcefulconfig-forge-1.20.1-2.1.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\rhino-forge-2001.2.3-build.10.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\rightclickharvest-forge-4.5.3+1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Searchables-forge-1.20.1-1.0.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\simplemagnets-1.1.12-forge-mc1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\smoothboot(reloaded)-mc1.20.1-0.0.4.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\supermartijn642corelib-1.1.18-forge-mc1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\time-in-a-bottle-4.0.4-mc1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\titanium-1.20.1-3.8.32.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ToastControl-1.20.1-8.0.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ToolBelt-1.20.1-1.20.02.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\TravelersTitles-1.20-Forge-4.0.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\YeetusExperimentus-Forge-2.3.1-build.6+mc1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\YungsApi-1.20-Forge-4.0.6.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\YungsMenuTweaks-1.20.1-Forge-1.0.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ZeroCore2-1.20.1-2.1.47.jar",
+        "isSelected": true
+      },
+      {
+        "path": "patchouli_books",
+        "isSelected": false
+      },
+      {
+        "path": "resourcepacks",
+        "isSelected": false
+      },
+      {
+        "path": "saves",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\advancements",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\advancements\\867bfeb0-f2d7-4a96-9d75-fbb30e7ad125.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\chunkloaders",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\chunkloaders\\active_players.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\data\\ae2_players.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\data\\capabilities.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\data\\citadel_world_data.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\data\\fluxnetworksdata.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\data\\integrateddynamics_GlobalCounterData.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\data\\integrateddynamics_Labels.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\data\\integrateddynamics_Networks.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\data\\JMPlayerSettings.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\data\\mekanism_SecurityFrequencyHandler.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\data\\mfix_strongholds.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\data\\PneumaticCraftHeatExtraction.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\data\\raids.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\data\\random_sequences.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\data\\TitaniumReward.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\data\\WorldUUID.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\datapacks",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\deaths",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\deaths\\867bfeb0-f2d7-4a96-9d75-fbb30e7ad125",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\deaths\\867bfeb0-f2d7-4a96-9d75-fbb30e7ad125\\aabfdfc8-4a2a-46fd-bbc9-6f99e512da88.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM-1",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM-1\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM-1\\data\\capabilities.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM-1\\data\\raids.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM1",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM1\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM1\\data\\capabilities.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\DIM1\\data\\raids_end.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\dimensions",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\dimensions\\ae2",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\dimensions\\ae2\\spatial_storage",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\dimensions\\ae2\\spatial_storage\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\dimensions\\ae2\\spatial_storage\\data\\capabilities.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\dimensions\\ae2\\spatial_storage\\data\\raids.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\EnderStorage",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\entities",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\entities\\r.-1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\entities\\r.-1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\entities\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\entities\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\ftbchunks",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\ftbchunks\\867bfeb0-f2d7-4a96-9d75-fbb30e7ad125.snbt",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\ftbquests",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\ftbquests\\867bfeb0-f2d7-4a96-9d75-fbb30e7ad125.snbt",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\ftbteams",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\ftbteams\\party",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\ftbteams\\player",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\ftbteams\\player\\867bfeb0-f2d7-4a96-9d75-fbb30e7ad125.snbt",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\ftbteams\\server",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\ftbteams\\ftbteams.snbt",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\playerdata",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\playerdata\\867bfeb0-f2d7-4a96-9d75-fbb30e7ad125.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\playerdata\\867bfeb0-f2d7-4a96-9d75-fbb30e7ad125.dat_old",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\pneumaticcraft",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\pneumaticcraft\\AmadronPlayerOffers.cfg",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\poi",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\poi\\r.-1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\poi\\r.-1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\poi\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\poi\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.-1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.-1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\region\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\serverconfig",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\serverconfig\\cofh_core-server.toml",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\serverconfig\\constructionwand-server.toml",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\serverconfig\\corpse-server.toml",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\serverconfig\\curios-server.toml",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\serverconfig\\fluxnetworks-server.toml",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\serverconfig\\forge-server.toml",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\serverconfig\\ftbchunks-world.snbt",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\serverconfig\\ftbultimine-server.snbt",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\serverconfig\\immersiveengineering-server.toml",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\serverconfig\\inventorysorter-server.toml",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\serverconfig\\jei-server.toml",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\serverconfig\\journeymap-server.toml",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\serverconfig\\mcjtylib-server.toml",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\serverconfig\\pipez-server.toml",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\serverconfig\\tiab-server.toml",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\serverconfig\\toolbelt-server.toml",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\stats",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\stats\\867bfeb0-f2d7-4a96-9d75-fbb30e7ad125.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\icon.png",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\kubejs_persistent_data.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\level.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\level.dat_old",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World\\session.lock",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\advancements",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\advancements\\867bfeb0-f2d7-4a96-9d75-fbb30e7ad125.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\chunkloaders",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\chunkloaders\\active_players.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\data\\ae2_compass_0_0.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\data\\capabilities.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\data\\citadel_world_data.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\data\\fluxnetworksdata.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\data\\ImmersiveEngineering-SaveData.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\data\\JMPlayerSettings.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\data\\large_ore_deposits.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\data\\mfix_strongholds.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\data\\raids.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\data\\random_sequences.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\data\\TitaniumReward.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\data\\WorldUUID.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\datapacks",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\DIM-1",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\DIM-1\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\DIM-1\\data\\capabilities.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\DIM-1\\data\\raids.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\DIM1",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\DIM1\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\DIM1\\data\\capabilities.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\DIM1\\data\\raids_end.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\dimensions",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\dimensions\\ae2",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\dimensions\\ae2\\spatial_storage",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\dimensions\\ae2\\spatial_storage\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\dimensions\\ae2\\spatial_storage\\data\\capabilities.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\dimensions\\ae2\\spatial_storage\\data\\raids.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\EnderStorage",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\entities",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\entities\\r.-1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\entities\\r.-1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\entities\\r.-1.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\entities\\r.-2.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\entities\\r.-2.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\entities\\r.-2.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\entities\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\entities\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\entities\\r.0.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\ftbquests",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\ftbquests\\867bfeb0-f2d7-4a96-9d75-fbb30e7ad125.snbt",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\ftbteams",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\ftbteams\\party",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\ftbteams\\player",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\ftbteams\\player\\867bfeb0-f2d7-4a96-9d75-fbb30e7ad125.snbt",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\ftbteams\\server",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\ftbteams\\ftbteams.snbt",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\playerdata",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\playerdata\\867bfeb0-f2d7-4a96-9d75-fbb30e7ad125.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\playerdata\\867bfeb0-f2d7-4a96-9d75-fbb30e7ad125.dat_old",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\pneumaticcraft",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\pneumaticcraft\\AmadronPlayerOffers.cfg",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\poi",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\poi\\r.-1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\poi\\r.-1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\poi\\r.-1.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\poi\\r.-2.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\poi\\r.-2.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\poi\\r.-2.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\poi\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\poi\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\poi\\r.0.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\poi\\r.1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\poi\\r.1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\region",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\region\\r.-1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\region\\r.-1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\region\\r.-1.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\region\\r.-2.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\region\\r.-2.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\region\\r.-2.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\region\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\region\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\region\\r.0.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\region\\r.1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\region\\r.1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\region\\r.1.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\serverconfig",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\serverconfig\\cofh_core-server.toml",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\serverconfig\\constructionwand-server.toml",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\serverconfig\\corpse-server.toml",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\serverconfig\\curios-server.toml",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\serverconfig\\fluxnetworks-server.toml",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\serverconfig\\forge-server.toml",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\serverconfig\\ftbultimine-server.snbt",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\serverconfig\\immersiveengineering-server.toml",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\serverconfig\\inventorysorter-server.toml",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\serverconfig\\jei-server.toml",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\serverconfig\\journeymap-server.toml",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\serverconfig\\mcjtylib-server.toml",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\serverconfig\\tiab-server.toml",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\serverconfig\\toolbelt-server.toml",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\stats",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\stats\\867bfeb0-f2d7-4a96-9d75-fbb30e7ad125.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\icon.png",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\kubejs_persistent_data.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\level.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\level.dat_old",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\session.lock",
+        "isSelected": false
+      },
+      {
+        "path": "screenshots",
+        "isSelected": false
+      },
+      {
+        "path": "screenshots\\2025-08-25_15.05.37.png",
+        "isSelected": false
+      },
+      {
+        "path": "screenshots\\2025-08-26_19.05.49.png",
+        "isSelected": false
+      },
+      {
+        "path": "shaderpacks",
+        "isSelected": false
+      },
+      {
+        "path": ".curseclient",
+        "isSelected": false
+      },
+      {
+        "path": ".gitignore",
+        "isSelected": false
+      },
+      {
+        "path": "minecraftinstance.json",
+        "isSelected": false
+      },
+      {
+        "path": "options.txt",
+        "isSelected": false
+      },
+      {
+        "path": "patchouli_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "progress.drawio",
+        "isSelected": false
+      },
+      {
+        "path": "rhino.local.properties",
+        "isSelected": false
+      },
+      {
+        "path": "usercache.json",
+        "isSelected": false
+      },
+      {
+        "path": "usernamecache.json",
+        "isSelected": false
+      }
+    ],
+    "recommendedRam": 4064,
+    "enableRecommendedRam": true
+  }
+}

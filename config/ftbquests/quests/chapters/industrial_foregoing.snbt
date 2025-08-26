@@ -21,8 +21,8 @@
 				item: "industrialforegoing:fluid_extractor"
 				type: "item"
 			}]
-			x: -5.5d
-			y: -5.0d
+			x: -4.0d
+			y: -4.5d
 		}
 		{
 			dependencies: ["2C5FF113807E20DD"]
@@ -32,8 +32,8 @@
 				item: "industrialforegoing:latex_bucket"
 				type: "item"
 			}]
-			x: -7.0d
-			y: -4.0d
+			x: -0.5d
+			y: -0.5d
 		}
 		{
 			dependencies: ["2CE2EA918E2DE76A"]
@@ -43,7 +43,7 @@
 				item: "industrialforegoing:latex_processing_unit"
 				type: "item"
 			}]
-			x: -5.5d
+			x: -4.5d
 			y: -1.0d
 		}
 		{
@@ -58,8 +58,8 @@
 				item: "industrialforegoing:plant_gatherer"
 				type: "item"
 			}]
-			x: -2.0d
-			y: 0.0d
+			x: -1.5d
+			y: -3.0d
 		}
 		{
 			dependencies: ["4EAEF836CC6D4386"]
@@ -70,12 +70,11 @@
 				item: "industrialforegoing:machine_frame_pity"
 				type: "item"
 			}]
-			x: -3.0d
-			y: -3.0d
+			x: -6.0d
+			y: -4.0d
 		}
 		{
 			dependencies: [
-				"2CE2EA918E2DE76A"
 				"7EB76536468B0AA4"
 				"0016D8BAC7D58B57"
 			]
@@ -86,7 +85,7 @@
 				item: "industrialforegoing:machine_frame_simple"
 				type: "item"
 			}]
-			x: 2.0d
+			x: 1.0d
 			y: -3.0d
 		}
 		{
@@ -124,8 +123,8 @@
 				item: "industrialforegoing:tinydryrubber"
 				type: "item"
 			}]
-			x: -7.0d
-			y: -2.0d
+			x: -3.0d
+			y: -1.0d
 		}
 		{
 			dependencies: ["07BFAE8EF130AAFF"]
@@ -135,8 +134,8 @@
 				item: "industrialforegoing:dryrubber"
 				type: "item"
 			}]
-			x: -9.0d
-			y: -3.0d
+			x: -1.5d
+			y: -4.5d
 		}
 		{
 			dependencies: ["71F3FF420E443E67"]
@@ -146,8 +145,8 @@
 				item: "industrialforegoing:plastic"
 				type: "item"
 			}]
-			x: -5.5d
-			y: -3.0d
+			x: -0.5d
+			y: -4.0d
 		}
 		{
 			dependencies: [
@@ -160,8 +159,8 @@
 				item: "industrialforegoing:sewer"
 				type: "item"
 			}]
-			x: -4.0d
-			y: 0.0d
+			x: -2.5d
+			y: -3.5d
 		}
 		{
 			dependencies: [
@@ -175,7 +174,7 @@
 				type: "item"
 			}]
 			x: -0.5d
-			y: -1.0d
+			y: -2.0d
 		}
 		{
 			dependencies: [
@@ -189,8 +188,8 @@
 				item: "industrialforegoing:block_breaker"
 				type: "item"
 			}]
-			x: -3.5d
-			y: -5.5d
+			x: -4.5d
+			y: -2.0d
 		}
 		{
 			dependencies: ["2CE2EA918E2DE76A"]
@@ -201,7 +200,7 @@
 				type: "item"
 			}]
 			x: -1.5d
-			y: -10.0d
+			y: -7.0d
 		}
 		{
 			dependencies: [
@@ -215,7 +214,7 @@
 				type: "item"
 			}]
 			x: 0.5d
-			y: -10.0d
+			y: -7.0d
 		}
 		{
 			dependencies: [
@@ -229,7 +228,7 @@
 				type: "item"
 			}]
 			x: 2.5d
-			y: -10.0d
+			y: -7.0d
 		}
 		{
 			dependencies: [
@@ -243,7 +242,7 @@
 				type: "item"
 			}]
 			x: 4.5d
-			y: -10.0d
+			y: -7.0d
 		}
 		{
 			dependencies: [
@@ -257,7 +256,7 @@
 				type: "item"
 			}]
 			x: 6.5d
-			y: -10.0d
+			y: -7.0d
 		}
 		{
 			dependencies: ["2CE2EA918E2DE76A"]
@@ -267,8 +266,8 @@
 				item: "industrialforegoing:common_black_hole_unit"
 				type: "item"
 			}]
-			x: -1.0d
-			y: -8.5d
+			x: -1.5d
+			y: -6.0d
 		}
 		{
 			dependencies: [
@@ -281,8 +280,8 @@
 				item: "industrialforegoing:pity_black_hole_unit"
 				type: "item"
 			}]
-			x: 1.5d
-			y: -8.5d
+			x: 0.5d
+			y: -6.0d
 		}
 		{
 			dependencies: [
@@ -295,8 +294,8 @@
 				item: "industrialforegoing:simple_black_hole_unit"
 				type: "item"
 			}]
-			x: 3.5d
-			y: -8.5d
+			x: 2.5d
+			y: -6.0d
 		}
 		{
 			dependencies: [
@@ -309,8 +308,8 @@
 				item: "industrialforegoing:advanced_black_hole_unit"
 				type: "item"
 			}]
-			x: 6.0d
-			y: -8.5d
+			x: 4.5d
+			y: -6.0d
 		}
 		{
 			dependencies: [
@@ -323,8 +322,8 @@
 				item: "industrialforegoing:supreme_black_hole_unit"
 				type: "item"
 			}]
-			x: 8.0d
-			y: -8.5d
+			x: 6.5d
+			y: -6.0d
 		}
 		{
 			dependencies: ["3CF0954E55F3C827"]
@@ -335,8 +334,8 @@
 				item: "industrialforegoing:black_hole_controller"
 				type: "item"
 			}]
-			x: 9.5d
-			y: -9.5d
+			x: 8.0d
+			y: -6.5d
 		}
 		{
 			dependencies: ["2CE2EA918E2DE76A"]
@@ -346,8 +345,133 @@
 				item: "industrialforegoing:resourceful_furnace"
 				type: "item"
 			}]
-			x: -0.5d
-			y: -4.5d
+			x: -4.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["6BFF79382D42FEAB"]
+			description: ["This is a ore genrator, which means that it will not really mine in the ground but will generate ore."]
+			id: "54171442DAA93CFC"
+			tasks: [
+				{
+					id: "12A4578C40F53304"
+					item: "industrialforegoing:ore_laser_base"
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "18883B946E9E3D67"
+					item: { Count: 4, id: "industrialforegoing:laser_drill" }
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["6BFF79382D42FEAB"]
+			id: "376D2C4000E45756"
+			tasks: [
+				{
+					id: "03E548ED35876DFA"
+					item: "industrialforegoing:mob_duplicator"
+					type: "item"
+				}
+				{
+					id: "4B050514D60D4E7C"
+					item: "industrialforegoing:mob_imprisonment_tool"
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["6BFF79382D42FEAB"]
+			id: "5976B755BA20BC92"
+			tasks: [{
+				id: "0CF11D4026974941"
+				item: "industrialforegoing:enchantment_extractor"
+				type: "item"
+			}]
+			x: 6.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["6BFF79382D42FEAB"]
+			id: "56FE243A292D6F3E"
+			tasks: [{
+				id: "520D8C02F04B6AA7"
+				item: "industrialforegoing:enchantment_applicator"
+				type: "item"
+			}]
+			x: 7.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["6BFF79382D42FEAB"]
+			description: ["You will this to create a chamber to mine a wither boss with a laser base and lens, to create a fluid that you will need."]
+			id: "415F4100B92D886D"
+			tasks: [{
+				id: "0D76E86C81820CA4"
+				item: "industrialforegoing:stasis_chamber"
+				type: "item"
+			}]
+			x: 7.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["241CFE3F1D98707E"]
+			id: "21D88E3FDB4D039B"
+			tasks: [{
+				id: "419338559CA5733A"
+				item: "industrialforegoing:plant_fertilizer"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["241CFE3F1D98707E"]
+			id: "45D44BF04649E670"
+			tasks: [{
+				id: "6F8B51619337D5C5"
+				item: "industrialforegoing:plant_gatherer"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["241CFE3F1D98707E"]
+			description: [
+				"Automate fishing !!!"
+				"Put this on top of a 3x3 of water, give it a fishing rod, power it and eat fish."
+			]
+			id: "74667C85F077B4E6"
+			tasks: [{
+				id: "2E0242799DD93CAD"
+				item: "industrialforegoing:marine_fisher"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["3CF0954E55F3C827"]
+			description: [
+				"There is quite a lot of generator, so look for the one you prefer."
+				""
+				"But make this one."
+			]
+			id: "04DBEC9D65A979D5"
+			tasks: [{
+				id: "6EB880A61BEAC10F"
+				item: "industrialforegoing:mycelial_pink"
+				type: "item"
+			}]
+			x: 12.5d
+			y: -3.0d
 		}
 	]
 	title: "Industrial Foregoing"

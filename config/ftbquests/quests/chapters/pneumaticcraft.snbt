@@ -24,6 +24,7 @@
 			y: 1.0d
 		}
 		{
+			dependencies: ["22ECC58AAADC256E"]
 			id: "40928BF816A5FA83"
 			tasks: [
 				{
@@ -63,8 +64,8 @@
 				}
 			]
 			title: "Elevator"
-			x: -0.5d
-			y: -0.5d
+			x: 0.0d
+			y: -1.5d
 		}
 		{
 			dependencies: ["4EAEF836CC6D4386"]

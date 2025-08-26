@@ -186,6 +186,18 @@
 			x: 1.0d
 			y: 3.5d
 		}
+		{
+			dependencies: ["252D324EB358BCAE"]
+			description: ["This is not a modpack made for beginner even if they can do it, I will only put explanation in the quest book that seems necessary for me, or if there is no guide book (in-game)."]
+			id: "73493F835236078A"
+			tasks: [{
+				id: "5C0CD72B3AB82E3E"
+				title: "Explanation"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: -2.0d
+		}
 	]
 	title: "Beginning"
 }

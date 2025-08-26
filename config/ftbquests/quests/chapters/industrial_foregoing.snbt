@@ -10,7 +10,11 @@
 	quests: [
 		{
 			dependencies: ["2CE2EA918E2DE76A"]
-			description: ["Put the face with blade (the animated one) next to a log and voila, power it to get more fluid."]
+			description: [
+				"Put the face with blade (the animated one) next to a log and voila, power it to get more fluid."
+				""
+				"It will probably be useful for AE2."
+			]
 			id: "2C5FF113807E20DD"
 			tasks: [{
 				id: "33CE6D9089BBF3FF"

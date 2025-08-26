@@ -13,6 +13,8 @@ ServerEvents.recipes((event) => {
     ["#forge:ingots/steel", "#forge:plates/steel"],
     ["#forge:ingots/osmium", "#forge:plates/osmium"],
     ["#forge:glass/silica", "immersiveengineering:slag_glass"],
+    ["#forge:gems/lapis", "#forge:gears/lapis"],
+    ["#forge:rods/wooden", "#forge:rods/treated_wood"],
   ];
 
   replacements.forEach(([from, to]) => {

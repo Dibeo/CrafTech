@@ -44,7 +44,7 @@
 				item: "kubejs:liquid_certus_quartz_bucket"
 				type: "item"
 			}]
-			x: 2.0d
+			x: 1.5d
 			y: -1.5d
 		}
 		{
@@ -63,7 +63,7 @@
 				item: "ae2:charged_certus_quartz_crystal"
 				type: "item"
 			}]
-			x: 2.0d
+			x: 1.5d
 			y: 0.0d
 		}
 		{
@@ -93,7 +93,7 @@
 					type: "item"
 				}
 			]
-			x: 4.0d
+			x: 3.0d
 			y: -1.5d
 		}
 		{
@@ -128,7 +128,7 @@
 				item: { Count: 16, id: "ae2:certus_quartz_crystal" }
 				type: "item"
 			}]
-			x: -2.0d
+			x: -1.5d
 			y: 0.0d
 		}
 		{
@@ -151,7 +151,7 @@
 				item: "ae2:fluix_crystal"
 				type: "item"
 			}]
-			x: 4.0d
+			x: 3.0d
 			y: 0.0d
 		}
 		{
@@ -185,7 +185,7 @@
 					type: "item"
 				}
 			]
-			x: 2.0d
+			x: 1.5d
 			y: 1.5d
 		}
 		{
@@ -222,8 +222,8 @@
 				type: "item"
 			}]
 			title: "Meteor Compass"
-			x: -3.5d
-			y: 0.0d
+			x: -1.5d
+			y: -1.5d
 		}
 		{
 			dependencies: ["21912B13F6EE68B5"]
@@ -240,7 +240,7 @@
 				item: "ae2:energy_acceptor"
 				type: "item"
 			}]
-			x: -2.0d
+			x: -1.5d
 			y: 1.5d
 		}
 		{
@@ -258,7 +258,7 @@
 				item: { Count: 8, id: "ae2:fluix_glass_cable" }
 				type: "item"
 			}]
-			x: 6.0d
+			x: 4.5d
 			y: 0.0d
 		}
 		{
@@ -276,7 +276,7 @@
 				item: "ae2:fluix_covered_cable"
 				type: "item"
 			}]
-			x: 6.0d
+			x: 4.5d
 			y: 1.5d
 		}
 		{
@@ -294,7 +294,7 @@
 				item: "ae2:fluix_smart_cable"
 				type: "item"
 			}]
-			x: 4.0d
+			x: 3.0d
 			y: 1.5d
 		}
 		{
@@ -313,7 +313,7 @@
 				item: "ae2:fluix_covered_dense_cable"
 				type: "item"
 			}]
-			x: 6.0d
+			x: 4.5d
 			y: 3.0d
 		}
 		{
@@ -332,7 +332,7 @@
 				item: "ae2:fluix_smart_dense_cable"
 				type: "item"
 			}]
-			x: 4.0d
+			x: 3.0d
 			y: 3.0d
 		}
 		{
@@ -370,7 +370,7 @@
 				}
 			]
 			title: "Processors"
-			x: 2.0d
+			x: 1.5d
 			y: 3.0d
 		}
 		{
@@ -388,7 +388,7 @@
 				item: "ae2:controller"
 				type: "item"
 			}]
-			x: 2.0d
+			x: 1.5d
 			y: 4.5d
 		}
 		{
@@ -405,7 +405,7 @@
 				item: "ae2:drive"
 				type: "item"
 			}]
-			x: 4.0d
+			x: 3.0d
 			y: 4.5d
 		}
 		{
@@ -422,7 +422,7 @@
 				item: "ae2:storage_bus"
 				type: "item"
 			}]
-			x: 6.0d
+			x: 4.5d
 			y: 4.5d
 		}
 		{
@@ -488,7 +488,7 @@
 				item: "ae2:cell_component_1k"
 				type: "item"
 			}]
-			x: 5.0d
+			x: 4.5d
 			y: 6.0d
 		}
 		{
@@ -505,8 +505,8 @@
 				item: "ae2:cell_component_4k"
 				type: "item"
 			}]
-			x: 5.0d
-			y: 7.5d
+			x: 6.0d
+			y: 4.5d
 		}
 		{
 			dependencies: ["04FB139A1CA73977"]
@@ -522,8 +522,8 @@
 				item: "ae2:cell_component_16k"
 				type: "item"
 			}]
-			x: 3.0d
-			y: 7.5d
+			x: 6.0d
+			y: 6.0d
 		}
 		{
 			dependencies: ["20E9F50E11E35173"]
@@ -539,8 +539,8 @@
 				item: "ae2:cell_component_64k"
 				type: "item"
 			}]
-			x: 3.0d
-			y: 9.0d
+			x: 6.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["296A3F8ACA413C66"]
@@ -556,8 +556,8 @@
 				item: "ae2:cell_component_256k"
 				type: "item"
 			}]
-			x: 5.0d
-			y: 9.0d
+			x: 6.0d
+			y: 1.5d
 		}
 		{
 			dependencies: ["1BFE16E4F8E2EF3B"]
@@ -582,7 +582,7 @@
 					type: "item"
 				}
 			]
-			x: 1.0d
+			x: 1.5d
 			y: 6.0d
 		}
 		{
@@ -604,7 +604,7 @@
 				item: "ae2:pattern_provider"
 				type: "item"
 			}]
-			x: -1.0d
+			x: 0.0d
 			y: 6.0d
 		}
 		{
@@ -622,8 +622,8 @@
 				item: "ae2:molecular_assembler"
 				type: "item"
 			}]
-			x: -1.0d
-			y: 8.0d
+			x: -1.5d
+			y: 4.5d
 		}
 		{
 			dependencies: ["654F3B71E36F4EB5"]
@@ -647,7 +647,7 @@
 					type: "item"
 				}
 			]
-			x: -3.0d
+			x: -1.5d
 			y: 6.0d
 		}
 		{
@@ -675,6 +675,43 @@
 				}
 			]
 			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["71025B0E689083A5"]
+			description: ["Make the biggest cactus farm you can in a 128 spatial pylon and make it work (using garden cloch is okay as long as it is in an AE sub-dimension)."]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			id: "5017968E292BF950"
+			optional: true
+			rewards: [{
+				count: 12
+				id: "59DDFEC36B763304"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			shape: "pentagon"
+			subtitle: "BONUS QUEST !!!"
+			tasks: [
+				{
+					count: 64L
+					id: "586F655E8B8BA221"
+					item: { Count: 64, id: "minecraft:cactus" }
+					type: "item"
+				}
+				{
+					id: "7D6A16EB6665152A"
+					item: "ae2:spatial_cell_component_128"
+					type: "item"
+				}
+				{
+					id: "6D2D972DF17BB3C9"
+					title: "Done"
+					type: "checkmark"
+				}
+			]
+			title: "Spatial Pylon"
+			x: -1.5d
 			y: 3.0d
 		}
 	]

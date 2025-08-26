@@ -25,7 +25,13 @@
 		}
 		{
 			dependencies: ["22ECC58AAADC256E"]
+			description: ["Use one of these in your base. You might want to put upgrade in those ."]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
 			id: "40928BF816A5FA83"
+			optional: true
+			shape: "pentagon"
+			subtitle: "BONUS TIME !!!!"
 			tasks: [
 				{
 					id: "7D8AD77A738EB735"
@@ -39,8 +45,8 @@
 				}
 			]
 			title: "Pneumatic Door"
-			x: -2.0d
-			y: -1.0d
+			x: -4.5d
+			y: -0.5d
 		}
 		{
 			id: "12F723052D050290"

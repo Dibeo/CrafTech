@@ -34,8 +34,8 @@
 					type: "item"
 				}
 			]
-			x: -6.0d
-			y: 1.5d
+			x: -5.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["7D7EEBD7B3A6267E"]
@@ -51,8 +51,8 @@
 				item: { Count: 27, id: "immersiveengineering:cokebrick" }
 				type: "item"
 			}]
-			x: -3.5d
-			y: -0.5d
+			x: -4.0d
+			y: -1.5d
 		}
 		{
 			dependencies: ["0D6776978089DF4B"]
@@ -71,8 +71,8 @@
 					type: "item"
 				}
 			]
-			x: -3.5d
-			y: -2.5d
+			x: -5.5d
+			y: -1.5d
 		}
 		{
 			dependencies: ["7D7EEBD7B3A6267E"]
@@ -85,8 +85,8 @@
 				type: "item"
 			}]
 			title: "Blast Furnace"
-			x: -3.5d
-			y: 1.5d
+			x: -4.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["0D6776978089DF4B"]
@@ -117,7 +117,7 @@
 				}
 			]
 			x: -2.5d
-			y: 0.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["65974759E3A23B45"]
@@ -142,8 +142,8 @@
 				}
 			]
 			title: "Improved Blast Furnace"
-			x: -2.5d
-			y: 2.5d
+			x: -4.0d
+			y: 1.5d
 		}
 		{
 			dependencies: ["5DD051CD863C6807"]
@@ -156,8 +156,8 @@
 				type: "item"
 			}]
 			title: "Blast Furnace PreHeater"
-			x: -2.0d
-			y: 4.0d
+			x: -4.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["410D44413207982A"]
@@ -168,8 +168,8 @@
 				item: "immersiveengineering:furnace_heater"
 				type: "item"
 			}]
-			x: -2.5d
-			y: -3.5d
+			x: -4.0d
+			y: -3.0d
 		}
 		{
 			dependencies: [
@@ -202,7 +202,7 @@
 				type: "item"
 			}]
 			x: -1.0d
-			y: -0.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["410D44413207982A"]
@@ -214,7 +214,7 @@
 				type: "item"
 			}]
 			x: -1.0d
-			y: -2.5d
+			y: -1.5d
 		}
 		{
 			dependencies: [
@@ -227,8 +227,8 @@
 				item: "immersiveengineering:capacitor_hv"
 				type: "item"
 			}]
-			x: 8.0d
-			y: -3.5d
+			x: 6.5d
+			y: -3.0d
 		}
 		{
 			dependencies: [
@@ -241,8 +241,8 @@
 				item: "immersiveengineering:capacitor_mv"
 				type: "item"
 			}]
-			x: 6.0d
-			y: -3.5d
+			x: 5.0d
+			y: -3.0d
 		}
 		{
 			dependencies: ["7CCCE0F4786C0143"]
@@ -253,7 +253,7 @@
 				type: "item"
 			}]
 			x: 3.5d
-			y: -3.5d
+			y: -4.5d
 		}
 		{
 			dependencies: ["46B195D23CF72113"]
@@ -277,7 +277,7 @@
 				}
 			]
 			title: "LV Connection"
-			x: 3.0d
+			x: 2.0d
 			y: -1.5d
 		}
 		{
@@ -301,7 +301,7 @@
 					type: "item"
 				}
 			]
-			x: 5.0d
+			x: 3.5d
 			y: -1.5d
 		}
 		{
@@ -325,7 +325,7 @@
 					type: "item"
 				}
 			]
-			x: 7.0d
+			x: 5.0d
 			y: -1.5d
 		}
 		{
@@ -339,8 +339,8 @@
 				item: "immersiveengineering:wirecoil_copper_ins"
 				type: "item"
 			}]
-			x: 1.0d
-			y: -3.5d
+			x: 0.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["71B1187338E64A18"]
@@ -352,8 +352,8 @@
 				item: "immersiveengineering:wirecoil_electrum_ins"
 				type: "item"
 			}]
-			x: 4.0d
-			y: -2.5d
+			x: 3.5d
+			y: -3.0d
 		}
 		{
 			dependencies: [
@@ -369,8 +369,8 @@
 				item: "immersiveengineering:transformer"
 				type: "item"
 			}]
-			x: 4.0d
-			y: -0.5d
+			x: 3.5d
+			y: 0.0d
 		}
 		{
 			dependencies: [
@@ -387,8 +387,8 @@
 				item: "immersiveengineering:transformer_hv"
 				type: "item"
 			}]
-			x: 6.0d
-			y: -0.5d
+			x: 5.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["7CCCE0F4786C0143"]
@@ -442,7 +442,7 @@
 			]
 			title: "Faraday Armor"
 			x: 2.0d
-			y: -4.0d
+			y: -3.0d
 		}
 		{
 			dependencies: ["7388AA99585F1A06"]
@@ -459,7 +459,7 @@
 				type: "item"
 			}]
 			x: -1.0d
-			y: -4.5d
+			y: -3.0d
 		}
 		{
 			dependencies: ["7D7EEBD7B3A6267E"]
@@ -474,11 +474,11 @@
 				item: { Count: 8, id: "immersiveengineering:alloybrick" }
 				type: "item"
 			}]
-			x: -3.5d
-			y: 4.0d
+			x: -5.5d
+			y: 1.5d
 		}
 		{
-			dependencies: ["55322D9D43D7FCC6"]
+			dependencies: ["26C5DA004BD07D32"]
 			description: [
 				"With this multiblock you will be able to make your plate, gear, rods and wire for cheaper and or easier."
 				""
@@ -518,8 +518,8 @@
 					type: "checkmark"
 				}
 			]
-			x: 1.5d
-			y: 2.0d
+			x: -1.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["7CCCE0F4786C0143"]
@@ -531,7 +531,7 @@
 				type: "item"
 			}]
 			x: 0.5d
-			y: -2.5d
+			y: -3.0d
 		}
 		{
 			dependencies: ["55322D9D43D7FCC6"]
@@ -577,8 +577,686 @@
 				}
 			]
 			title: "Bottling Machine"
+			x: -2.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7CCCE0F4786C0143"]
+			id: "45DA9990D1301D31"
+			tasks: [{
+				id: "546683644942E585"
+				item: "immersiveengineering:fluid_pump"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["45DA9990D1301D31"]
+			description: [
+				"This multblock tank can store up to 512 buckets of fluid."
+				""
+				"It can insert or extract from the top or bottom, but requires a redstone signal to start the extraction and a Fluid Pump to extract."
+			]
+			id: "00F6A4CB6444C33F"
+			tasks: [
+				{
+					count: 34L
+					id: "518B126D3C27DC79"
+					item: { Count: 34, id: "immersiveengineering:sheetmetal_iron" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "44AD3FAB55E9210C"
+					item: { Count: 4, id: "immersiveengineering:treated_fence" }
+					type: "item"
+				}
+			]
+			title: "Large Fluid Storage"
+			x: 2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["55322D9D43D7FCC6"]
+			description: [
+				"Now that we're moving on to bigger and better machines, we're going to need ways to move items around."
+				""
+				"The Conveyors will transport items and can extract and insert from adjacent inventories."
+				""
+				"There are even conveyors with trapdoors to drop items in the world, vertical conveyors to move items straight upward, splitting conveyors to alternate the path, and covered conveyors."
+			]
+			id: "26C5DA004BD07D32"
+			tasks: [{
+				id: "206DC35159AC4CB5"
+				item: "immersiveengineering:conveyor_basic"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["26C5DA004BD07D32"]
+			description: [
+				"The Crusher is the first major piece of equipment on the road to industrial resource processing."
+				""
+				"This large multiblock accepts ores and other blocks dropped into the top of it and crushes them down quickly into their dusts and automatically outputs to an inventory on the front (or a conveyor, hint hint)."
+			]
+			id: "5E0D2335338050ED"
+			tasks: [
+				{
+					count: 10L
+					id: "72D2B35ECF4CB50C"
+					item: { Count: 10, id: "immersiveengineering:steel_scaffolding_standard" }
+					type: "item"
+				}
+				{
+					count: 10L
+					id: "5203B678ADE79C78"
+					item: { Count: 10, id: "immersiveengineering:light_engineering" }
+					type: "item"
+				}
+				{
+					count: 9L
+					id: "5ECC57A243962787"
+					item: { Count: 9, id: "minecraft:hopper" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "2BF44AB4F1F6AA9F"
+					item: { Count: 8, id: "immersiveengineering:steel_fence" }
+					type: "item"
+				}
+				{
+					id: "5931864A8CC3D744"
+					item: "immersiveengineering:rs_engineering"
+					type: "item"
+				}
+				{
+					id: "4995B1525FD1EC4F"
+					title: "Done"
+					type: "checkmark"
+				}
+			]
+			title: "The Crusher"
 			x: 0.5d
-			y: 3.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["26C5DA004BD07D32"]
+			description: ["The Assembler is a multiblock that can store items for and automatically craft up to 3 stored recipes, including recipes that use liquids."]
+			id: "56FA03929EAC2FBF"
+			tasks: [
+				{
+					count: 9L
+					id: "3158ECAD98434BF6"
+					item: { Count: 9, id: "immersiveengineering:sheetmetal_iron" }
+					type: "item"
+				}
+				{
+					count: 6L
+					id: "465E4707BAAF51A3"
+					item: { Count: 6, id: "immersiveengineering:steel_scaffolding_standard" }
+					type: "item"
+				}
+				{
+					count: 6L
+					id: "52B0E79BE70A9A45"
+					item: { Count: 6, id: "immersiveengineering:slab_sheetmetal_iron" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "3AEEFC709C787532"
+					item: { Count: 2, id: "immersiveengineering:rs_engineering" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "35BBE8F7875C9F53"
+					item: { Count: 2, id: "immersiveengineering:light_engineering" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "4CCF03F595648175"
+					item: { Count: 2, id: "immersiveengineering:conveyor_basic" }
+					type: "item"
+				}
+				{
+					id: "6BE1E5C1DD279A6A"
+					title: "Done"
+					type: "checkmark"
+				}
+			]
+			title: "The Assembler"
+			x: 0.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["410D44413207982A"]
+			id: "564C7E8830136902"
+			tasks: [{
+				id: "63A5224C05A13455"
+				item: "immersiveengineering:workbench"
+				type: "item"
+			}]
+			x: -2.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["564C7E8830136902"]
+			description: [
+				"Now that we're building larger machines, they're going to need larger amounts of power. We should probably think about building a better generator."
+				""
+				"That generator is the Diesel Generator, which can generate up to 4,096 RF/t. It burns biodiesel to generate power."
+				""
+				"To make biodiesel, we'll need to refine plant oil and ethanol."
+				""
+				"Plant Oil is made by squeezing seeds in the Industrial Squeezer."
+			]
+			id: "6033FA994F531E08"
+			tasks: [
+				{
+					count: 6L
+					id: "337FA62A85F27D57"
+					item: { Count: 6, id: "immersiveengineering:steel_scaffolding_standard" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "3ABFCF620DA5C4E5"
+					item: { Count: 4, id: "immersiveengineering:wooden_barrel" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "462AE2280820D8D0"
+					item: { Count: 3, id: "immersiveengineering:steel_fence" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "0CC78B44D860ECC0"
+					item: { Count: 2, id: "immersiveengineering:fluid_pipe" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "3621A10CABEF46F5"
+					item: { Count: 2, id: "immersiveengineering:light_engineering" }
+					type: "item"
+				}
+				{
+					id: "24207777548367B8"
+					item: "immersiveengineering:rs_engineering"
+					type: "item"
+				}
+				{
+					id: "23E265EF02EB1CD7"
+					item: "minecraft:piston"
+					type: "item"
+				}
+				{
+					id: "43A92DF77BC37445"
+					title: "Done"
+					type: "checkmark"
+				}
+			]
+			title: "Plant Oil"
+			x: -4.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["564C7E8830136902"]
+			description: [
+				"As we upgrade our resource processing, we're going to need to look at gathering more resources more quickly for all that processing speed."
+				""
+				"Although we don't have access to a full quarry, we can start off with the Excavator, which will dig up ores in the current chunk."
+				""
+				"However, it doesn't dig up just any ore. In Immersive Engineering, each chunk is randomly generated with certain types of ores that can be excavated independent of the actual ores in the ground. To find out what will be excavated, place a Core Sample Drill in the chunk, power it, and wait a short time for it to drill a sample. The sample will tell you what the Excavator will dig up."
+				""
+				"Tip: The Core Samples can be placed on the ground to remind you of what is in the chunk."
+			]
+			id: "4B49380C12C1F80C"
+			tasks: [{
+				id: "7CAF46419637BA20"
+				item: "immersiveengineering:sample_drill"
+				type: "item"
+			}]
+			x: -2.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["564C7E8830136902"]
+			description: [
+				"The Arc Furnace is a massive multiblock furnace that can smelt and double ores directly, make steel and other alloys, and do it all 12 at a time and much faster than almost any other furnace."
+				""
+				"But it needs Graphite Electrodes in order to operate. To make the electrodes, you'll need to grind some coal coke down into dust and then squeeze the dust into HOP Graphite Dust and finally smelt the graphite dust into HOP Graphite Ingots that can be formed into the electrodes."
+				""
+				""
+				"Each electrode requires 4 HOP Graphite Ingots to make and the Arc Furnace needs 3 electrodes to function."
+			]
+			id: "241046AEA3588B23"
+			tasks: [{
+				count: 4L
+				id: "45BD49167730D276"
+				item: { Count: 4, id: "immersiveengineering:ingot_hop_graphite" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["241046AEA3588B23"]
+			description: [
+				"Time to seriously upgrade your resource processing. The Arc Furnace smelts up to 12 items at once and can make steel and other alloys faster than any other machine so far."
+				""
+				"Note that to finishe this pack you have to make one, for one of the gems."
+			]
+			id: "65C1A03A285FA4E9"
+			tasks: [
+				{
+					count: 27L
+					id: "35F74CA0C7284290"
+					item: { Count: 27, id: "immersiveengineering:blastbrick_reinforced" }
+					type: "item"
+				}
+				{
+					count: 14L
+					id: "384B6E993B6C2024"
+					item: { Count: 14, id: "immersiveengineering:slab_sheetmetal_steel" }
+					type: "item"
+				}
+				{
+					count: 10L
+					id: "079E6C480D3F9A75"
+					item: { Count: 10, id: "immersiveengineering:light_engineering" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "077A6BD92EFCF85C"
+					item: { Count: 8, id: "immersiveengineering:sheetmetal_steel" }
+					type: "item"
+				}
+				{
+					count: 6L
+					id: "1484EAAFD9641CC3"
+					item: { Count: 6, id: "immersiveengineering:storage_steel" }
+					type: "item"
+				}
+				{
+					count: 5L
+					id: "3E54F370C7FE3AD3"
+					item: { Count: 5, id: "immersiveengineering:steel_scaffolding_standard" }
+					type: "item"
+				}
+				{
+					count: 5L
+					id: "5E1AD4EC92183DB6"
+					item: { Count: 5, id: "immersiveengineering:heavy_engineering" }
+					type: "item"
+				}
+				{
+					id: "2F47D8D39C71F305"
+					item: "immersiveengineering:rs_engineering"
+					type: "item"
+				}
+				{
+					id: "32EFDACD68367FB6"
+					item: "minecraft:cauldron"
+					type: "item"
+				}
+				{
+					id: "14623F203BED7A2A"
+					title: "Done"
+					type: "checkmark"
+				}
+			]
+			x: 0.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["4B49380C12C1F80C"]
+			description: [
+				"The Excavator is another massive multiblock that will dig up ores in the current chunk."
+				""
+				"The Excavator consumes 4,096 RF/t, so you'll want to make sure you're producing enough power before hooking this beast up."
+			]
+			id: "35F6CD835457209F"
+			tasks: [
+				{
+					count: 26L
+					id: "3B664E4767F4C159"
+					item: { Count: 26, id: "immersiveengineering:steel_scaffolding_standard" }
+					type: "item"
+				}
+				{
+					count: 15L
+					id: "0C8CB613BFCBB2F8"
+					item: { Count: 15, id: "immersiveengineering:sheetmetal_steel" }
+					type: "item"
+				}
+				{
+					count: 6L
+					id: "33F4A0C8DB33E8B8"
+					item: { Count: 6, id: "immersiveengineering:storage_steel" }
+					type: "item"
+				}
+				{
+					count: 9L
+					id: "0E6913D46E5CE3CF"
+					item: { Count: 9, id: "immersiveengineering:light_engineering" }
+					type: "item"
+				}
+				{
+					count: 5L
+					id: "2BDD6E4F4A16C612"
+					item: { Count: 5, id: "immersiveengineering:heavy_engineering" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "73E285886EC67DAF"
+					item: { Count: 3, id: "immersiveengineering:radiator" }
+					type: "item"
+				}
+				{
+					id: "478EE5C7C2786E5D"
+					item: "immersiveengineering:rs_engineering"
+					type: "item"
+				}
+				{
+					id: "2D87212201941944"
+					title: "Done"
+					type: "checkmark"
+				}
+			]
+			title: "Ore Excavator"
+			x: -1.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["4B49380C12C1F80C"]
+			description: [
+				"The Core Sample Drill can also tell you if an Oil Reservoir is present in a chunk. If there is one, the Pumpjack can be used to extract the oil."
+				""
+				"You can also setup multiple Pumpjacks to extract the oil even faster."
+			]
+			id: "6B053F0DE714F187"
+			tasks: [
+				{
+					count: 11L
+					id: "7114161310AAE466"
+					item: { Count: 11, id: "immersiveengineering:steel_scaffolding_standard" }
+					type: "item"
+				}
+				{
+					count: 6L
+					id: "6836A4611290D807"
+					item: { Count: 6, id: "immersiveengineering:treated_fence" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "4EAB0CE8F23184D0"
+					item: { Count: 4, id: "immersiveengineering:fluid_pipe" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "0577AC3DABDFD57B"
+					item: { Count: 4, id: "immersiveengineering:sheetmetal_steel" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "0C42BD490B74DF9B"
+					item: {
+						Count: 1
+						id: "ftbfiltersystem:smart_filter"
+						tag: {
+							"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(forge:storage_blocks/steel)"
+						}
+					}
+					title: "Any #forge:storage_blocks/steel"
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "1A2C6151A1A437EE"
+					item: { Count: 2, id: "immersiveengineering:light_engineering" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "3316097EB1CA2D9A"
+					item: { Count: 2, id: "immersiveengineering:heavy_engineering" }
+					type: "item"
+				}
+				{
+					id: "7001B78B88346A7D"
+					item: "immersiveengineering:rs_engineering"
+					type: "item"
+				}
+				{
+					id: "6C49F08FE7A24FF7"
+					title: "Done"
+					type: "checkmark"
+				}
+			]
+			title: "Oil Extractor"
+			x: -2.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["6033FA994F531E08"]
+			description: [
+				"The other ingredient for biodiesel is Ethanol."
+				""
+				"Ethanol is made in the Fermenter from crops like sugar canes, apples, potatoes, melons, etc."
+			]
+			id: "5D9DB627B25AA15E"
+			tasks: [
+				{
+					count: 6L
+					id: "30DDA2213BE5CE4B"
+					item: { Count: 6, id: "immersiveengineering:steel_scaffolding_standard" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "6E044A9E5B6BB36F"
+					item: { Count: 4, id: "minecraft:cauldron" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "7C92CC076965851B"
+					item: { Count: 4, id: "immersiveengineering:sheetmetal_iron" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "5CA4830D2947A78E"
+					item: { Count: 2, id: "immersiveengineering:fluid_pipe" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "38149E7EE1CEE403"
+					item: { Count: 2, id: "immersiveengineering:light_engineering" }
+					type: "item"
+				}
+				{
+					id: "2B34E9F3FED64ADC"
+					item: "immersiveengineering:rs_engineering"
+					type: "item"
+				}
+				{
+					id: "4AD81B7F28208113"
+					title: "Done"
+					type: "checkmark"
+				}
+			]
+			title: "Ethanol"
+			x: -5.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["5D9DB627B25AA15E"]
+			id: "40468E30EC1637BF"
+			tasks: [
+				{
+					count: 16L
+					id: "2567702A7111CE65"
+					item: { Count: 16, id: "immersiveengineering:sheetmetal_iron" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "27D44B91F440D383"
+					item: { Count: 8, id: "immersiveengineering:steel_scaffolding_standard" }
+					type: "item"
+				}
+				{
+					count: 5L
+					id: "4E3D5360C5F9F020"
+					item: { Count: 5, id: "immersiveengineering:fluid_pipe" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "7188779683A393A8"
+					item: { Count: 2, id: "immersiveengineering:light_engineering" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "1FA78BCE1EA8EF86"
+					item: { Count: 2, id: "immersiveengineering:heavy_engineering" }
+					type: "item"
+				}
+				{
+					id: "77E1D2C3BC6E2EB7"
+					item: "immersiveengineering:rs_engineering"
+					type: "item"
+				}
+				{
+					id: "5D601B5E3ED412DD"
+					title: "Done"
+					type: "checkmark"
+				}
+			]
+			title: "Refinery"
+			x: -5.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["40468E30EC1637BF"]
+			description: [
+				"Now we burn the biodiesel in the Diesel Generator."
+				""
+				"The Diesel Generator produces 4,096 RF/t."
+			]
+			id: "6883BCC34F1AB6F2"
+			tasks: [
+				{
+					count: 13L
+					id: "4EDCECAC52A44801"
+					item: { Count: 13, id: "immersiveengineering:heavy_engineering" }
+					type: "item"
+				}
+				{
+					count: 9L
+					id: "7E41A8F3798FD3E7"
+					item: { Count: 9, id: "immersiveengineering:radiator" }
+					type: "item"
+				}
+				{
+					count: 6L
+					id: "1E508989E8C32F23"
+					item: { Count: 6, id: "immersiveengineering:steel_scaffolding_standard" }
+					type: "item"
+				}
+				{
+					count: 5L
+					id: "46E3ED17A8CA36AA"
+					item: { Count: 5, id: "immersiveengineering:fluid_pipe" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "158B1D3194994FEE"
+					item: { Count: 4, id: "immersiveengineering:generator" }
+					type: "item"
+				}
+				{
+					id: "6E7073C4B0D5231F"
+					item: "immersiveengineering:rs_engineering"
+					type: "item"
+				}
+				{
+					id: "616EEDDD5D4F3664"
+					title: "Done"
+					type: "checkmark"
+				}
+			]
+			title: "Diesel Generator"
+			x: -4.0d
+			y: -6.0d
+		}
+		{
+			id: "3A86B6347214EE75"
+			tasks: [
+				{
+					count: 6L
+					id: "6040889FF5C0CD19"
+					item: { Count: 6, id: "immersiveengineering:coil_hv" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "13714A64097D9F8A"
+					item: { Count: 8, id: "immersiveengineering:sheetmetal_steel" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "7C702743F97A3900"
+					item: { Count: 8, id: "immersiveengineering:generator" }
+					type: "item"
+				}
+				{
+					count: 5L
+					id: "2A0D84F5301677DF"
+					item: { Count: 5, id: "immersiveengineering:capacitor_hv" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "318AD7581CD2EDC6"
+					item: { Count: 4, id: "immersiveengineering:heavy_engineering" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "284C3E58661676ED"
+					item: {
+						Count: 1
+						id: "ftbfiltersystem:smart_filter"
+						tag: {
+							"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(forge:storage_blocks/steel)"
+						}
+					}
+					title: "Steel blocks"
+					type: "item"
+				}
+			]
+			x: -5.5d
+			y: -3.0d
 		}
 	]
 	title: "Immersive"

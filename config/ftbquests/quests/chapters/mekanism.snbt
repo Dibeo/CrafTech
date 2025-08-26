@@ -73,7 +73,7 @@
 				item: "mekanism:crusher"
 				type: "item"
 			}]
-			x: 6.0d
+			x: 5.5d
 			y: -1.5d
 		}
 		{
@@ -90,7 +90,7 @@
 				item: "mekanism:precision_sawmill"
 				type: "item"
 			}]
-			x: 8.0d
+			x: 7.0d
 			y: -1.5d
 		}
 		{
@@ -139,7 +139,7 @@
 				}
 			]
 			title: "Upgrade"
-			x: 10.0d
+			x: 8.5d
 			y: -1.5d
 		}
 		{
@@ -156,7 +156,7 @@
 				item: "mekanism:basic_tier_installer"
 				type: "item"
 			}]
-			x: 12.0d
+			x: 10.0d
 			y: -1.5d
 		}
 		{
@@ -173,7 +173,7 @@
 				item: "mekanism:advanced_tier_installer"
 				type: "item"
 			}]
-			x: 12.0d
+			x: 10.0d
 			y: 0.0d
 		}
 		{
@@ -190,7 +190,7 @@
 				item: "mekanism:elite_tier_installer"
 				type: "item"
 			}]
-			x: 12.0d
+			x: 10.0d
 			y: 2.0d
 		}
 		{
@@ -207,7 +207,7 @@
 				item: "mekanism:ultimate_tier_installer"
 				type: "item"
 			}]
-			x: 12.0d
+			x: 10.0d
 			y: 3.5d
 		}
 		{
@@ -792,7 +792,7 @@
 				item: "mekanismgenerators:gas_burning_generator"
 				type: "item"
 			}]
-			x: 6.0d
+			x: 5.5d
 			y: 0.0d
 		}
 		{
@@ -826,7 +826,7 @@
 				item: "mekanismgenerators:advanced_solar_generator"
 				type: "item"
 			}]
-			x: 6.0d
+			x: 5.5d
 			y: 2.0d
 		}
 		{
@@ -852,7 +852,7 @@
 					type: "item"
 				}
 			]
-			x: 8.0d
+			x: 7.0d
 			y: 0.0d
 		}
 		{
@@ -870,7 +870,7 @@
 				item: "mekanism:digital_miner"
 				type: "item"
 			}]
-			x: 8.0d
+			x: 7.0d
 			y: 2.0d
 		}
 		{
@@ -907,7 +907,7 @@
 				}
 			]
 			title: "3x more !!!"
-			x: 10.0d
+			x: 8.5d
 			y: 0.0d
 		}
 		{
@@ -960,7 +960,7 @@
 				}
 			]
 			title: "Brine"
-			x: 10.0d
+			x: 8.5d
 			y: 2.0d
 		}
 		{
@@ -997,7 +997,7 @@
 				}
 			]
 			title: "4x MORE !!!!"
-			x: 10.0d
+			x: 8.5d
 			y: 3.5d
 		}
 		{
@@ -1044,7 +1044,7 @@
 				}
 			]
 			title: "5x MORE !!!!!!!!!!!!!!!!!!!!"
-			x: 8.0d
+			x: 7.0d
 			y: 3.5d
 		}
 		{
@@ -1085,7 +1085,7 @@
 				}
 			]
 			title: "Final Process"
-			x: 6.0d
+			x: 5.5d
 			y: 3.5d
 		}
 		{
@@ -1138,6 +1138,216 @@
 			]
 			x: 1.5d
 			y: 7.5d
+		}
+		{
+			dependencies: ["5D31A29EB3703123"]
+			description: [
+				"It's time to amp up your power production with your very own Fusion Reactor."
+				""
+				"To get started, we'll want to setup the production chain to produce the fuels needed to sustain the reaction."
+				""
+				"First up - Deuterium, which is produced by running Heavy Water through an Electrolytic Separator. Heavy Water is obtained by running an Electric Pump over a water source with the Filter Upgrade installed."
+			]
+			id: "16FBBC5C52108DE8"
+			rewards: [{
+				count: 3
+				id: "56CF80DB77F15B76"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "34C946607F3B5DC6"
+					item: "mekanism:electric_pump"
+					type: "item"
+				}
+				{
+					id: "1293C8314F3460C0"
+					item: "mekanism:upgrade_filter"
+					type: "item"
+				}
+				{
+					id: "1E6D7423AA038A26"
+					item: "mekanism:electrolytic_separator"
+					type: "item"
+				}
+			]
+			title: "Deuterium"
+			x: 4.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["16FBBC5C52108DE8"]
+			description: [
+				"The other fuel we need is Tritium."
+				""
+				"This one is a little more involved to produce."
+				""
+				"First, you'll want to build another Thermal Evaporation Plant, but instead of feeding it water, you'll want to feed it Brine. When Brine is processed in the Thermal Evaporation Plant, it produces Liquid Lithium."
+				""
+				"Next, process the Liquid Lithium into Lithium gas in a Rotary Condensentrator."
+				""
+				"Finally, process the Lithium gas in a Solar Neutron Activator to produce Tritium."
+			]
+			id: "08F133284670841D"
+			rewards: [{
+				count: 3
+				id: "613FE0F02FA58FD7"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "4440A1830B38F9F7"
+					item: "mekanism:rotary_condensentrator"
+					type: "item"
+				}
+				{
+					id: "34E2ECE79B80FDB6"
+					item: "mekanism:solar_neutron_activator"
+					type: "item"
+				}
+			]
+			title: "Tritium"
+			x: 5.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["08F133284670841D"]
+			description: [
+				"While D-T Fuel can be used directly in the reactor, it's far better to use Deuterium and Tritium separately in your reactor in order to sustain the reaction."
+				""
+				"However, we'll still need a small amount of D-T Fuel loaded into a Hohlraum in order to kickstart the reaction."
+				""
+				"The Chemical Infuser will combine Deuterium and Tritium into D-T Fuel. Placing an empty Hohlraum into the center slot of the Chemical Infuser will load the D-T Fuel into the Hohlraum."
+				""
+				"Tip: Since we only need a small amount of D-T Fuel, it may be worthwhile investing in a Gauge Dropper. The Gauge Dropper can be used to pick and place up to 1000 mb of fluids/gases from one machine to another."
+			]
+			id: "6632548F638F3DE4"
+			rewards: [{
+				count: 3
+				id: "65B23D3EC67DC8D1"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "62208651FE4B7C87"
+				item: "mekanismgenerators:hohlraum"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["6632548F638F3DE4"]
+			description: [
+				"Besides the Hohlraum with D-T Fuel, the other thing we need to kickstart the reaction is a very large infusion of power very quickly."
+				""
+				"The Laser Amplifier collects the power of up to 5 Lasers aimed at it and stores it. The Amplifier can be controlled with redstone, so it can be triggered when enough power has been stored."
+				""
+				"For reference, the initial energy requirement is somewhere in the neighborhood of 600,000,000 to 800,000,000 RF."
+			]
+			id: "4E29887D815CC174"
+			rewards: [{
+				count: 3
+				id: "5B54816FC69684B6"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "39DCA0E034E29B3C"
+					item: "mekanism:laser_amplifier"
+					type: "item"
+				}
+				{
+					count: 5L
+					id: "379E788A9968A923"
+					item: { Count: 5, id: "mekanism:laser" }
+					type: "item"
+				}
+			]
+			x: 8.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["4E29887D815CC174"]
+			description: ["Now, we build the Reactor itself. It might be worthwhile to reference the Mekanism Wiki for reference pictures on the build structure as it is a unique shape."]
+			id: "6AA6CFC664679FEF"
+			rewards: [{
+				count: 3
+				id: "247FB484A89CDDF1"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "2A32ED04ACA2D80A"
+					item: "mekanismgenerators:fusion_reactor_controller"
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "078D5A3A08DC80FE"
+					item: { Count: 3, id: "mekanismgenerators:fusion_reactor_port" }
+					type: "item"
+				}
+				{
+					count: 62L
+					id: "75EC47A308692199"
+					item: { Count: 62, id: "mekanismgenerators:fusion_reactor_frame" }
+					type: "item"
+				}
+				{
+					id: "7CE87FA1B4FAE8BB"
+					item: "mekanismgenerators:laser_focus_matrix"
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["22A71C1526D1999E"]
+			description: [
+				"Link your base with redstone wire and alarm so that you can link it either to your power stroage to know when it is dangerously low or to your nuclear reactor to know when radiation are being emitted."
+				""
+				"You will need a screw driver to configure your wire."
+			]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			id: "17B59DAD919B9464"
+			optional: true
+			rewards: [{
+				count: 8
+				id: "7CF9E64E741B24FF"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			shape: "pentagon"
+			subtitle: "BONUS QUEST !!!!"
+			tasks: [
+				{
+					count: 4L
+					id: "15106B916E4A1653"
+					item: "mekanism:industrial_alarm"
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "76AAD9D2EC851416"
+					item: { Count: 2, id: "immersiveengineering:connector_redstone" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "0311970160C6749C"
+					item: "immersiveengineering:wirecoil_redstone"
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 3.5d
 		}
 	]
 	title: "Mekanism"

@@ -228,7 +228,7 @@
 		}
 		{
 			dependencies: ["252D324EB358BCAE"]
-			description: ["This is not a modpack made for beginner even if they can do it, I will only put explanation in the quest book that seems necessary for me, or if there is no guide book (in-game)."]
+			description: ["This is not a modpack made for beginner even if they can do it, I will only put explanation in the quest book that seems necessary for me, or if there is no guide book (in-game), or if I want to."]
 			id: "73493F835236078A"
 			rewards: [{
 				id: "5F5476001D6D187B"
@@ -241,6 +241,18 @@
 				type: "checkmark"
 			}]
 			x: -1.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["252D324EB358BCAE"]
+			description: ["There will be bonus optional quest, that are stupid or not but will give you more coin than other quests."]
+			id: "0A840E349DF8B863"
+			tasks: [{
+				id: "62A0080526E8C023"
+				title: "Bonus"
+				type: "checkmark"
+			}]
+			x: 1.0d
 			y: -2.0d
 		}
 	]

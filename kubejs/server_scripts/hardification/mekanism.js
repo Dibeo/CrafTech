@@ -66,4 +66,11 @@ ServerEvents.recipes((event) => {
     "#forge:storage_blocks/diamond",
     "#forge:gems/dimensional"
   );
+
+  event.remove({ id: "mekanism:fluid_tank/basic" });
+  event.shaped("mekanism:basic_fluid_tank", ["CSC", "SGS", "CSC"], {
+    C: "pneumaticcraft:transistor",
+    S: "#forge:plates/iron",
+    G: "mekanism:structural_glass",
+  });
 });

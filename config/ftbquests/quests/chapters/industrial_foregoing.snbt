@@ -16,6 +16,12 @@
 				"It will probably be useful for AE2."
 			]
 			id: "2C5FF113807E20DD"
+			rewards: [{
+				count: 2
+				id: "588DE773F6757F37"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "33CE6D9089BBF3FF"
 				item: "industrialforegoing:fluid_extractor"
@@ -27,6 +33,12 @@
 		{
 			dependencies: ["2C5FF113807E20DD"]
 			id: "4D35C0AA2D831E40"
+			rewards: [{
+				count: 2
+				id: "7701FC74781C81FD"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "669ED78A3D0EDE96"
 				item: "industrialforegoing:latex_bucket"
@@ -38,6 +50,12 @@
 		{
 			dependencies: ["2CE2EA918E2DE76A"]
 			id: "6E727AF178E73696"
+			rewards: [{
+				count: 2
+				id: "78BAF2456B4A5989"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "00E3D8A3EB9D2B9F"
 				item: "industrialforegoing:latex_processing_unit"
@@ -53,6 +71,12 @@
 			]
 			description: ["You will need sludge in the future probably not a lot but at least some."]
 			id: "73779E43DC09FFE1"
+			rewards: [{
+				count: 2
+				id: "127B02B6108A5C0A"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "657E2A4C5DB1A1FC"
 				item: "industrialforegoing:plant_gatherer"
@@ -64,6 +88,12 @@
 		{
 			dependencies: ["4EAEF836CC6D4386"]
 			id: "2CE2EA918E2DE76A"
+			rewards: [{
+				count: 2
+				id: "061640C2A81B96B6"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			size: 2.0d
 			tasks: [{
 				id: "60AB47A94D256E24"
@@ -79,6 +109,12 @@
 				"0016D8BAC7D58B57"
 			]
 			id: "241CFE3F1D98707E"
+			rewards: [{
+				count: 2
+				id: "01201D2C4C2F7C09"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			size: 2.0d
 			tasks: [{
 				id: "1172486C151EA07B"
@@ -91,6 +127,12 @@
 		{
 			dependencies: ["241CFE3F1D98707E"]
 			id: "6BFF79382D42FEAB"
+			rewards: [{
+				count: 2
+				id: "06E37C5DAF48166F"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			size: 2.0d
 			tasks: [{
 				id: "7643F4202C3E9C01"
@@ -103,6 +145,12 @@
 		{
 			dependencies: ["6BFF79382D42FEAB"]
 			id: "3CF0954E55F3C827"
+			rewards: [{
+				count: 2
+				id: "6BFED71F098F7EB7"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			size: 2.0d
 			tasks: [{
 				id: "5221D3898E94FF0D"
@@ -118,6 +166,12 @@
 				"4D35C0AA2D831E40"
 			]
 			id: "07BFAE8EF130AAFF"
+			rewards: [{
+				count: 2
+				id: "48680A56D2780277"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "66E258BD4C182ED6"
 				item: "industrialforegoing:tinydryrubber"
@@ -129,6 +183,12 @@
 		{
 			dependencies: ["07BFAE8EF130AAFF"]
 			id: "71F3FF420E443E67"
+			rewards: [{
+				count: 2
+				id: "27A0DEF2ECE51C5F"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "31FD1FFBBF184D82"
 				item: "industrialforegoing:dryrubber"
@@ -140,6 +200,12 @@
 		{
 			dependencies: ["71F3FF420E443E67"]
 			id: "7EB76536468B0AA4"
+			rewards: [{
+				count: 2
+				id: "0958CCCC8743DEA8"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "62C2261402352F21"
 				item: "industrialforegoing:plastic"
@@ -154,6 +220,12 @@
 				"2CE2EA918E2DE76A"
 			]
 			id: "098C53E5E69D2C86"
+			rewards: [{
+				count: 2
+				id: "06A67393872569D9"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "5469C2F5A72E6156"
 				item: "industrialforegoing:sewer"
@@ -168,6 +240,12 @@
 				"7EB76536468B0AA4"
 			]
 			id: "0016D8BAC7D58B57"
+			rewards: [{
+				count: 2
+				id: "00B7D435AC790D64"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "7D2A5E554B3539C2"
 				item: "industrialforegoing:dissolution_chamber"
@@ -183,6 +261,12 @@
 			]
 			description: ["Useful for automation."]
 			id: "1AF708252B0FE055"
+			rewards: [{
+				count: 2
+				id: "38438CA6686EA105"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "6B7F52039249DF31"
 				item: "industrialforegoing:block_breaker"
@@ -194,6 +278,12 @@
 		{
 			dependencies: ["2CE2EA918E2DE76A"]
 			id: "0E38D9D896BFE9AD"
+			rewards: [{
+				count: 2
+				id: "3171FACB05CA13CF"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "36A666A859913EF0"
 				item: "industrialforegoing:common_black_hole_tank"
@@ -208,6 +298,12 @@
 				"2CE2EA918E2DE76A"
 			]
 			id: "0A68942898E44D43"
+			rewards: [{
+				count: 2
+				id: "10184EDBCB00561B"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "5F460B8EB55607FD"
 				item: "industrialforegoing:pity_black_hole_tank"
@@ -222,6 +318,12 @@
 				"241CFE3F1D98707E"
 			]
 			id: "11F5095AB63F2200"
+			rewards: [{
+				count: 2
+				id: "5CEC40729EBFE713"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "6255C7009BC3C66E"
 				item: "industrialforegoing:simple_black_hole_tank"
@@ -236,6 +338,12 @@
 				"6BFF79382D42FEAB"
 			]
 			id: "4C86A6009A6E395A"
+			rewards: [{
+				count: 2
+				id: "68F15D4B22B7BA0D"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "7EF4A629C640DBA0"
 				item: "industrialforegoing:advanced_black_hole_tank"
@@ -250,6 +358,12 @@
 				"3CF0954E55F3C827"
 			]
 			id: "66DA82BEAF98D7FE"
+			rewards: [{
+				count: 2
+				id: "7C9E91BE89EC207D"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "2E961C85DF3B598C"
 				item: "industrialforegoing:supreme_black_hole_tank"
@@ -261,6 +375,12 @@
 		{
 			dependencies: ["2CE2EA918E2DE76A"]
 			id: "1E9450980735DC78"
+			rewards: [{
+				count: 2
+				id: "38821D547873701D"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "258BFE3690225283"
 				item: "industrialforegoing:common_black_hole_unit"
@@ -275,6 +395,12 @@
 				"2CE2EA918E2DE76A"
 			]
 			id: "374B8E980902BDB6"
+			rewards: [{
+				count: 2
+				id: "4A23610379A4E2D7"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "46D389A11D556275"
 				item: "industrialforegoing:pity_black_hole_unit"
@@ -289,6 +415,12 @@
 				"241CFE3F1D98707E"
 			]
 			id: "21226209021F945B"
+			rewards: [{
+				count: 2
+				id: "05F84E8B7AB0E5FD"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "5D56B5A9F0A3F46D"
 				item: "industrialforegoing:simple_black_hole_unit"
@@ -303,6 +435,12 @@
 				"6BFF79382D42FEAB"
 			]
 			id: "59592C6A8A90E92E"
+			rewards: [{
+				count: 2
+				id: "71782A4BAEF1655E"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "6A51BA07CBDCC967"
 				item: "industrialforegoing:advanced_black_hole_unit"
@@ -317,6 +455,12 @@
 				"3CF0954E55F3C827"
 			]
 			id: "667844BD67311F61"
+			rewards: [{
+				count: 2
+				id: "1F2836EB3406C54A"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "3782A90BFCF139D0"
 				item: "industrialforegoing:supreme_black_hole_unit"
@@ -329,6 +473,12 @@
 			dependencies: ["3CF0954E55F3C827"]
 			description: ["You can put multiple unit in this and connect it to your ae system for mass storage."]
 			id: "1BA6F9A9DD162F41"
+			rewards: [{
+				count: 2
+				id: "37CFA1DA545FB16F"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "317AA72443F9A05C"
 				item: "industrialforegoing:black_hole_controller"
@@ -340,6 +490,12 @@
 		{
 			dependencies: ["2CE2EA918E2DE76A"]
 			id: "59D969C482B2B4A6"
+			rewards: [{
+				count: 2
+				id: "5E51362728D267B5"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "40F99F1EA9498D37"
 				item: "industrialforegoing:resourceful_furnace"
@@ -352,6 +508,12 @@
 			dependencies: ["6BFF79382D42FEAB"]
 			description: ["This is a ore genrator, which means that it will not really mine in the ground but will generate ore."]
 			id: "54171442DAA93CFC"
+			rewards: [{
+				count: 2
+				id: "588398360D544EA6"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "12A4578C40F53304"
@@ -371,6 +533,12 @@
 		{
 			dependencies: ["6BFF79382D42FEAB"]
 			id: "376D2C4000E45756"
+			rewards: [{
+				count: 2
+				id: "5E8CDD30DEEC8793"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "03E548ED35876DFA"
@@ -389,6 +557,12 @@
 		{
 			dependencies: ["6BFF79382D42FEAB"]
 			id: "5976B755BA20BC92"
+			rewards: [{
+				count: 2
+				id: "6CEA267052CC8CA8"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "0CF11D4026974941"
 				item: "industrialforegoing:enchantment_extractor"
@@ -400,6 +574,12 @@
 		{
 			dependencies: ["6BFF79382D42FEAB"]
 			id: "56FE243A292D6F3E"
+			rewards: [{
+				count: 2
+				id: "09A24F48D5617D52"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "520D8C02F04B6AA7"
 				item: "industrialforegoing:enchantment_applicator"
@@ -412,6 +592,12 @@
 			dependencies: ["6BFF79382D42FEAB"]
 			description: ["You will this to create a chamber to mine a wither boss with a laser base and lens, to create a fluid that you will need."]
 			id: "415F4100B92D886D"
+			rewards: [{
+				count: 2
+				id: "4A7E3C3041B2CE5F"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "0D76E86C81820CA4"
 				item: "industrialforegoing:stasis_chamber"
@@ -423,6 +609,12 @@
 		{
 			dependencies: ["241CFE3F1D98707E"]
 			id: "21D88E3FDB4D039B"
+			rewards: [{
+				count: 2
+				id: "0C10FEB8FCAE74BF"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "419338559CA5733A"
 				item: "industrialforegoing:plant_fertilizer"
@@ -434,6 +626,12 @@
 		{
 			dependencies: ["241CFE3F1D98707E"]
 			id: "45D44BF04649E670"
+			rewards: [{
+				count: 2
+				id: "69DD9CE63C5F7A15"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "6F8B51619337D5C5"
 				item: "industrialforegoing:plant_gatherer"
@@ -449,6 +647,12 @@
 				"Put this on top of a 3x3 of water, give it a fishing rod, power it and eat fish."
 			]
 			id: "74667C85F077B4E6"
+			rewards: [{
+				count: 2
+				id: "77650CD27B5852C1"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "2E0242799DD93CAD"
 				item: "industrialforegoing:marine_fisher"
@@ -462,9 +666,15 @@
 			description: [
 				"There is quite a lot of generator, so look for the one you prefer."
 				""
-				"But make this one."
+				"But this one is the most useful."
 			]
 			id: "04DBEC9D65A979D5"
+			rewards: [{
+				count: 2
+				id: "323FA6578841AC48"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "6EB880A61BEAC10F"
 				item: "industrialforegoing:mycelial_pink"

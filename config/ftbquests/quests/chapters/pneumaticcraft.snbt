@@ -14,6 +14,11 @@
 				"{image:pneumaticcraft:textures/patchouli/compressed_iron.png width:100 height:100 align:center}"
 			]
 			id: "4EAEF836CC6D4386"
+			rewards: [{
+				id: "70AC86F0FBBB33BB"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				count: 8L
 				id: "23006D8B352182A4"
@@ -51,6 +56,11 @@
 		{
 			dependencies: ["584160731C980445"]
 			id: "12F723052D050290"
+			rewards: [{
+				id: "288A453F11591145"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "54AE3B5614CDAC1E"
@@ -77,6 +87,11 @@
 		{
 			dependencies: ["4EAEF836CC6D4386"]
 			id: "22ECC58AAADC256E"
+			rewards: [{
+				id: "424903922063CAC2"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				count: 8L
 				id: "673855F0BE9FCA76"
@@ -89,6 +104,11 @@
 		{
 			dependencies: ["22ECC58AAADC256E"]
 			id: "12125E80698A6137"
+			rewards: [{
+				id: "4531D5E673AD5EBA"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "4CCE2CA70A506978"
 				item: "pneumaticcraft:charging_station"
@@ -100,6 +120,11 @@
 		{
 			dependencies: ["22ECC58AAADC256E"]
 			id: "45F094F07E3AAF64"
+			rewards: [{
+				id: "57BC71DB9BF2D7F7"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "5BE24329F47A26AD"
 				item: "pneumaticcraft:vortex_tube"
@@ -111,6 +136,11 @@
 		{
 			dependencies: ["22ECC58AAADC256E"]
 			id: "46F758E13FC80875"
+			rewards: [{
+				id: "33EE29CCF854EC31"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "36A3130E98B8D5C3"
 				item: "pneumaticcraft:air_compressor"
@@ -122,6 +152,11 @@
 		{
 			dependencies: ["22ECC58AAADC256E"]
 			id: "03A033A81C09186E"
+			rewards: [{
+				id: "01FDF8282D1649D8"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "1FDFDE4689BBF921"
 				item: "pneumaticcraft:pressure_gauge_module"
@@ -133,6 +168,11 @@
 		{
 			dependencies: ["45F094F07E3AAF64"]
 			id: "5B9C2984412C704F"
+			rewards: [{
+				id: "61E4253D3ED28792"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "019AB6F8A8FF3C76"
@@ -152,6 +192,11 @@
 		{
 			dependencies: ["5B9C2984412C704F"]
 			id: "0FBB62C826B622E6"
+			rewards: [{
+				id: "7BDB43A080D3EC94"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "159417A4036AA1D0"
 				item: "pneumaticcraft:thermopneumatic_processing_plant"
@@ -164,6 +209,11 @@
 			dependencies: ["0FBB62C826B622E6"]
 			description: ["This will be useful for a lot of things."]
 			id: "47367B8D378F20D4"
+			rewards: [{
+				id: "5A2A0439979D7E7A"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "14BDBF9BDE89131F"
 				item: "pneumaticcraft:fluid_mixer"
@@ -175,6 +225,11 @@
 		{
 			dependencies: ["5B9C2984412C704F"]
 			id: "34DDD22441B34A44"
+			rewards: [{
+				id: "7C22A930E6A1A6F5"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "79CDBFA66F13AB78"
 				item: "pneumaticcraft:lpg_bucket"
@@ -190,6 +245,11 @@
 				"0FBB62C826B622E6"
 			]
 			id: "63FB6845C6E90587"
+			rewards: [{
+				id: "71F4518B07433309"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "77948552938FDCE6"
 				item: "pneumaticcraft:plastic_bucket"
@@ -201,6 +261,11 @@
 		{
 			dependencies: ["47367B8D378F20D4"]
 			id: "31D124703E5EE16C"
+			rewards: [{
+				id: "318081248F9F09BC"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "5924E6EAD635EE4C"
 				item: {
@@ -228,6 +293,11 @@
 		{
 			dependencies: ["63FB6845C6E90587"]
 			id: "584160731C980445"
+			rewards: [{
+				id: "615D9A994E5DEAE3"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				count: 8L
 				id: "136E970708A4D297"
@@ -240,6 +310,11 @@
 		{
 			dependencies: ["47367B8D378F20D4"]
 			id: "18B3DBD2B5003AF4"
+			rewards: [{
+				id: "135D4FB26124C20C"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "61BECB3CD293AD3F"
 				item: "pneumaticcraft:heat_sink"
@@ -251,6 +326,11 @@
 		{
 			dependencies: ["18B3DBD2B5003AF4"]
 			id: "44B0E91742B68773"
+			rewards: [{
+				id: "55A07B2C9AE9BD37"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [
 				{
 					count: 22L
@@ -281,6 +361,11 @@
 		{
 			dependencies: ["44B0E91742B68773"]
 			id: "3EB34D4B76C74DFF"
+			rewards: [{
+				id: "68544F99EBA0D51D"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				count: 4L
 				id: "23A5459046EDD980"
@@ -293,6 +378,11 @@
 		{
 			dependencies: ["44B0E91742B68773"]
 			id: "19D0612C5C46D018"
+			rewards: [{
+				id: "20E8AA1627E1283F"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				count: 4L
 				id: "646B6083CE683D3F"
@@ -310,6 +400,11 @@
 				"797108FD1CF6008F"
 			]
 			id: "323F80DE3469DAC6"
+			rewards: [{
+				id: "71799957D84D0114"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "7E41EE60FE79983C"
 				item: "pneumaticcraft:printed_circuit_board"
@@ -321,6 +416,11 @@
 		{
 			dependencies: ["44B0E91742B68773"]
 			id: "0FB5DFB2067CCF1E"
+			rewards: [{
+				id: "78BF92086492F9F7"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "5F21849800D82F9D"
 				item: "pneumaticcraft:etching_acid_bucket"
@@ -332,6 +432,11 @@
 		{
 			dependencies: ["0FB5DFB2067CCF1E"]
 			id: "4CA9DD87A33C3BA1"
+			rewards: [{
+				id: "5869CAD646E4826F"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "0EC13CF11AB6AF59"
 				item: "pneumaticcraft:etching_tank"
@@ -346,6 +451,11 @@
 				"03ACE737981280E3"
 			]
 			id: "39C71C353F1DB9F5"
+			rewards: [{
+				id: "6EA7B30759342069"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "2E46D52181727680"
 				item: "pneumaticcraft:unassembled_pcb"
@@ -357,6 +467,11 @@
 		{
 			dependencies: ["584160731C980445"]
 			id: "0DA9CB45EADCA216"
+			rewards: [{
+				id: "48425BA5FB1101E9"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "138E3031B696FE50"
 				item: "pneumaticcraft:amadron_tablet"
@@ -368,6 +483,11 @@
 		{
 			dependencies: ["0DA9CB45EADCA216"]
 			id: "36CCE936C1EE8A72"
+			rewards: [{
+				id: "3E9213DF0AA294BD"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "0A92ED0C29467396"
 				item: "pneumaticcraft:pcb_blueprint"
@@ -379,6 +499,11 @@
 		{
 			dependencies: ["36CCE936C1EE8A72"]
 			id: "13EF88982D472DE2"
+			rewards: [{
+				id: "395F5782B6650B93"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "3FB089A745C32D14"
 				item: "pneumaticcraft:uv_light_box"
@@ -390,6 +515,11 @@
 		{
 			dependencies: ["13EF88982D472DE2"]
 			id: "03ACE737981280E3"
+			rewards: [{
+				id: "7266B9FBCA64571B"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "3120A4DEECCEEBFA"
 				item: "pneumaticcraft:empty_pcb"
@@ -401,6 +531,11 @@
 		{
 			dependencies: ["46777F1112220100"]
 			id: "797108FD1CF6008F"
+			rewards: [{
+				id: "7642548C8C91F43E"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "0F67C2411733CCCD"
@@ -439,6 +574,11 @@
 		{
 			dependencies: ["03ACE737981280E3"]
 			id: "61CA7895544CF2D1"
+			rewards: [{
+				id: "4039C89EEE54CB67"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "1E3AD751708C1819"
 				item: "pneumaticcraft:assembly_program_drill_laser"
@@ -450,6 +590,11 @@
 		{
 			dependencies: ["61CA7895544CF2D1"]
 			id: "46777F1112220100"
+			rewards: [{
+				id: "4405B53F58290B44"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "6A73354F5F8A8C2E"
 				item: "pneumaticcraft:advanced_pressure_tube"
@@ -461,6 +606,11 @@
 		{
 			dependencies: ["46777F1112220100"]
 			id: "278E1AC07E492ED2"
+			rewards: [{
+				id: "71E02F0538492295"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "101AB42F5CB055EC"
 				item: "pneumaticcraft:advanced_air_compressor"
@@ -473,6 +623,11 @@
 			dependencies: ["4EAEF836CC6D4386"]
 			hide_dependency_lines: true
 			id: "4DD2351E5CB8BA35"
+			rewards: [{
+				id: "18ADB29BB7E657EE"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "6297AD9482627230"
@@ -497,6 +652,11 @@
 		{
 			dependencies: ["12125E80698A6137"]
 			id: "0831DD22B983028B"
+			rewards: [{
+				id: "22BC11E7F63AD717"
+				item: "kubejs:coin"
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "7F40184FB587ACC3"

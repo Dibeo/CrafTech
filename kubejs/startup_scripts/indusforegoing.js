@@ -10,4 +10,10 @@ StartupEvents.registry("item", (event) => {
     .texture("industrialforegoing:item/lapis_lazuli_gear")
     .tag("forge:gears")
     .tag("forge:gears/lapis");
+
+    event
+    .create("fluix_gear")
+    .texture("industrialforegoing:item/fluix_gear")
+    .tag("forge:gears")
+    .tag("forge:gears/fluix");
 });

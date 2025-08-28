@@ -245,7 +245,11 @@
 		}
 		{
 			dependencies: ["252D324EB358BCAE"]
-			description: ["There will be bonus optional quest, that are stupid or not but will give you more coin than other quests."]
+			description: [
+				"There will be bonus optional quest, that are stupid or not but will give you more coin than other quests."
+				""
+				"Most of them does not ask particularly anything so please play it fair and only check them when done."
+			]
 			id: "0A840E349DF8B863"
 			tasks: [{
 				id: "62A0080526E8C023"

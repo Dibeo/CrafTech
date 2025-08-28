@@ -4,7 +4,7 @@
 	filename: "end"
 	group: ""
 	id: "7361FFFF8F7B13E5"
-	order_index: 8
+	order_index: 9
 	quest_links: [ ]
 	quests: [
 		{
@@ -232,7 +232,9 @@
 		}
 		{
 			dependencies: ["01684952DD565FD5"]
+			description: ["As of now I did not figure How to add tag on craft result using kubejs, if you know please tell me either open an issue on github or ping me on the discord, that would help me a lot."]
 			id: "5DAD8A8FF6EA7626"
+			optional: true
 			rewards: [{
 				count: 16
 				id: "4241E4C0F4384643"

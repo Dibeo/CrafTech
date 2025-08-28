@@ -382,6 +382,10 @@
         "isSelected": true
       },
       {
+        "path": "config\\forgeendertech\\Biomes\\minecraft$birch_forest.cfg",
+        "isSelected": true
+      },
+      {
         "path": "config\\forgeendertech\\Biomes\\minecraft$cold_ocean.cfg",
         "isSelected": true
       },
@@ -399,6 +403,10 @@
       },
       {
         "path": "config\\forgeendertech\\Biomes\\minecraft$flower_forest.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgeendertech\\Biomes\\minecraft$forest.cfg",
         "isSelected": true
       },
       {
@@ -2566,6 +2574,10 @@
         "isSelected": true
       },
       {
+        "path": "kubejs\\assets\\industrialforegoing\\textures\\item\\fluix_gear.png",
+        "isSelected": false
+      },
+      {
         "path": "kubejs\\assets\\industrialforegoing\\textures\\item\\lapis_lazuli_gear.png",
         "isSelected": true
       },
@@ -3082,6 +3094,22 @@
         "isSelected": false
       },
       {
+        "path": "logs\\2025-08-26-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-08-28-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-08-28-2.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-08-28-3.log.gz",
+        "isSelected": false
+      },
+      {
         "path": "logs\\latest.log",
         "isSelected": false
       },
@@ -3174,7 +3202,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\AdLods-1.20.1-8.1.6.0-build.1450.jar",
+        "path": "mods\\AdLods-1.20.1-8.1.7.0-build.1496.jar",
         "isSelected": true
       },
       {
@@ -3182,7 +3210,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\almostunified-forge-1.20.1-0.10.0.jar",
+        "path": "mods\\almostunified-forge-1.20.1-0.10.1.jar",
         "isSelected": true
       },
       {
@@ -3198,7 +3226,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\appliedenergistics2-forge-15.4.7.jar",
+        "path": "mods\\appliedenergistics2-forge-15.4.8.jar",
         "isSelected": true
       },
       {
@@ -3206,7 +3234,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\baguettelib-1.20.1-Forge-1.0.0.jar",
+        "path": "mods\\baguettelib-1.20.1-Forge-1.1.0.jar",
         "isSelected": true
       },
       {
@@ -3222,7 +3250,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\buildinggadgets2-1.0.7.jar",
+        "path": "mods\\buildinggadgets2-1.0.8.jar",
         "isSelected": true
       },
       {
@@ -3258,7 +3286,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\CommonCapabilities-1.20.1-2.9.7.jar",
+        "path": "mods\\CommonCapabilities-1.20.1-2.9.8.jar",
         "isSelected": true
       },
       {
@@ -3274,7 +3302,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\corpsecurioscompat-1.20.x-Forge-3.0.2.jar",
+        "path": "mods\\corpsecurioscompat-1.20.1-Forge-3.1.2.jar",
         "isSelected": true
       },
       {
@@ -3286,7 +3314,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\Cucumber-1.20.1-7.0.14.jar",
+        "path": "mods\\Cucumber-1.20.1-7.0.15.jar",
         "isSelected": true
       },
       {
@@ -3390,7 +3418,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\ftb-ultimine-forge-2001.1.6.jar",
+        "path": "mods\\ftb-ultimine-forge-2001.1.7.jar",
         "isSelected": true
       },
       {
@@ -3398,15 +3426,15 @@
         "isSelected": true
       },
       {
-        "path": "mods\\ftbquestlocalizer-1.20.1-forge-3.2.0.jar",
+        "path": "mods\\ftbquestlocalizer-1.20.1-forge-3.2.2.jar",
         "isSelected": true
       },
       {
-        "path": "mods\\fusion-1.2.10-forge-mc1.20.1.jar",
+        "path": "mods\\fusion-1.2.11a-forge-mc1.20.1.jar",
         "isSelected": true
       },
       {
-        "path": "mods\\geckolib-forge-1.20.1-4.7.3.jar",
+        "path": "mods\\geckolib-forge-1.20.1-4.7.4.jar",
         "isSelected": true
       },
       {
@@ -3442,7 +3470,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\Jade-1.20.1-Forge-11.13.1.jar",
+        "path": "mods\\Jade-1.20.1-Forge-11.13.2.jar",
         "isSelected": true
       },
       {
@@ -3494,7 +3522,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\lootr-forge-1.20-0.7.35.91.jar",
+        "path": "mods\\lootr-forge-1.20-0.7.35.92.jar",
         "isSelected": true
       },
       {
@@ -3518,7 +3546,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\modernfix-forge-5.24.3+mc1.20.1.jar",
+        "path": "mods\\modernfix-forge-5.24.4+mc1.20.1.jar",
         "isSelected": true
       },
       {
@@ -3546,7 +3574,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\packetfixer-3.1.4-1.18-1.20.4-merged.jar",
+        "path": "mods\\packetfixer-3.2.0-1.18-1.20.4-merged.jar",
         "isSelected": true
       },
       {

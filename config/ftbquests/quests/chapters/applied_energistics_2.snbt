@@ -5,7 +5,7 @@
 	group: ""
 	icon: "ae2:controller"
 	id: "13604AACA44F76EB"
-	order_index: 6
+	order_index: 7
 	quest_links: [ ]
 	quests: [
 		{
@@ -207,6 +207,7 @@
 		}
 		{
 			can_repeat: true
+			description: ["Having a hard time finding a meteorite ?"]
 			icon: "ae2:meteorite_compass"
 			id: "5D4985A6C04C1453"
 			optional: true

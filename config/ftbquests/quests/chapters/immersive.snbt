@@ -11,10 +11,11 @@
 		}
 	}
 	id: "1E0CE33BC1FAE98F"
-	order_index: 3
+	order_index: 4
 	quest_links: [ ]
 	quests: [
 		{
+			description: ["Those are the basics of the mod everything is detailed in it, at least more than in this quest book."]
 			id: "7D7EEBD7B3A6267E"
 			rewards: [{
 				id: "44A20357C22C3BCA"
@@ -91,7 +92,10 @@
 		}
 		{
 			dependencies: ["7D7EEBD7B3A6267E"]
-			description: ["You put iron and either charcoal (less efficient) or coal coke to fire it up."]
+			description: [
+				"You put iron and either charcoal (less efficient) or coal coke to fire it up."
+				"{image:ftbquests:textures/quests/blastfurnace.png width:100 height:100 align:center}"
+			]
 			id: "65974759E3A23B45"
 			rewards: [{
 				id: "40B1B6F14125AE8E"
@@ -151,6 +155,12 @@
 		}
 		{
 			dependencies: ["65974759E3A23B45"]
+			description: [
+				"This is faster and can be more fatser by adding the pre-heater."
+				""
+				""
+				"{image:ftbquests:textures/quests/improved_blast_furnace.png width:100 height:100 align:center}"
+			]
 			id: "5DD051CD863C6807"
 			rewards: [{
 				id: "4BCA5CAA1B69EF8B"
@@ -671,6 +681,7 @@
 		}
 		{
 			dependencies: ["55322D9D43D7FCC6"]
+			description: ["You will need one,"]
 			id: "091068A4B9ECC30D"
 			rewards: [{
 				id: "5DE7FA30211024D1"

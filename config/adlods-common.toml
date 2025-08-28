@@ -31,3 +31,7 @@
 	#
 	disabledFeatures = []
 
+[Stripper]
+	#Automatically dress previously stripped chunks before unloading them to prevent data loss
+	dressUnloadedChunks = true
+

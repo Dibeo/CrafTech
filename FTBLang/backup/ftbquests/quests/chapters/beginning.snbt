@@ -1,0 +1,264 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "diamond"
+	filename: "beginning"
+	group: ""
+	icon: "minecraft:grass_block"
+	id: "57547FD7C99B376E"
+	images: [
+		{
+			height: 1.0d
+			image: "pneumaticcraft:item/pressure_gauge"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "immersiveengineering:item/tool_hammer"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "ae2:block/controller_inside_a_powered"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "ae2:block/controller_lights"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "industrialforegoing:item/rubber"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:item/alloy_infused"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: 5.0d
+		}
+		{
+			height: 4.0d
+			image: "ae2:textures/gui/sprites/guide/inscriber_arrows_bg.png"
+			rotation: 90.0d
+			width: 2.0d
+			x: 5.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "guideme:textures/gui/sprites/recipe_arrow.png"
+			rotation: 90.0d
+			width: 2.0d
+			x: 5.5d
+			y: 3.5d
+		}
+		{
+			height: 4.0d
+			image: "ae2:textures/gui/sprites/guide/inscriber_arrows_bg.png"
+			rotation: -90.0d
+			width: 2.0d
+			x: 5.5d
+			y: -2.5d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"Welcome in CrafTech."
+				""
+				"This modpack is not for beginners, even if I will try my best to explain most of the process."
+			]
+			id: "252D324EB358BCAE"
+			rewards: [{
+				id: "50008C4E32C5D9E6"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2E72AB9FEBC6B3F4"
+				title: "1."
+				type: "checkmark"
+			}]
+			title: "Welcome"
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["252D324EB358BCAE"]
+			description: [
+				"This modpack is tech oriented, that mean no magic mod, no overpowered enchantment and no new hardcore mobs or boss."
+				""
+				"No long session of exploration."
+			]
+			id: "04E7255540408951"
+			rewards: [{
+				id: "1D74621CC785B78C"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "42F65E8A670647F7"
+				title: "Tech Oriented"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["04E7255540408951"]
+			description: ["It is recommended to automate at the very least the items and ressources asked in the quest book."]
+			id: "3120DFD954F48E6B"
+			rewards: [{
+				id: "6E69F5DC259AD43A"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "0CB1C5DA4CB78EA0"
+				title: "Automation"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["3120DFD954F48E6B"]
+			description: ["In this pack most quest will reward you with coin, with them you will be able to purchase items that are uncraftable or you just don't want to craft them."]
+			id: "0415554933FEB27E"
+			rewards: [{
+				id: "31727A1D426B0A02"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4FF54B13A5E86E4C"
+				title: "Currency"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["72D0AF9A0A01ACAD"]
+			description: ["Put your multiblock in one chunk if possible."]
+			id: "2039D65F94C166D7"
+			rewards: [{
+				id: "6914EC11C452C678"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "7B53AFDE439F1EFB"
+				title: "Chunck based machine"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["0415554933FEB27E"]
+			description: ["You have a veinmine mod so make sure you configured the key."]
+			id: "72D0AF9A0A01ACAD"
+			rewards: [{
+				id: "6654A21A65F838AD"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "4E3DC1EC9CC27E25"
+				title: "VeinMine"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["2039D65F94C166D7"]
+			description: ["If you found a village you should keep it as you will probably need to trade with villagers."]
+			id: "329EB55789DE977C"
+			rewards: [{
+				id: "11D4C7E4DDFEB6F8"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "079F678ACABE4DC9"
+				title: "Villagers"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["2039D65F94C166D7"]
+			description: ["This is a tech modpack so for the chunkloader you will either have to craft the dimensional stabilizer of mekanism or just buy them in the market."]
+			id: "7544D64DBD1D137B"
+			rewards: [{
+				id: "24C3A48905552465"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "6EFE42697C149158"
+				title: "Chunkload"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["252D324EB358BCAE"]
+			description: ["This is not a modpack made for beginner even if they can do it, I will only put explanation in the quest book that seems necessary for me, or if there is no guide book (in-game), or if I want to."]
+			id: "73493F835236078A"
+			rewards: [{
+				id: "5F5476001D6D187B"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "5C0CD72B3AB82E3E"
+				title: "Explanation"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["252D324EB358BCAE"]
+			description: [
+				"There will be bonus optional quest, that are stupid or not but will give you more coin than other quests."
+				""
+				"Most of them does not ask particularly anything so please play it fair and only check them when done."
+			]
+			id: "0A840E349DF8B863"
+			tasks: [{
+				id: "62A0080526E8C023"
+				title: "Bonus"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: -2.0d
+		}
+	]
+	title: "Beginning"
+}

@@ -1,0 +1,633 @@
+{
+	consume_items: true
+	default_hide_dependency_lines: false
+	default_quest_shape: "hexagon"
+	default_repeatable_quest: true
+	filename: "market"
+	group: ""
+	icon: "kubejs:coin"
+	id: "0E2FF256D4A8E96A"
+	images: [{
+		height: 5.0d
+		image: "kubejs:item/coin"
+		rotation: 0.0d
+		width: 5.0d
+		x: 0.5d
+		y: -5.0d
+	}]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				Count: 1
+				id: "simplemagnets:basicmagnet"
+				tag: { }
+			}
+			id: "0E934816F5673484"
+			optional: true
+			rewards: [{
+				id: "4A006AD6292DBEE4"
+				item: {
+					Count: 1
+					id: "simplemagnets:basicmagnet"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 16L
+				id: "55FD8EF513F1F6DD"
+				item: { Count: 16, id: "kubejs:coin" }
+				type: "item"
+			}]
+			title: "Magnet"
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "simplemagnets:advancedmagnet"
+				tag: { }
+			}
+			id: "2D5E6CE665036CE0"
+			optional: true
+			rewards: [{
+				id: "7FB18B704F6F011C"
+				item: {
+					Count: 1
+					id: "simplemagnets:advancedmagnet"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 32L
+				id: "60750DF45D30A765"
+				item: { Count: 32, id: "kubejs:coin" }
+				type: "item"
+			}]
+			title: "Advanced Magnet"
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			icon: "comforts:sleeping_bag_white"
+			id: "7529F3C8A1980D9C"
+			optional: true
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2573A0803A242F62"
+				table_id: 185378701306816551L
+				type: "random"
+			}]
+			subtitle: "Random between each color"
+			tasks: [{
+				count: 8L
+				id: "662AE6C1A7EB31AA"
+				item: { Count: 8, id: "kubejs:coin" }
+				type: "item"
+			}]
+			title: "Sleeping Bag"
+			x: -0.5d
+			y: 1.0d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "tiab:time_in_a_bottle"
+				tag: { }
+			}
+			id: "5BC567C4FEF938B7"
+			optional: true
+			rewards: [{
+				id: "43B1167993F69AF3"
+				item: {
+					Count: 1
+					id: "tiab:time_in_a_bottle"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 128L
+				id: "446136D49F708764"
+				item: { Count: 128, id: "kubejs:coin" }
+				type: "item"
+			}]
+			title: "Time in a bottle"
+			x: 0.5d
+			y: 1.0d
+		}
+		{
+			description: ["Useful to locate specific biome."]
+			icon: {
+				Count: 1
+				id: "naturescompass:naturescompass"
+				tag: { }
+			}
+			id: "66A6AD331C28632D"
+			optional: true
+			rewards: [{
+				id: "0AF9FB37B6BAC2A5"
+				item: {
+					Count: 1
+					id: "naturescompass:naturescompass"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 96L
+				id: "388B2D015A4AEC9E"
+				item: { Count: 96, id: "kubejs:coin" }
+				type: "item"
+			}]
+			title: "Nature's Compass"
+			x: -0.5d
+			y: -1.0d
+		}
+		{
+			description: ["You can use it to track your latest death point, but in this case it's more if you to craft one of the two other compass for a little less."]
+			icon: "minecraft:recovery_compass"
+			id: "59B6D407FD7C2435"
+			optional: true
+			rewards: [{
+				id: "7A737184AC816DC9"
+				item: "minecraft:recovery_compass"
+				type: "item"
+			}]
+			tasks: [{
+				count: 72L
+				id: "0260BF417CDB68C0"
+				item: { Count: 72, id: "kubejs:coin" }
+				type: "item"
+			}]
+			title: "Recovery Compass"
+			x: 0.5d
+			y: -1.0d
+		}
+		{
+			description: ["Useful to locate specific structure."]
+			icon: {
+				Count: 1
+				id: "explorerscompass:explorerscompass"
+				tag: { }
+			}
+			id: "0A11F23ACDE4FB28"
+			optional: true
+			rewards: [{
+				id: "0205F7EBC382A896"
+				item: {
+					Count: 1
+					id: "explorerscompass:explorerscompass"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 96L
+				id: "786008D73C080808"
+				item: { Count: 96, id: "kubejs:coin" }
+				type: "item"
+			}]
+			title: "Explorer's Compass"
+			x: 1.5d
+			y: -1.0d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "toolbelt:belt"
+				tag: { }
+			}
+			id: "1F0ECB597E63484B"
+			optional: true
+			rewards: [{
+				id: "546747747DA771E7"
+				item: {
+					Count: 1
+					id: "toolbelt:belt"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 32L
+				id: "46A05E4EAE237E31"
+				item: { Count: 32, id: "kubejs:coin" }
+				type: "item"
+			}]
+			title: "Tool Belt"
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			icon: "toolbelt:pouch"
+			id: "27BCB6A0C968A9F9"
+			optional: true
+			rewards: [{
+				id: "421CE6E1A1CAF8DA"
+				item: "toolbelt:pouch"
+				type: "item"
+			}]
+			tasks: [{
+				count: 16L
+				id: "37E169A1F3635C24"
+				item: { Count: 16, id: "kubejs:coin" }
+				type: "item"
+			}]
+			title: "Belt pouch"
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			icon: "comforts:hammock_white"
+			id: "0116A2DC836EE47E"
+			optional: true
+			rewards: [
+				{
+					count: 2
+					id: "2CEA1EA656BCAB7B"
+					item: "comforts:rope_and_nail"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0A3ECF4721673368"
+					table_id: 2102284063082552191L
+					type: "random"
+				}
+			]
+			subtitle: "Random between each color"
+			tasks: [{
+				count: 8L
+				id: "31C24F8A3F09317F"
+				item: { Count: 8, id: "kubejs:coin" }
+				type: "item"
+			}]
+			title: "Hammock"
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "constructionwand:stone_wand"
+				tag: {
+					Damage: 0
+					wand_options: { }
+				}
+			}
+			id: "6176F8C12EB9087A"
+			optional: true
+			rewards: [{
+				id: "44E68D2A969F46C2"
+				item: {
+					Count: 1
+					id: "constructionwand:stone_wand"
+					tag: {
+						Damage: 0
+						wand_options: { }
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 16L
+				id: "41976E6D793AED63"
+				item: { Count: 16, id: "kubejs:coin" }
+				type: "item"
+			}]
+			title: "Stone Wand"
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "constructionwand:iron_wand"
+				tag: {
+					Damage: 0
+					wand_options: { }
+				}
+			}
+			id: "16F6C5B87C3069C4"
+			optional: true
+			rewards: [{
+				id: "729644E00D9B6940"
+				item: {
+					Count: 1
+					id: "constructionwand:iron_wand"
+					tag: {
+						Damage: 0
+						wand_options: { }
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 32L
+				id: "36898D43268C32E0"
+				item: { Count: 32, id: "kubejs:coin" }
+				type: "item"
+			}]
+			title: "Iron Wand"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "constructionwand:diamond_wand"
+				tag: {
+					Damage: 0
+					wand_options: { }
+				}
+			}
+			id: "4C05B544857E9F1A"
+			optional: true
+			rewards: [{
+				id: "342D14E626F4DD42"
+				item: {
+					Count: 1
+					id: "constructionwand:diamond_wand"
+					tag: {
+						Damage: 0
+						wand_options: { }
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 64L
+				id: "486E7FC7E6D3BFDE"
+				item: { Count: 64, id: "kubejs:coin" }
+				type: "item"
+			}]
+			title: "Diamond Wand"
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "constructionwand:infinity_wand"
+				tag: {
+					wand_options: { }
+				}
+			}
+			id: "131602CA995F85D6"
+			optional: true
+			rewards: [{
+				id: "191824C17B0BC689"
+				item: {
+					Count: 1
+					id: "constructionwand:infinity_wand"
+					tag: {
+						wand_options: { }
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 192L
+				id: "34D9207610354AD3"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			title: "Infinity Wand"
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			description: ["At one point you will be able to disenchant things, it might be intersting."]
+			icon: {
+				Count: 1
+				id: "minecraft:wooden_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "3ACAAB4D6BF9068C"
+			optional: true
+			rewards: [{
+				id: "4AF55875D55FE5BA"
+				item: {
+					Count: 1
+					id: "minecraft:wooden_sword"
+					tag: {
+						Damage: 58
+						Enchantments: [
+							{
+								id: "looting"
+								lvl: 10
+							}
+							{
+								id: "sharpness"
+								lvl: 10
+							}
+							{
+								id: "sweeping_edge"
+								lvl: 10
+							}
+						]
+						display: {
+							Name: "[\"\",{\"text\":\"Quite a good sword\",\"italic\":false}]"
+						}
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 64L
+				id: "3DC8A177AEC1392B"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			title: "Quite a good sword"
+			x: 0.5d
+			y: 3.0d
+		}
+		{
+			description: ["At one point you will be able to take enchantment off."]
+			icon: {
+				Count: 1
+				id: "minecraft:wooden_pickaxe"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "7EA320D153B2315E"
+			optional: true
+			rewards: [{
+				id: "564C6A999A3B1D38"
+				item: {
+					Count: 1
+					id: "minecraft:wooden_pickaxe"
+					tag: {
+						Damage: 58
+						Enchantments: [
+							{
+								id: "efficiency"
+								lvl: 10
+							}
+							{
+								id: "fortune"
+								lvl: 10
+							}
+							{
+								id: "silk_touch"
+								lvl: 1
+							}
+							{
+								id: "unbreaking"
+								lvl: 10
+							}
+						]
+						display: {
+							Name: "[\"\",{\"text\":\"Quite a good pick\",\"italic\":false}]"
+						}
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 64L
+				id: "5C45B26B8060918D"
+				item: { Count: 64, id: "kubejs:coin" }
+				type: "item"
+			}]
+			title: "Quite a good pick"
+			x: -0.5d
+			y: 3.0d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "minecraft:fishing_rod"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "5DDC4032A9ED7D92"
+			optional: true
+			rewards: [{
+				id: "3202DE2E4A6418D5"
+				item: {
+					Count: 1
+					id: "minecraft:fishing_rod"
+					tag: {
+						Damage: 0
+						Enchantments: [
+							{
+								id: "luck_of_the_sea"
+								lvl: 10
+							}
+							{
+								id: "lure"
+								lvl: 5
+							}
+						]
+						Unbreakable: 1
+						display: {
+							Name: "[\"\",{\"text\":\"Quite a good hook\",\"italic\":false}]"
+						}
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 64L
+				id: "705EF89133A5463C"
+				item: { Count: 64, id: "kubejs:coin" }
+				type: "item"
+			}]
+			title: "Quite a good hook"
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			id: "2CDD49D009012AB8"
+			optional: true
+			rewards: [{
+				count: 8
+				id: "38C39D4532DF9724"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			shape: "octagon"
+			tasks: [{
+				id: "06ABAA0E295102E2"
+				item: "kubejs:coin_gem"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -3.0d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "immersiveengineering:glider"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "6C317D8CF6485C79"
+			rewards: [{
+				id: "20035C4BB931FE7C"
+				item: {
+					Count: 1
+					id: "immersiveengineering:glider"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Let's plane"
+			tasks: [{
+				count: 16L
+				id: "053914E87A8F6395"
+				item: { Count: 16, id: "kubejs:coin" }
+				type: "item"
+			}]
+			title: "Collapsible Glider"
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			id: "724BA7F4E744F9D4"
+			optional: true
+			rewards: [
+				{
+					command: "/ftbchunks admin extra_force_load_chunks @p add 1"
+					elevate_perms: true
+					id: "1D253B124FB34F1E"
+					silent: true
+					team_reward: false
+					type: "command"
+				}
+				{
+					command: "/ftbchunks admin extra_claim_chunks @p add 1"
+					elevate_perms: true
+					id: "72353504D895EB85"
+					silent: true
+					team_reward: false
+					type: "command"
+				}
+			]
+			tasks: [{
+				count: 8L
+				id: "4DE4C3A99899CF8B"
+				item: { Count: 8, id: "kubejs:coin" }
+				type: "item"
+			}]
+			title: "Chunkload"
+			x: 1.0d
+			y: 2.0d
+		}
+	]
+	title: "Market"
+}

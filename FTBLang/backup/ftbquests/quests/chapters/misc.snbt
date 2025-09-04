@@ -1,0 +1,305 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "misc"
+	group: ""
+	id: "43E63BAC7520E29C"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["In this page there is the thing that have to few quests to have there own page but are there because you will need most of them."]
+			id: "38E6B13D891682F0"
+			tasks: [{
+				id: "4066588B9ED1BBE4"
+				title: "Miscellanous"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["38E6B13D891682F0"]
+			description: ["You will need a lot more than that but it is the least you will need."]
+			id: "387EB339E577197C"
+			rewards: [{
+				count: 8
+				id: "2BF2F6A42A23A753"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [{
+				count: 32L
+				id: "7A20D8130A7F781D"
+				item: { Count: 32, id: "fluxnetworks:flux_dust" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["387EB339E577197C"]
+			id: "54DEAB12E93B2791"
+			rewards: [{
+				count: 8
+				id: "55C6F3AD90F079C6"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "64DF72B49B11F9C3"
+					item: "fluxnetworks:flux_plug"
+					type: "item"
+				}
+				{
+					id: "012E7054E67D5CB3"
+					item: "fluxnetworks:flux_point"
+					type: "item"
+				}
+			]
+			title: "Basics"
+			x: -1.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["54DEAB12E93B2791"]
+			id: "6574A2B0C7A5C0EB"
+			rewards: [{
+				count: 8
+				id: "6F603CA81507A73B"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1D8558992FE9793A"
+				item: "fluxnetworks:flux_controller"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["54DEAB12E93B2791"]
+			description: ["This is a basic storage if you think you need it."]
+			id: "19BE5CFA1D2AD470"
+			rewards: [{
+				count: 8
+				id: "467AC73CD784F922"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4C0AF8D404F9D4CE"
+				item: "fluxnetworks:basic_flux_storage"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["38E6B13D891682F0"]
+			id: "53ABBFD806E6A392"
+			rewards: [{
+				count: 8
+				id: "651E10D941DC5C5D"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "36C21681D4396C08"
+					item: "enderstorage:ender_chest"
+					type: "item"
+				}
+				{
+					id: "6CC95C7A6E3B8AB4"
+					item: "enderstorage:ender_tank"
+					type: "item"
+				}
+				{
+					id: "4195FB2CD39C4324"
+					item: "enderstorage:ender_pouch"
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["38E6B13D891682F0"]
+			id: "0BC5DCB5AA8FBADD"
+			rewards: [{
+				count: 8
+				id: "384AF3B444EE0CEB"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "681A04B0D3249314"
+					item: {
+						Count: 1
+						id: "entangled:block"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					id: "27B46A90673AE46D"
+					item: "entangled:item"
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["38E6B13D891682F0"]
+			id: "59E5227ADE5D0962"
+			rewards: [{
+				count: 8
+				id: "5952E7B42AD4C99F"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6B0CA50ED0EC0F05"
+				item: {
+					Count: 1
+					id: "itemfilters:or"
+					tag: {
+						items: [
+							{
+								Count: 1b
+								id: "simplemagnets:basicmagnet"
+								tag: { }
+							}
+							{
+								Count: 1b
+								id: "simplemagnets:advancedmagnet"
+								tag: { }
+							}
+						]
+					}
+				}
+				title: "magnet"
+				type: "item"
+			}]
+			title: "Magnet"
+			x: 1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["59E5227ADE5D0962"]
+			id: "03434F5815BA9876"
+			rewards: [{
+				count: 8
+				id: "7B6951222A47C761"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "63567FB7E6D84AA8"
+				item: {
+					Count: 1
+					id: "itemfilters:or"
+					tag: {
+						items: [
+							{
+								Count: 1b
+								id: "simplemagnets:advanced_demagnetization_coil"
+							}
+							{
+								Count: 1b
+								id: "simplemagnets:basic_demagnetization_coil"
+							}
+						]
+					}
+				}
+				title: "Unmagnet ?"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["38E6B13D891682F0"]
+			id: "4DDBDE86709F5BC6"
+			rewards: [{
+				count: 8
+				id: "563566833220FDFD"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1FCE30C45CC6195A"
+				item: {
+					Count: 1
+					id: "itemfilters:or"
+					tag: {
+						items: [
+							{
+								Count: 1b
+								id: "constructionwand:stone_wand"
+								tag: {
+									Damage: 0
+									wand_options: { }
+								}
+							}
+							{
+								Count: 1b
+								id: "constructionwand:iron_wand"
+								tag: {
+									Damage: 0
+									wand_options: { }
+								}
+							}
+							{
+								Count: 1b
+								id: "constructionwand:diamond_wand"
+								tag: {
+									Damage: 0
+									wand_options: { }
+								}
+							}
+							{
+								Count: 1b
+								id: "constructionwand:infinity_wand"
+								tag: {
+									wand_options: { }
+								}
+							}
+						]
+					}
+				}
+				title: "Builder's Wand"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["38E6B13D891682F0"]
+			id: "677D444C926143A0"
+			rewards: [{
+				count: 8
+				id: "611A2915139ACCEC"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "61FEB93F909592D2"
+				item: {
+					Count: 1
+					id: "tiab:time_in_a_bottle"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: -2.5d
+		}
+	]
+	title: "Misc"
+}

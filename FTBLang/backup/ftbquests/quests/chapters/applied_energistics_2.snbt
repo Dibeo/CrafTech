@@ -1,0 +1,720 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "applied_energistics_2"
+	group: ""
+	icon: "ae2:controller"
+	id: "13604AACA44F76EB"
+	order_index: 7
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["5D6197A912261789"]
+			description: ["Applied Energisitcs guide is quite complete so follow it."]
+			id: "44D856C076BA01B9"
+			rewards: [{
+				count: 2
+				id: "46CD2549BFF4FC05"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "28E9CF83D8763DC9"
+				item: "ae2:charger"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"44D856C076BA01B9"
+				"2C5FF113807E20DD"
+			]
+			description: ["You can get this by putting a fluid extractor next to a certus crystal block instead of a log."]
+			id: "10CC4F7AA60496E7"
+			rewards: [{
+				count: 2
+				id: "6882DE0479C66C5F"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0EC1B72D50329DD0"
+				item: "kubejs:liquid_certus_quartz_bucket"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["44D856C076BA01B9"]
+			description: ["Just put it in a charger, can be automated simply with things like hoppers."]
+			id: "2A6FF29E51F29442"
+			rewards: [{
+				count: 2
+				id: "7AE8B054150B8147"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [{
+				count: 32L
+				id: "588E80CBAC85CE3E"
+				item: "ae2:charged_certus_quartz_crystal"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["10CC4F7AA60496E7"]
+			description: ["Mix it with water, and you will obtain certus quartz."]
+			id: "2C45D02725E57D7C"
+			rewards: [{
+				count: 2
+				id: "7A924E3EF43BADAE"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "7456548BCBF879DF"
+					item: "ae2:certus_quartz_crystal"
+					type: "item"
+				}
+				{
+					id: "186898971D9DF087"
+					item: "minecraft:water_bucket"
+					type: "item"
+				}
+				{
+					id: "65622FA16B1B5E87"
+					item: "pneumaticcraft:fluid_mixer"
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["44D856C076BA01B9"]
+			id: "65DA164F11AE8565"
+			rewards: [{
+				count: 2
+				id: "0766E9674D4D5567"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			subtitle: "Is it really necessary ?"
+			tasks: [{
+				id: "2E08E75C6E68B3E0"
+				item: "ae2:crank"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			id: "5D6197A912261789"
+			rewards: [{
+				count: 2
+				id: "42DB4E377F661F56"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [{
+				count: 16L
+				id: "74307881CB0253BD"
+				item: { Count: 16, id: "ae2:certus_quartz_crystal" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2A6FF29E51F29442"]
+			description: [
+				"The more advanced machines and items will need Fluix Crystals, which are made by tossing a Charged Certus Quartz, a piece of Nether Quartz, and a piece of Redstone into a puddle of water and waiting a moment for them to combine."
+				""
+				"Additionally, to make life easier in the future, AE2 has a Charger that can be used to charge normal Certus Quartz."
+			]
+			id: "438FC0456C0B12D3"
+			rewards: [{
+				count: 2
+				id: "2B209D01A021AB99"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [{
+				count: 32L
+				id: "37871B40F5258A32"
+				item: "ae2:fluix_crystal"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["21912B13F6EE68B5"]
+			id: "723B65AC5F3D4A18"
+			rewards: [{
+				count: 2
+				id: "6643AB388A8C62CA"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "6C6528A74D1AF51F"
+					item: "ae2:logic_processor_press"
+					type: "item"
+				}
+				{
+					id: "4156DC34E8314124"
+					item: "ae2:engineering_processor_press"
+					type: "item"
+				}
+				{
+					id: "246AC0980EB1AA86"
+					item: "ae2:silicon_press"
+					type: "item"
+				}
+				{
+					id: "54E9D63293B9306E"
+					item: "ae2:calculation_processor_press"
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["44D856C076BA01B9"]
+			id: "21912B13F6EE68B5"
+			rewards: [{
+				count: 2
+				id: "5A5B5813D5F1BA75"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2D40684FB9657D89"
+				item: "ae2:inscriber"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			can_repeat: true
+			description: ["Having a hard time finding a meteorite ?"]
+			icon: "ae2:meteorite_compass"
+			id: "5D4985A6C04C1453"
+			optional: true
+			rewards: [{
+				id: "0CD4D61E3987606E"
+				item: "ae2:meteorite_compass"
+				type: "item"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "7F7715AB1146D3E1"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			title: "Meteor Compass"
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["21912B13F6EE68B5"]
+			description: ["Isn't really needed today, but we never know."]
+			id: "706D6700EC0ADEF2"
+			rewards: [{
+				count: 2
+				id: "493FE4572BEBAACF"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "537387C6CF37C1CD"
+				item: "ae2:energy_acceptor"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["438FC0456C0B12D3"]
+			id: "4DE89C045D19826C"
+			rewards: [{
+				count: 2
+				id: "4FC136503B3B696C"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [{
+				count: 8L
+				id: "0C56437EB4673E70"
+				item: { Count: 8, id: "ae2:fluix_glass_cable" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4DE89C045D19826C"]
+			id: "285201150730F7EB"
+			rewards: [{
+				count: 2
+				id: "2E97DA0D878BC1FE"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [{
+				count: 8L
+				id: "79B97B739BC33DD5"
+				item: "ae2:fluix_covered_cable"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["285201150730F7EB"]
+			id: "7C05A3124C46F022"
+			rewards: [{
+				count: 2
+				id: "70C301BAB69589C1"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [{
+				count: 8L
+				id: "7914DF7E572E1795"
+				item: "ae2:fluix_smart_cable"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["285201150730F7EB"]
+			description: ["32 channels"]
+			id: "4984AF86CBC401AA"
+			rewards: [{
+				count: 2
+				id: "693BDBA32EEB3A56"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [{
+				count: 8L
+				id: "76556AD347A3E4BF"
+				item: "ae2:fluix_covered_dense_cable"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["4984AF86CBC401AA"]
+			description: ["32 channels with live info."]
+			id: "16EFFF0CCA5E65A9"
+			rewards: [{
+				count: 2
+				id: "246207E7986B41E9"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [{
+				count: 8L
+				id: "5DCC7B5C457EA6AC"
+				item: "ae2:fluix_smart_dense_cable"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["723B65AC5F3D4A18"]
+			description: [
+				"You'll need a lot of these processors for your cells, controllers, interfaces, and more."
+				""
+				"This is something you should automate quickly."
+			]
+			id: "50B00FEF8BFF07AC"
+			rewards: [{
+				count: 2
+				id: "547A9C23DF0A0FFB"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 8L
+					id: "390DAD78E1A60598"
+					item: { Count: 8, id: "ae2:logic_processor" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "5ACF871191473EBA"
+					item: { Count: 8, id: "ae2:calculation_processor" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "4D9AE3E34A204E38"
+					item: { Count: 8, id: "ae2:engineering_processor" }
+					type: "item"
+				}
+			]
+			title: "Processors"
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["50B00FEF8BFF07AC"]
+			description: ["This is the brain it can connet up to 32 channels per faces, and be a 7x7x7 multiblocks."]
+			id: "71025B0E689083A5"
+			rewards: [{
+				count: 2
+				id: "494FBC27CE0BE103"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3A15EEE2108BF212"
+				item: "ae2:controller"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["71025B0E689083A5"]
+			id: "56520D9ED600B8A3"
+			rewards: [{
+				count: 2
+				id: "6701A82D07F27F2D"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1E9070DEABC43B4F"
+				item: "ae2:drive"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["56520D9ED600B8A3"]
+			id: "420997431CE2D61C"
+			rewards: [{
+				count: 2
+				id: "5B50DA4E98DCCEB2"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "17734C9E4C035062"
+				item: "ae2:storage_bus"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["71025B0E689083A5"]
+			description: [
+				"In order to access your system, you'll need various types of terminals."
+				""
+				"The basic ME Terminal will allow you to insert and extract items."
+				""
+				"The ME Crafting Terminal allows insertion and extraction, as well as providing a 3x3 crafting grid that can access the items in your system."
+			]
+			id: "1BFE16E4F8E2EF3B"
+			rewards: [{
+				count: 2
+				id: "6FCFF05258148522"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5929855CDC1894C4"
+				item: "ae2:crafting_terminal"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["56520D9ED600B8A3"]
+			id: "74D499516622AFCF"
+			rewards: [{
+				count: 2
+				id: "204239D778DA84D3"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "7BD3C190CC751D3E"
+					item: "ae2:item_cell_housing"
+					type: "item"
+				}
+				{
+					id: "39D5F330AC27C452"
+					item: "ae2:fluid_cell_housing"
+					type: "item"
+				}
+			]
+			title: "ME Cell Housing"
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["74D499516622AFCF"]
+			id: "04FB139A1CA73977"
+			rewards: [{
+				count: 2
+				id: "281CDB75061FFBE1"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1539F2472D44BE3E"
+				item: "ae2:cell_component_1k"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["6C2F2BA9226C3898"]
+			id: "20E9F50E11E35173"
+			rewards: [{
+				count: 2
+				id: "323F1CC1F8187198"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4A796C6E4CD2B3F6"
+				item: "ae2:cell_component_4k"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["04FB139A1CA73977"]
+			id: "6C2F2BA9226C3898"
+			rewards: [{
+				count: 2
+				id: "5B40EF93CE788614"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "01DCC553422CCBC2"
+				item: "ae2:cell_component_16k"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["20E9F50E11E35173"]
+			id: "296A3F8ACA413C66"
+			rewards: [{
+				count: 2
+				id: "6918FE8DAF5D80D3"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3181DBFC7AB6C063"
+				item: "ae2:cell_component_64k"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["296A3F8ACA413C66"]
+			id: "267EC53300BC8D6F"
+			rewards: [{
+				count: 2
+				id: "070BD1C721A81824"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6F9F2F0CB0969548"
+				item: "ae2:cell_component_256k"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1BFE16E4F8E2EF3B"]
+			description: ["Patterns are the first things you want to automate."]
+			id: "28E38701918F6946"
+			rewards: [{
+				count: 2
+				id: "3A4AB1C27DA7D68F"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "03447E895A2F8F5C"
+					item: "ae2:pattern_encoding_terminal"
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "0E9151E9E97C49DE"
+					item: { Count: 16, id: "ae2:blank_pattern" }
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["28E38701918F6946"]
+			description: [
+				"Can be put against machine with inventory or molecular assembler, to do craft register in the pattern in it."
+				""
+				"Note that, for multiblocks you should use a temporary storage between the two machine such as a chest or a hopper as sometimes it can just void item."
+			]
+			id: "654F3B71E36F4EB5"
+			rewards: [{
+				count: 2
+				id: "3AD37D89B7D4D539"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3C7CCBA107710F7C"
+				item: "ae2:pattern_provider"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["654F3B71E36F4EB5"]
+			description: ["This can be used without the pattern provider, it will just be an auto craft for a single craft that you will provide in it with a patter."]
+			id: "1036A0C7552DE22F"
+			rewards: [{
+				count: 2
+				id: "32654CB2B1CA40C3"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "79D91FCBCA03CD2A"
+				item: "ae2:molecular_assembler"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["654F3B71E36F4EB5"]
+			description: ["This will \"remember\" the automation you ask for, it is a multiblock that will need at least one of each, but take into account that the more unit you have (with components) the bigger your craft can be, and the more co-processing unit the more thing he will be able to do at the same time."]
+			id: "36058D88FF430F35"
+			rewards: [{
+				count: 2
+				id: "6E6B95C523A61A97"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "60A8EAD71D04E7AD"
+					item: "ae2:crafting_unit"
+					type: "item"
+				}
+				{
+					id: "74E3AA28D8F05773"
+					item: "ae2:crafting_accelerator"
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["50B00FEF8BFF07AC"]
+			description: ["Those two are the upgrade you will mostly use in your AE system."]
+			id: "3CA7D37BCFB4B23A"
+			rewards: [{
+				count: 2
+				id: "489C29B221D4AD92"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 8L
+					id: "45B131ACBB4B1DBE"
+					item: { Count: 8, id: "ae2:speed_card" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "21778A4AB40B80B2"
+					item: { Count: 8, id: "ae2:energy_card" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["71025B0E689083A5"]
+			description: ["Make the biggest cactus farm you can in a 128 spatial pylon and make it work (using garden cloch is okay as long as it is in an AE sub-dimension)."]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			id: "5017968E292BF950"
+			optional: true
+			rewards: [{
+				count: 12
+				id: "59DDFEC36B763304"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			shape: "pentagon"
+			subtitle: "BONUS QUEST !!!"
+			tasks: [
+				{
+					count: 64L
+					id: "586F655E8B8BA221"
+					item: { Count: 64, id: "minecraft:cactus" }
+					type: "item"
+				}
+				{
+					id: "7D6A16EB6665152A"
+					item: "ae2:spatial_cell_component_128"
+					type: "item"
+				}
+				{
+					id: "6D2D972DF17BB3C9"
+					title: "Done"
+					type: "checkmark"
+				}
+			]
+			title: "Spatial Pylon"
+			x: -1.5d
+			y: 3.0d
+		}
+	]
+	title: "Applied Energistics 2"
+}

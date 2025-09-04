@@ -1,0 +1,382 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "end"
+	group: ""
+	id: "7361FFFF8F7B13E5"
+	order_index: 9
+	quest_links: [ ]
+	quests: [
+		{
+			id: "0F8CAC21BEA6308A"
+			rewards: [{
+				count: 16
+				id: "13CF52961F0D9BEB"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0D626D924F17D72D"
+				item: "kubejs:dimensional_gem"
+				type: "item"
+			}]
+			x: -4.5d
+			y: -6.5d
+		}
+		{
+			id: "31616EA6CD41C35D"
+			rewards: [{
+				count: 16
+				id: "19D811E2DEAA7BE9"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "41C96ED765C8F244"
+				item: "kubejs:nether_gem"
+				type: "item"
+			}]
+			x: -5.5d
+			y: -5.0d
+		}
+		{
+			id: "36264013367FF81C"
+			rewards: [{
+				count: 16
+				id: "74605FBDADAF7ABF"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2C6EA1867C4513C7"
+				item: "kubejs:coin_gem"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["01684952DD565FD5"]
+			id: "4FF2DA2FB5F57A29"
+			rewards: [{
+				count: 16
+				id: "45C6DE549E7D53B0"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "419EF7DD8968FF95"
+				item: "ae2:creative_energy_cell"
+				type: "item"
+			}]
+			x: -5.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["01684952DD565FD5"]
+			id: "1281322C35622506"
+			rewards: [{
+				count: 16
+				id: "309169C307AFFDE9"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2562FD8C3F9F57A4"
+				item: "immersiveengineering:capacitor_creative"
+				type: "item"
+			}]
+			x: -5.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["01684952DD565FD5"]
+			id: "6CA4934A364D3AF9"
+			rewards: [{
+				count: 16
+				id: "2A1FC58996D85A73"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2F9067221008C8AF"
+				item: "mekanism:creative_bin"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["01684952DD565FD5"]
+			id: "330D7AB67C5D4359"
+			rewards: [{
+				count: 16
+				id: "74A2865096F67D8B"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "441F6950CAE8FAA1"
+				item: "pneumaticcraft:creative_compressed_iron_block"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["01684952DD565FD5"]
+			id: "56ABC228D8BF075D"
+			rewards: [{
+				count: 16
+				id: "41C23F9F23AAFB44"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "042D094DECD3805B"
+				item: "ae2:creative_fluid_cell"
+				type: "item"
+			}]
+			x: -5.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["01684952DD565FD5"]
+			id: "65CFE9D747AD0BAE"
+			rewards: [{
+				count: 16
+				id: "2CA1727F2F777385"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0CD1F39D145F4334"
+				item: "ae2:creative_item_cell"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"31616EA6CD41C35D"
+				"0F8CAC21BEA6308A"
+				"36264013367FF81C"
+				"185F0A6DA3CE2BE5"
+			]
+			id: "0982E89E576999DE"
+			rewards: [{
+				count: 16
+				id: "4FFD67C9DD8B1B83"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4CC6F93E1283DC9C"
+				item: "kubejs:empty_creative_gem"
+				type: "item"
+			}]
+			x: -3.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["0982E89E576999DE"]
+			id: "01684952DD565FD5"
+			rewards: [{
+				count: 16
+				id: "45C06B05FA18A723"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1D0B5AA2AB79B576"
+				item: "kubejs:creative_gem"
+				type: "item"
+			}]
+			x: -3.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["01684952DD565FD5"]
+			id: "2D3717B962D79D68"
+			rewards: [{
+				count: 16
+				id: "084AB823F3F1942A"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "68424C6E62552A5F"
+				item: "mekanism:creative_fluid_tank"
+				type: "item"
+			}]
+			x: -5.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["01684952DD565FD5"]
+			id: "73944D2852257AD7"
+			rewards: [{
+				count: 16
+				id: "79210D3A6A689A0C"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "49B3E4B90D7524D2"
+				item: "pneumaticcraft:creative_compressor"
+				type: "item"
+			}]
+			x: -5.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["01684952DD565FD5"]
+			description: ["As of now I did not figure How to add tag on craft result using kubejs, if you know please tell me either open an issue on github or ping me on the discord, that would help me a lot."]
+			id: "5DAD8A8FF6EA7626"
+			optional: true
+			rewards: [{
+				count: 16
+				id: "4241E4C0F4384643"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "078304159342F02E"
+				item: {
+					Count: 1
+					id: "mekanism:creative_energy_cube"
+					tag: {
+						mekData: {
+							EnergyContainers: [{
+								Container: 0b
+								stored: "18446744073709551615.9999"
+							}]
+							componentConfig: {
+								config0: {
+									side0: 4
+									side1: 4
+									side2: 4
+									side3: 4
+									side4: 4
+									side5: 4
+								}
+							}
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["01684952DD565FD5"]
+			id: "1A8996FE306533B9"
+			rewards: [{
+				count: 16
+				id: "3426CCE36DF8B6F0"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0F413F2872993578"
+				item: "mekanism:creative_chemical_tank"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["01684952DD565FD5"]
+			id: "2550C5A34862DD31"
+			rewards: [{
+				count: 16
+				id: "151BBB821139379A"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "68A47A4E445542AA"
+				item: "modularrouters:creative_module"
+				type: "item"
+			}]
+			x: -5.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["01684952DD565FD5"]
+			id: "4FADA0B84F3483E4"
+			rewards: [{
+				count: 16
+				id: "7A4E41E8FFF7450E"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5CB8F71EDA2BAC2B"
+				item: "pneumaticcraft:creative_upgrade"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			can_repeat: true
+			dependencies: [
+				"2550C5A34862DD31"
+				"4FF2DA2FB5F57A29"
+				"2D3717B962D79D68"
+				"56ABC228D8BF075D"
+				"4FADA0B84F3483E4"
+				"1281322C35622506"
+				"6CA4934A364D3AF9"
+				"65CFE9D747AD0BAE"
+				"1A8996FE306533B9"
+				"73944D2852257AD7"
+				"5DAD8A8FF6EA7626"
+				"330D7AB67C5D4359"
+			]
+			description: [
+				"Good job, at this point you are a god in this world (if you follow at least a little the questbook)."
+				""
+				"So your journey will surely come to an end, hope you had fun."
+			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			hide_text_until_complete: false
+			hide_until_deps_complete: true
+			id: "2642E81CAD297614"
+			rewards: [{
+				count: 666
+				id: "7AB5B7E32123B84A"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "544C21A7659CDA19"
+				title: "Good Job"
+				type: "checkmark"
+			}]
+			x: -3.5d
+			y: 4.5d
+		}
+		{
+			id: "185F0A6DA3CE2BE5"
+			rewards: [{
+				count: 16
+				id: "405F7FD7EA048981"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [{
+				id: "332C73E4654B3221"
+				item: "kubejs:compressed_emerald_gem"
+				type: "item"
+			}]
+			x: -2.5d
+			y: -6.5d
+		}
+	]
+	title: "END !!!!"
+}

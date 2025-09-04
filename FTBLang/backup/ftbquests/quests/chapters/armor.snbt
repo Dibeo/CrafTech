@@ -1,0 +1,1019 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "square"
+	filename: "armor"
+	group: ""
+	id: "074D2A617B302BD2"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"This is in my mind a funny things to do to make sure you jyst don't be full diamond day 1."
+				""
+				"Not so funny if you want to do a collection of all the armors. "
+				""
+				"Bonus Quest ???"
+			]
+			id: "6D22E3E988FCE59E"
+			rewards: [{
+				id: "44915409E2D77E67"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "43369F818B00C96E"
+					item: {
+						Count: 1
+						id: "minecraft:leather_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "64605F9A695FF8EE"
+					item: {
+						Count: 1
+						id: "minecraft:leather_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0E7F64A37743470C"
+					item: {
+						Count: 1
+						id: "minecraft:leather_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "66B6EBAA9770BBD5"
+					item: {
+						Count: 1
+						id: "minecraft:leather_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Leather Armor"
+			x: -0.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["6D22E3E988FCE59E"]
+			id: "3E3E7755C4A39A93"
+			rewards: [{
+				id: "0756469342F9944C"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "73A0EA03FC437F1F"
+					item: {
+						Count: 1
+						id: "mekanismtools:lapis_lazuli_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "416ADA9FE8D707DE"
+					item: {
+						Count: 1
+						id: "mekanismtools:lapis_lazuli_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "38E6B4321F927B2B"
+					item: {
+						Count: 1
+						id: "mekanismtools:lapis_lazuli_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "35123F82CC4CBEDC"
+					item: {
+						Count: 1
+						id: "mekanismtools:lapis_lazuli_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Lapis Lazuli Armor"
+			x: -2.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["3E3E7755C4A39A93"]
+			description: ["Can protect you from wire but not so much against mobs."]
+			id: "0EE8DE114459E0A8"
+			rewards: [{
+				id: "3E4F0B6E6254FB40"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "372851D64F94D818"
+					item: {
+						Count: 1
+						id: "immersiveengineering:armor_faraday_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "25D447F822DE91AB"
+					item: {
+						Count: 1
+						id: "immersiveengineering:armor_faraday_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5F7D8941AA72651D"
+					item: {
+						Count: 1
+						id: "immersiveengineering:armor_faraday_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4586D6EBEE22DE44"
+					item: {
+						Count: 1
+						id: "immersiveengineering:armor_faraday_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Faraday Armor"
+			x: -1.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["0EE8DE114459E0A8"]
+			id: "4FA7E43FAC1ED740"
+			rewards: [{
+				id: "255323B69CE91729"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "7232E0BFEBBAC889"
+					item: {
+						Count: 1
+						id: "minecraft:golden_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7966C8B011C2AE85"
+					item: {
+						Count: 1
+						id: "minecraft:golden_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4150ABF18879AE79"
+					item: {
+						Count: 1
+						id: "minecraft:golden_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "766F0F54D0025AB7"
+					item: {
+						Count: 1
+						id: "minecraft:golden_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Golden Armor"
+			x: 0.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["4FA7E43FAC1ED740"]
+			id: "4F7473375DAC7F06"
+			rewards: [{
+				id: "411F9DCF2314DB7F"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "61E7C5F48C37C510"
+					item: {
+						Count: 1
+						id: "minecraft:chainmail_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "48AA22DCA3E5CB85"
+					item: {
+						Count: 1
+						id: "minecraft:chainmail_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "734D51C7859389E8"
+					item: {
+						Count: 1
+						id: "minecraft:chainmail_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "76C3A80ADE698CFC"
+					item: {
+						Count: 1
+						id: "minecraft:chainmail_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Chainmail Armor"
+			x: 1.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["4F7473375DAC7F06"]
+			id: "60C3D7ABA389BD03"
+			rewards: [{
+				count: 2
+				id: "77D2F5A6A37C48C1"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "0B3136999B40E367"
+					item: {
+						Count: 1
+						id: "minecraft:iron_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "50AD79C84B00CC06"
+					item: {
+						Count: 1
+						id: "minecraft:iron_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4354DC4A9CEF3405"
+					item: {
+						Count: 1
+						id: "minecraft:iron_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5563D637EE051029"
+					item: {
+						Count: 1
+						id: "minecraft:iron_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Iron Armor"
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["60C3D7ABA389BD03"]
+			id: "08C3B80FCC3C4FC8"
+			rewards: [{
+				count: 2
+				id: "4D83FF78FB2FF756"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "59B6677FB8498A6C"
+					item: {
+						Count: 1
+						id: "pneumaticcraft:compressed_iron_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "36BB9D8CFA61F2D6"
+					item: {
+						Count: 1
+						id: "pneumaticcraft:compressed_iron_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6170CB5F2FC060B6"
+					item: {
+						Count: 1
+						id: "pneumaticcraft:compressed_iron_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1F6B13A788F08EEB"
+					item: {
+						Count: 1
+						id: "pneumaticcraft:compressed_iron_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Compressed Iron Armor"
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["08C3B80FCC3C4FC8"]
+			id: "4FE61A6995855A21"
+			rewards: [{
+				count: 2
+				id: "43FB9FCCF1F18173"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "64046DC3755CDE07"
+					item: {
+						Count: 1
+						id: "immersiveengineering:armor_steel_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6154D3B170871FA3"
+					item: {
+						Count: 1
+						id: "immersiveengineering:armor_steel_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "53E94F1DBA756CD1"
+					item: {
+						Count: 1
+						id: "immersiveengineering:armor_steel_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "03EC92AD1D175480"
+					item: {
+						Count: 1
+						id: "immersiveengineering:armor_steel_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Steel Armor"
+			x: -1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4FE61A6995855A21"]
+			id: "1963B31A3377E6C8"
+			rewards: [{
+				count: 2
+				id: "6AFEB178B06F6712"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "48797677DB93B564"
+					item: {
+						Count: 1
+						id: "mekanismtools:bronze_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "173592C5F3FF081A"
+					item: {
+						Count: 1
+						id: "mekanismtools:bronze_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "57D48EE57F288EDC"
+					item: {
+						Count: 1
+						id: "mekanismtools:bronze_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "754D7CA0A310E743"
+					item: {
+						Count: 1
+						id: "mekanismtools:bronze_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1963B31A3377E6C8"]
+			id: "229046C882035E33"
+			rewards: [{
+				count: 4
+				id: "3C62EB274E8D8EED"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "04FA4578707ED78D"
+					item: {
+						Count: 1
+						id: "mekanismtools:steel_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5CA2C5A7899B1A5A"
+					item: {
+						Count: 1
+						id: "mekanismtools:steel_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "39C688F47A1E2316"
+					item: {
+						Count: 1
+						id: "mekanismtools:steel_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "23EF69B9F0E82BA8"
+					item: {
+						Count: 1
+						id: "mekanismtools:steel_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Steel Armor"
+			x: -2.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["229046C882035E33"]
+			id: "6E641447F521EA70"
+			rewards: [{
+				count: 4
+				id: "2030D2A71C441BF8"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "45F2A427E6F34DCF"
+					item: {
+						Count: 1
+						id: "mekanismtools:osmium_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "20C99E4FAAA9CFE9"
+					item: {
+						Count: 1
+						id: "mekanismtools:osmium_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "615EE6B908C8633E"
+					item: {
+						Count: 1
+						id: "mekanismtools:osmium_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "557E65A90CAF29DD"
+					item: {
+						Count: 1
+						id: "mekanismtools:osmium_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Osmium Armor"
+			x: -1.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["6E641447F521EA70"]
+			id: "393E0F30CF06EDA9"
+			rewards: [{
+				count: 4
+				id: "77C1E28E6AB09635"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "3A4A1698ED3703C2"
+					item: {
+						Count: 1
+						id: "minecraft:diamond_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "29C44E9B270DD78D"
+					item: {
+						Count: 1
+						id: "minecraft:diamond_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "585F3DFCC263FC33"
+					item: {
+						Count: 1
+						id: "minecraft:diamond_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5B0D2348C7C72856"
+					item: {
+						Count: 1
+						id: "minecraft:diamond_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Diamond Armor"
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["393E0F30CF06EDA9"]
+			id: "5616BCCB5764F15D"
+			rewards: [{
+				count: 4
+				id: "4F9D98B7E66F1077"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "55A046FE1517ADB2"
+					item: {
+						Count: 1
+						id: "mekanismtools:refined_glowstone_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5B842F6E4225CAD1"
+					item: {
+						Count: 1
+						id: "mekanismtools:refined_glowstone_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "06F7D41BE57009C4"
+					item: {
+						Count: 1
+						id: "mekanismtools:refined_glowstone_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3466727054902BB6"
+					item: {
+						Count: 1
+						id: "mekanismtools:refined_glowstone_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Refined Glowstone Armor "
+			x: 1.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["5616BCCB5764F15D"]
+			id: "0C7B19A4574C3602"
+			rewards: [{
+				count: 4
+				id: "49E6FF833DA18BF5"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "6D387BBCFEBC61D8"
+					item: {
+						Count: 1
+						id: "minecraft:netherite_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "11C6125F68F963C5"
+					item: {
+						Count: 1
+						id: "minecraft:netherite_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5F135C058DC50A49"
+					item: {
+						Count: 1
+						id: "minecraft:netherite_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1A9DED31A38D0C7A"
+					item: {
+						Count: 1
+						id: "minecraft:netherite_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Netherite Armor"
+			x: 1.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["0C7B19A4574C3602"]
+			id: "2D994C5731559C53"
+			rewards: [{
+				count: 4
+				id: "6A8F99E361B182E4"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "15C026E297646088"
+					item: {
+						Count: 1
+						id: "mekanismtools:refined_obsidian_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "56D62E9978C8BA86"
+					item: {
+						Count: 1
+						id: "mekanismtools:refined_obsidian_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7D12827F9C23935F"
+					item: {
+						Count: 1
+						id: "mekanismtools:refined_obsidian_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "67DA69797045360C"
+					item: {
+						Count: 1
+						id: "mekanismtools:refined_obsidian_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Refined Obsidian Armor"
+			x: 0.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["2D994C5731559C53"]
+			id: "1CC18FB39483BCC9"
+			rewards: [{
+				count: 4
+				id: "78EFCE4DE32DE5A9"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "5CD6C6AF20F26063"
+					item: {
+						Count: 1
+						id: "pneumaticcraft:pneumatic_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "46CDFFB3AC653265"
+					item: {
+						Count: 1
+						id: "pneumaticcraft:pneumatic_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "48613AF21E12189C"
+					item: {
+						Count: 1
+						id: "pneumaticcraft:pneumatic_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "09A414657690F2B0"
+					item: {
+						Count: 1
+						id: "pneumaticcraft:pneumatic_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Pneumatic Armor"
+			x: -1.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["1CC18FB39483BCC9"]
+			id: "20318AAE7EAC76EC"
+			rewards: [{
+				count: 4
+				id: "4318ADEDCC972949"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "4E422FE110B8A2AD"
+					item: "mekanism:mekasuit_helmet"
+					type: "item"
+				}
+				{
+					id: "4F136AE4E72C5227"
+					item: "mekanism:mekasuit_bodyarmor"
+					type: "item"
+				}
+				{
+					id: "73E42A6342F6CB91"
+					item: "mekanism:mekasuit_pants"
+					type: "item"
+				}
+				{
+					id: "1B2C57A531BB7323"
+					item: "mekanism:mekasuit_boots"
+					type: "item"
+				}
+			]
+			title: "MekaSuit"
+			x: -2.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["20318AAE7EAC76EC"]
+			description: [
+				"I did spoiled it."
+				""
+				"So make somewhere, a room ( or a filed/garden) with all the armors on armor stand."
+			]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			id: "2DE25785C026CA5B"
+			optional: true
+			rewards: [{
+				count: 64
+				id: "43C24F86442FF87A"
+				item: "kubejs:coin"
+				type: "item"
+			}]
+			shape: "pentagon"
+			subtitle: "BONUS QUEST !!!!"
+			tasks: [{
+				id: "152E7ADD87B87061"
+				title: "Full Collection ?"
+				type: "checkmark"
+			}]
+			x: -0.5d
+			y: 4.5d
+		}
+	]
+	title: "Armor"
+}

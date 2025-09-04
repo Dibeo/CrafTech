@@ -458,6 +458,10 @@
         "isSelected": true
       },
       {
+        "path": "config\\forgeendertech\\Biomes\\minecraft$sparse_jungle.cfg",
+        "isSelected": true
+      },
+      {
         "path": "config\\forgeendertech\\Biomes\\minecraft$stony_peaks.cfg",
         "isSelected": true
       },
@@ -1303,31 +1307,299 @@
       },
       {
         "path": "fancymenu_data",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "fancymenu_data\\buddy",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "fancymenu_data\\buddy\\buddy_leveling.json",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "fancymenu_data\\buddy\\buddy_save.json",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "fancymenu_data\\cached_data",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "fancymenu_data\\fancymenu_temp",
-        "isSelected": false
+        "isSelected": true
       },
       {
         "path": "fancymenu_data\\last_world.fmdata",
-        "isSelected": false
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\backup",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\backup\\ftbquests",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\backup\\ftbquests\\quests",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\backup\\ftbquests\\quests\\chapters",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\backup\\ftbquests\\quests\\chapters\\applied_energistics_2.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\backup\\ftbquests\\quests\\chapters\\armor.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\backup\\ftbquests\\quests\\chapters\\beginning.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\backup\\ftbquests\\quests\\chapters\\end.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\backup\\ftbquests\\quests\\chapters\\immersive.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\backup\\ftbquests\\quests\\chapters\\industrial_foregoing.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\backup\\ftbquests\\quests\\chapters\\market.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\backup\\ftbquests\\quests\\chapters\\mekanism.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\backup\\ftbquests\\quests\\chapters\\misc.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\backup\\ftbquests\\quests\\chapters\\pneumaticcraft.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\backup\\ftbquests\\quests\\reward_tables",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\backup\\ftbquests\\quests\\reward_tables\\hammock.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\backup\\ftbquests\\quests\\reward_tables\\sleepingbag.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\backup\\ftbquests\\quests\\chapter_groups.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\backup\\ftbquests\\quests\\data.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\backup\\kubejs",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\backup\\kubejs\\assets",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\backup\\kubejs\\assets\\ftbquestlocalizer",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\backup\\kubejs\\assets\\ftbquestlocalizer\\lang",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\backup\\kubejs\\assets\\ftbquestlocalizer\\lang\\de_de.json",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\backup\\kubejs\\assets\\ftbquestlocalizer\\lang\\en_us.json",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\backup\\kubejs\\assets\\ftbquestlocalizer\\lang\\es_es.json",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\backup\\kubejs\\assets\\ftbquestlocalizer\\lang\\fr_fr.json",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\backup\\kubejs\\assets\\ftbquestlocalizer\\lang\\ja_jp.json",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\backup\\kubejs\\assets\\ftbquestlocalizer\\lang\\ko_kr.json",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\backup\\kubejs\\assets\\ftbquestlocalizer\\lang\\zh_cn.json",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\backup\\kubejs\\assets\\ftbquestlocalizer\\lang\\zh_hk.json",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\backup\\kubejs\\assets\\ftbquestlocalizer\\lang\\zh_tw.json",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\config",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\config\\ftbquests",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\config\\ftbquests\\quests",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\config\\ftbquests\\quests\\chapters",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\config\\ftbquests\\quests\\chapters\\applied_energistics_2.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\config\\ftbquests\\quests\\chapters\\armor.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\config\\ftbquests\\quests\\chapters\\beginning.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\config\\ftbquests\\quests\\chapters\\end.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\config\\ftbquests\\quests\\chapters\\immersive.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\config\\ftbquests\\quests\\chapters\\industrial_foregoing.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\config\\ftbquests\\quests\\chapters\\market.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\config\\ftbquests\\quests\\chapters\\mekanism.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\config\\ftbquests\\quests\\chapters\\misc.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\config\\ftbquests\\quests\\chapters\\pneumaticcraft.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\config\\ftbquests\\quests\\reward_tables",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\config\\ftbquests\\quests\\reward_tables\\hammock.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\config\\ftbquests\\quests\\reward_tables\\sleepingbag.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\config\\ftbquests\\quests\\chapter_groups.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\config\\ftbquests\\quests\\data.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\kubejs",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\kubejs\\assets",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\kubejs\\assets\\ftbquestlocalizer",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\kubejs\\assets\\ftbquestlocalizer\\lang",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\kubejs\\assets\\ftbquestlocalizer\\lang\\de_de.json",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\kubejs\\assets\\ftbquestlocalizer\\lang\\en_us.json",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\kubejs\\assets\\ftbquestlocalizer\\lang\\es_es.json",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\kubejs\\assets\\ftbquestlocalizer\\lang\\fr_fr.json",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\kubejs\\assets\\ftbquestlocalizer\\lang\\ja_jp.json",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\kubejs\\assets\\ftbquestlocalizer\\lang\\ko_kr.json",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\kubejs\\assets\\ftbquestlocalizer\\lang\\ru_ru.json",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\kubejs\\assets\\ftbquestlocalizer\\lang\\zh_cn.json",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\kubejs\\assets\\ftbquestlocalizer\\lang\\zh_hk.json",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\kubejs\\assets\\ftbquestlocalizer\\lang\\zh_tw.json",
+        "isSelected": true
+      },
+      {
+        "path": "FTBLang\\FTB-Quests-Localization-Resourcepack.zip",
+        "isSelected": true
       },
       {
         "path": "journeymap",
@@ -2482,6 +2754,54 @@
         "isSelected": true
       },
       {
+        "path": "kubejs\\assets\\ftbquestlocalizer",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\assets\\ftbquestlocalizer\\lang",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\assets\\ftbquestlocalizer\\lang\\de_de.json",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\assets\\ftbquestlocalizer\\lang\\en_us.json",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\assets\\ftbquestlocalizer\\lang\\es_es.json",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\assets\\ftbquestlocalizer\\lang\\fr_fr.json",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\assets\\ftbquestlocalizer\\lang\\ja_jp.json",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\assets\\ftbquestlocalizer\\lang\\ko_kr.json",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\assets\\ftbquestlocalizer\\lang\\ru_ru.json",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\assets\\ftbquestlocalizer\\lang\\zh_cn.json",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\assets\\ftbquestlocalizer\\lang\\zh_hk.json",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\assets\\ftbquestlocalizer\\lang\\zh_tw.json",
+        "isSelected": false
+      },
+      {
         "path": "kubejs\\assets\\ftbquests",
         "isSelected": true
       },
@@ -3114,6 +3434,14 @@
         "isSelected": false
       },
       {
+        "path": "logs\\2025-08-28-4.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-09-04-1.log.gz",
+        "isSelected": false
+      },
+      {
         "path": "logs\\latest.log",
         "isSelected": false
       },
@@ -3338,7 +3666,7 @@
         "isSelected": false
       },
       {
-        "path": "mods\\deimos-1.20.1-forge-2.2.jar",
+        "path": "mods\\deimos-1.20.1-forge-2.3.jar",
         "isSelected": true
       },
       {
@@ -3442,8 +3770,8 @@
         "isSelected": false
       },
       {
-        "path": "mods\\guideme-20.1.11.jar",
-        "isSelected": false
+        "path": "mods\\guideme-20.1.12.jar",
+        "isSelected": true
       },
       {
         "path": "mods\\imfast-FORGE-1.20.1-1.0.2.jar",
@@ -3494,8 +3822,8 @@
         "isSelected": true
       },
       {
-        "path": "mods\\JustEnoughMekanismMultiblocks-1.20.1-4.10.jar",
-        "isSelected": false
+        "path": "mods\\JustEnoughMekanismMultiblocks-1.20.1-4.11.jar",
+        "isSelected": true
       },
       {
         "path": "mods\\JustEnoughProfessions-forge-1.20.1-3.0.1.jar",
@@ -3526,8 +3854,8 @@
         "isSelected": true
       },
       {
-        "path": "mods\\lootr-forge-1.20-0.7.35.92.jar",
-        "isSelected": false
+        "path": "mods\\lootr-forge-1.20-0.7.35.93.jar",
+        "isSelected": true
       },
       {
         "path": "mods\\mcjtylib-1.20-8.0.7.jar",
@@ -3558,8 +3886,8 @@
         "isSelected": false
       },
       {
-        "path": "mods\\moreoverlays-1.22.7-mc1.20.2.jar",
-        "isSelected": false
+        "path": "mods\\moreoverlays-1.24.1-mc1.20.1-forge.jar",
+        "isSelected": true
       },
       {
         "path": "mods\\MouseTweaks-forge-mc1.20.1-2.25.1.jar",
@@ -3578,7 +3906,7 @@
         "isSelected": true
       },
       {
-        "path": "mods\\packetfixer-3.2.0-1.18-1.20.4-merged.jar",
+        "path": "mods\\packetfixer-3.3.0-1.18-1.20.4-merged.jar",
         "isSelected": true
       },
       {
@@ -4518,6 +4846,10 @@
         "isSelected": false
       },
       {
+        "path": "pack.mcmeta",
+        "isSelected": false
+      },
+      {
         "path": "patchouli_data.json",
         "isSelected": false
       },
@@ -4539,6 +4871,6 @@
       }
     ],
     "recommendedRam": 10080,
-    "enableRecommendedRam": true
+    "enableRecommendedRam": false
   }
 }

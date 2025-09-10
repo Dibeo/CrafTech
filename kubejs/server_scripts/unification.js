@@ -128,4 +128,232 @@ ServerEvents.recipes((event) => {
     S: "#forge:slimeballs",
     P: "minecraft:piston",
   });
+
+  //sawdust
+  event.replaceInput({}, "#forge:sawdust", "immersiveengineering:dust_wood");
+  event.replaceInput({}, "#forge:dusts/wood", "immersiveengineering:dust_wood");
+  event.replaceOutput({}, "mekanism:sawdust", "immersiveengineering:dust_wood");
+  event.replaceOutput(
+    {},
+    "#forge:dusts/wood",
+    "immersiveengineering:dust_wood"
+  );
+  event.replaceOutput({}, "#forge:sawdust", "immersiveengineering:dust_wood");
+
+  let wood = [
+    "acacia",
+    "bamboo",
+    "birch",
+    "cherry",
+    "crimson",
+    "dark_oak",
+    "jungle",
+    "mangrove",
+    "oak",
+    "spruce",
+    "warped",
+  ];
+  wood.forEach((x) => {
+    event.remove({
+      id: `mekanism:sawing/hanging_sign/${x}`,
+    });
+    event.custom({
+      type: "mekanism:sawing",
+      input: {
+        ingredient: {
+          item: `minecraft:${x}_hanging_sign`,
+        },
+      },
+      mainOutput: {
+        count: 2,
+        item: `minecraft:${x}_planks`,
+      },
+      secondaryChance: 0.5,
+      secondaryOutput: {
+        item: "immersiveengineering:dust_wood",
+      },
+    });
+  });
+
+  wood.forEach((x) => {
+    event.remove({
+      id: `mekanism:sawing/pressure_plate/${x}`,
+    });
+    event.custom({
+      type: "mekanism:sawing",
+      input: {
+        ingredient: {
+          item: `minecraft:${x}_pressure_plate`,
+        },
+      },
+      mainOutput: {
+        count: 1,
+        item: `minecraft:${x}_planks`,
+      },
+      secondaryChance: 0.25,
+      secondaryOutput: {
+        item: "immersiveengineering:dust_wood",
+      },
+    });
+  });
+
+  wood.forEach((x) => {
+    event.remove({
+      id: `mekanism:sawing/log/${x}`,
+    });
+    event.custom({
+      type: "mekanism:sawing",
+      input: {
+        ingredient: {
+          tag: `minecraft:${x}_logs`,
+        },
+      },
+      mainOutput: {
+        count: 6,
+        item: `minecraft:${x}_planks`,
+      },
+      secondaryChance: 0.25,
+      secondaryOutput: {
+        item: "immersiveengineering:dust_wood",
+      },
+    });
+  });
+
+  wood.forEach((x) => {
+    event.remove({
+      id: `mekanism:sawing/log/${x}`,
+    });
+    event.custom({
+      type: "mekanism:sawing",
+      input: {
+        ingredient: {
+          tag: `minecraft:${x}_logs`,
+        },
+      },
+      mainOutput: {
+        count: 6,
+        item: `minecraft:${x}_planks`,
+      },
+      secondaryChance: 0.25,
+      secondaryOutput: {
+        item: "immersiveengineering:dust_wood",
+      },
+    });
+  });
+
+  event.remove({
+    id: `mekanism:sawing/sign`,
+  });
+  event.custom({
+    type: "mekanism:sawing",
+    input: {
+      ingredient: {
+        tag: `minecraft:signs`,
+      },
+    },
+    mainOutput: {
+      count: 3,
+      item: `minecraft:stick`,
+    },
+    secondaryChance: 0.25,
+    secondaryOutput: {
+      item: "immersiveengineering:dust_wood",
+    },
+  });
+
+  event.remove({
+    id: `mekanism:sawing/planks`,
+  });
+  event.custom({
+    type: "mekanism:sawing",
+    input: {
+      ingredient: {
+        tag: `minecraft:planks`,
+      },
+    },
+    mainOutput: {
+      count: 6,
+      item: `minecraft:stick`,
+    },
+    secondaryChance: 0.25,
+    secondaryOutput: {
+      item: "immersiveengineering:dust_wood",
+    },
+  });
+
+  event.remove({
+    id: `mekanism:sawing/stairs`,
+  });
+  event.custom({
+    type: "mekanism:sawing",
+    input: {
+      ingredient: {
+        tag: `minecraft:wooden_stairs`,
+      },
+    },
+    mainOutput: {
+      count: 9,
+      item: `minecraft:stick`,
+    },
+    secondaryChance: 0.38,
+    secondaryOutput: {
+      item: "immersiveengineering:dust_wood",
+    },
+  });
+
+  event.remove({
+    id: `mekanism:sawing/button`,
+  });
+  event.custom({
+    type: "mekanism:sawing",
+    input: {
+      ingredient: {
+        tag: `minecraft:wooden_button`,
+      },
+    },
+    mainOutput: {
+      count: 1,
+      item: `immersiveengineering:dust_wood`,
+    },
+    secondaryChance: 0.25,
+    secondaryOutput: {
+      item: "immersiveengineering:dust_wood",
+    },
+  });
+
+  event.remove({
+    id: `mekanism:sawing/slabs`,
+  });
+  event.custom({
+    type: "mekanism:sawing",
+    input: {
+      ingredient: {
+        tag: `minecraft:wooden_slabs`,
+      },
+    },
+    mainOutput: {
+      count: 3,
+      item: `minecraft:stick`,
+    },
+    secondaryChance: 0.13,
+    secondaryOutput: {
+      item: "immersiveengineering:dust_wood",
+    },
+  });
+
+  event.remove({
+    id: `mekanism:sawing/stick`,
+  });
+  event.custom({
+    type: "mekanism:sawing",
+    input: {
+      ingredient: {
+        tag: `forge:rods/wooden`,
+      },
+    },
+    mainOutput: {
+      count: 1,
+      item: `immersiveengineering:dust_wood`,
+    },
+  });
 });

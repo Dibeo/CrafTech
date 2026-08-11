@@ -16,12 +16,25 @@
 	#Disables small ore veins of a certain type
 	#Allowed Values: NONE, VANILLA, CUSTOM, MODDED, ALL, ALL_BUT_CUSTOM, ALL_BUT_VANILLA, ALL_BUT_MODDED
 	disabledVeins = "NONE"
+	#If enabled, all non-ore veins such as andesite, granite, diorite, dirt, etc. will also be affected by these settings
+	includeNonOreVeins = false
 
 [Indicators]
 	#Enables/disables all above-ground indicators
 	enabled = true
-	#If enabled and the dimension has a ceiling (e.g. the Nether), the indicators will only spawn on the top surface of the ceiling
+	#If the dimension has a ceiling, spawn indicators on it instead of the ground
 	alwaysOnCeiling = false
+	#Pebbles display ore composition of the underlying deposit via dynamic textures
+	showOreComposition = true
+	#Flowers to use as above-ground indicators
+	#Allowed Values: NONE, VANILLA, MODDED, ANY
+	spawnFlowers = "ANY"
+	#Where to spawn stone pebbles (requires Advanced Finders mod)
+	#Allowed Values: NOWHERE, ON_GROUND, UNDER_WATER, ANYWHERE
+	spawnPebbles = "UNDER_WATER"
+	#Where to spawn surface samples (requires Surface Samples mod)
+	#Allowed Values: NOWHERE, ON_GROUND, UNDER_WATER, ANYWHERE
+	spawnSurfaceSamples = "ANYWHERE"
 
 [Features]
 	#Disables generation of the listed features in the world
@@ -34,4 +47,8 @@
 [Stripper]
 	#Automatically dress previously stripped chunks before unloading them to prevent data loss
 	dressUnloadedChunks = true
+
+[Vanilla]
+	#Fixes ocean floor heightmap returning incorrect values in frozen biomes
+	fixOceanFloorHeightmap = true
 
